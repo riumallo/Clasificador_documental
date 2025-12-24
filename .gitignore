@@ -10,5 +10,6 @@ classified/liquidaciones/*.pdf
 *.json
 output/*.json
 output/json/*.json
+output/tesseract_json/*.json
 output/json_classified.txt
 

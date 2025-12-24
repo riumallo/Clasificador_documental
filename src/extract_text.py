@@ -1,4 +1,4 @@
-from src.config import HAS_GCP_CREDENTIALS, OCR_ENGINE, TESSERACT_LANG
+from src.config import HAS_GCP_CREDENTIALS, OCR_DPI, OCR_ENGINE, TESSERACT_LANG
 from src.pdf_utils import extract_embedded_text, pdf_pages_as_png_bytes
 
 
@@ -30,7 +30,7 @@ def _ocr_page(png_bytes: bytes) -> str:
     return _ocr_with_tesseract(png_bytes)
 
 
-def extract_text_from_pdf(pdf_path: str, dpi: int = 200) -> str:
+def extract_text_from_pdf(pdf_path: str, dpi: int = OCR_DPI) -> str:
     """
     1) If the PDF has embedded text, use it.
     2) Otherwise run OCR per page with the selected engine.

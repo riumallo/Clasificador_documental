@@ -33,7 +33,8 @@ def main():
     if not output_dir:
         raise RuntimeError("OUTPUT_DIR no definido")
 
-    json_dir = Path(output_dir) / "json"
+    json_dir_name = (os.getenv("JSON_DIR_NAME") or "json").strip() or "json"
+    json_dir = Path(output_dir) / json_dir_name
     if not json_dir.exists():
         print(f"No existe la carpeta de JSON: {json_dir.resolve()}")
         return
@@ -75,7 +76,8 @@ def main():
         summary_lines.append(f"{json_path.name}\t{result.label}\t{result.score:.2f}")
         print(f"[OK] {json_path.name} -> {result.label} (score={result.score:.2f})")
 
-    summary_path = Path(output_dir) / "json_classification.txt"
+    summary_name = (os.getenv("JSON_SUMMARY_NAME") or "json_classification.txt").strip() or "json_classification.txt"
+    summary_path = Path(output_dir) / summary_name
     summary_path.write_text("\n".join(summary_lines), encoding="utf-8")
     print(f"Resumen guardado en: {summary_path.resolve()}")
 

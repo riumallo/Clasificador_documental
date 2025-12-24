@@ -4,21 +4,28 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 
-from src.config import INPUT_DIR, OUTPUT_DIR
+from src.config import INPUT_DIR, OUTPUT_DIR, OCR_ENGINE
 from src.classifier_rules import classify_text_rules, KEYWORDS
 from src.extract_text import extract_text_from_pdf
 
-def ensure_dirs(base_out: str):
+def ensure_dirs(base_out: str, json_dir_name: str):
     labels = list(KEYWORDS.keys()) + ["Desconocido"]
     Path(base_out, "classified").mkdir(parents=True, exist_ok=True)
     for l in labels:
         Path(base_out, "classified", l).mkdir(parents=True, exist_ok=True)
-    Path(base_out, "json").mkdir(parents=True, exist_ok=True)
+    Path(base_out, json_dir_name).mkdir(parents=True, exist_ok=True)
+
+
+def get_json_dir_name() -> str:
+    if OCR_ENGINE == "tesseract":
+        return "tesseract_json"
+    return "json"
 
 def main():
     in_dir = Path(INPUT_DIR)
     out_dir = Path(OUTPUT_DIR)
-    ensure_dirs(str(out_dir))
+    json_dir_name = get_json_dir_name()
+    ensure_dirs(str(out_dir), json_dir_name)
 
     pdfs = list(in_dir.glob("*.pdf"))
     if not pdfs:
@@ -48,7 +55,7 @@ def main():
                 "evidence": result.evidence,
                 "processed_at": datetime.now().isoformat(timespec="seconds"),
             }
-            json_path = out_dir / "json" / f"{pdf.stem}.json"
+            json_path = out_dir / json_dir_name / f"{pdf.stem}.json"
             json_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
             # mover/copy
