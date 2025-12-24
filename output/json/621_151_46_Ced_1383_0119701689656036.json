@@ -2,11 +2,11 @@
   "file": "621_151_46_Ced_1383_0119701689656036.pdf",
   "text": "--- PAGE 1 ---\nCÉDULA DE\nIDENTIDAD\nEXTRANJE\n*\nREPÚBLICA DE CHILE\nSERVICIO DE REGISTRO CIVIL E IDENT ICACION\nAPELLIDOS\nEXINORD\nNOMBRES\nWISLER\nNACIONALIDAD\nHTI\nFECHA DE NACIMIENTO\n24 AGO 1992\nFECHA DE EMISION\nSEXO\nM\nNUMER DOCUMENTO\n601.51.473\nFECHA EVENCIMIENTO\n28 AGO 2018 23 AGO 2019\nFIRMA DEL TITULAR\nWister lexi lord\n28.438.868-8\nRUN 26.433.668-6\nVisa:\nTEMPORARIA\nProfesión: No informada\n10XJT-1F\nIECHL6015514736S29<<<<<<<<<<<<\n9208245M1908239HTI2633668<6<9\nEXINORD<<WISLER<<<<<<<<<<<<<<\ncorreo: Exinordkenn@gmail.com\ntelefono:\n: 946860378",
   "label": "Cedula_identidad",
-  "score": 0.3333333333333333,
+  "score": 0.2727272727272727,
   "evidence": [
     "\\brun\\b",
     "\\bregistro civil\\b"
   ],
   "processed_at": "2025-12-24T10:55:41",
-  "classified_at": "2025-12-24T11:59:42"
+  "classified_at": "2025-12-24T12:28:38"
 }

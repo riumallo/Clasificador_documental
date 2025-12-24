@@ -18,6 +18,7 @@ KEYWORDS = {
         r"\bcl[aá]usula\b",
     ],
     "Anexos": [
+        r"\banexo de contrato de trabajo\b",
         r"\banexo\b",
         r"\banexo de contrato\b",
         r"\bmodificaci[oó]n\b",
@@ -70,7 +71,33 @@ KEYWORDS = {
         r"\bliquidacion de sueldo\b",
     ],
 
+    "Prevencion_riesgos": [
+        r"\bprevencion de riesgos\b",
+        r"\briesgos laborales\b",
+        r"\bseguridad\b",
+        r"\bhigiene\b",
+        r"\bcomite paritario\b",
+        r"\bcharla\b",
+        r"\binduccion\b",
+        r"\bepp\b",
+        r"\baccidente\b",
+        r"\bprocedimiento\b",
+        r"\bseguridad y salud\b",
+    ],
+
 }
+
+WEIGHTS = {
+    "Anexos": {
+        r"\banexo de contrato de trabajo\b": 2.0,
+        r"\banexo de contrato\b": 1.5,
+    },
+    "Cedula_identidad": {
+        r"\brut\b": 0.2,
+        r"\brun\b": 0.2,
+    },
+}
+
 
 def normalize(text: str) -> str:
     text = text.lower()
@@ -89,10 +116,14 @@ def classify_text_rules(text: str, threshold: float = 0.12) -> ClassificationRes
 
     for label, patterns in KEYWORDS.items():
         matches = []
+        weights = WEIGHTS.get(label, {})
+        total_weight = 0.0
         for p in patterns:
+            w = float(weights.get(p, 1.0))
+            total_weight += w
             if re.search(p, t, flags=re.IGNORECASE):
                 matches.append(p)
-        score = len(matches) / max(1, len(patterns))
+        score = sum(float(weights.get(p, 1.0)) for p in matches) / max(1.0, total_weight)
 
         if score > best_score:
             best_score = score

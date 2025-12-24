@@ -7,3 +7,8 @@ classified/certificados/*.pdf
 classified/contratos/*.pdf
 classified/finiquitos/*.pdf
 classified/liquidaciones/*.pdf
+*.json
+output/*.json
+output/json/*.json
+
+

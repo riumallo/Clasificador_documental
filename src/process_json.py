@@ -5,11 +5,24 @@ from collections import Counter
 from datetime import datetime
 from pathlib import Path
 
-from dotenv import load_dotenv
-
 ROOT_DIR = Path(__file__).resolve().parents[1]
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
+
+try:
+    from dotenv import load_dotenv
+except ImportError:
+    def load_dotenv() -> None:
+        env_path = ROOT_DIR / ".env"
+        if not env_path.exists():
+            return
+        for line in env_path.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            value = value.strip().strip('"').strip("'")
+            os.environ.setdefault(key.strip(), value)
 
 from src.classifier_rules import classify_text_rules, KEYWORDS
 

@@ -1,12 +1,11 @@
 {
   "file": "623_151_46_Seg_1497_0119701689656746.pdf",
   "text": "--- PAGE 1 ---\nVIDA security\nComprobante de Seguro Obligatorio Covid-19\nN° 283221-26439776\nVida Security Compañía de Seguros S.A. RUT: 99.301.000-6\nContratante: CIMBRA INSTALACIONES SANITARIAS SPA, RUT 77093964-k\nAsegurado: Alan Espinoza Murrugarra, RUT 26439776-6\nEste comprobante acredita que la persona aqui individualizada está asegurada contra los riesgos\nde salud y fallecimiento de acuerdo con la Ley N° 21342 y a la póliza Seguro Individual obligatorio\nde salud asociado a COVID 19, incorporada en el Deposito de Pólizas de la CMF bajo el código\nPOL320210063.\nInicio vigencia del seguro: 2/07/2021\nTérmino vigencia del seguro: 1/07/2022\nLo saluda atentamente,\nHaribbe\nHernán Rios L\nGerente División Clientes y Operaciones\nVida Security\nVida Security está adherida al Código de Autorregulación de las Compañias de Seguros y ha\naceptado la intervención del Defensor del Asegurado cuando los clientes le presenten reclamos.\nMás información en web www.autorregulacion.cl y www.ddachile.cl\n\n--- PAGE 2 ---\nMinisterio de\nSalud\nGobierno de Chille\nPASE DIGITAL DE VACUNACIÓN DE CHILE\nChile's Digital Vaccination Pass\nCampaña SARS-CoV-2\nSOLO USO\nNACIONAL\nEscaneando este QR se verifica\nel estado del Pase de Movilidad\nApellidos / Last Name:\nESPINOZA MURRUGARRA\nNombres / First and Middle Name:\nALAN HEYSEN\nN° de Documento/Document ID:\nRUN 26.439.776-6\nFecha de Nacimiento / Date of Birth:\n18/11/1986\nEsquema: Sinovac\ndosis\nLaboratorio fabricante / M\nSINOVAC LIFE SCIENCE\nVacuna administrada / Vac\nCoronaVac\nLote o serie / Lot or series:\n2021061031\ndosis\nCOBELCAR\nLaboratorio fabricante / Manufa\nSINOVAC LIFE SCIENCE\nVacuna administrada/Vaccine\nCoronaVac\nLote o serie / Lot or series:\n202108152F\nwww.cobelcar.cl\nVA Cociones\nAlon Espinoza.\n19 dios. (Pendientes)\nFray Camilo Henríquez 889\nSantiago - Chile\nation date:\nFlorida, La\nde Santiago\ndate:\nrida, La\nantiago\nTel.: 56 2 2631 1300\nLocal: 56 2 2631 1320\n*Hospital Digit\n1/1",
-  "label": "Cedula_identidad",
-  "score": 0.3333333333333333,
+  "label": "Cartas",
+  "score": 0.25,
   "evidence": [
-    "\\brut\\b",
-    "\\brun\\b"
+    "\\batentamente\\b"
   ],
   "processed_at": "2025-12-24T11:00:11",
-  "classified_at": "2025-12-24T11:59:43"
+  "classified_at": "2025-12-24T12:28:39"
 }

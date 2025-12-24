@@ -1,12 +1,11 @@
 {
   "file": "611_151_46_Seg_1467_0119701689631842.pdf",
   "text": "--- PAGE 1 ---\nMinistero de\nSalut\nPASE DIGITAL DE VACUNACIÓN DE CHILE\nChile's Digital Vaccination Pass\nCampaña SARS-CoV-2\nSOLO USO\nNACIONAL\nEscaneando este QR se verifica\nel estado del Pase de Movilidad\nApellidos / Last Name:\nJEAN LOUIS\nNombres / First and Middle Name\nBENSON\nN° de Documento /Document ID:\nRUN 25.947.337-3\nFecha de Nacimiento./Date of Birth:\n12/03/1989\nEsquema: Sinovac\n1-dosis\nLaboratorio fabricante/Manufacturer:\nSINOVAC LIFE SCIENCE\nVacuna administrada / Vaccine product:\nCorona Vac\nLote o serie / Lot of Series!\n202108164K\nFecha de vacunación / Vaccination date!\n18 noviembre 2021\nVacunatorio /Vaccination center:\nCentro de Salud Familiar Dr. Gustavo\nMolina, Pudahuel Region Metropolitana\nde Santiago\ndosis\nLaboratorio fabricante / Manufacturer:\nSINOVAC LIFE SCIENCE\nVacuna administrada/Vaccine product:\nCorona Vac\nLoto o serie / Lot or series:\nC202108152\nFecha de vacunación/Vaccination date\n13 diciembre 2021\nVacunatorio /Vaccination center:\nCentro de Salud Familiar Dr. Gustavo\nMolina, Pudahuel Region Metropolitana\nde Santiago\n#Hospital Digitol\n1/1\n\n--- PAGE 2 ---\nSEGURO OBLIGATORIO COVID\nRut:\nASOCIACION DE\nASEGURADORES\nDE CHILE A.G.\nLa persona aquí individualizada está asegurada contra los riesgos de salud y\nfallecimiento por Covid 19, de acuerdo con lo establecido en la Ley N° 21342 con la\npóliza 283221-25947337 incorporada en el Depósito de Pólizas de la Comisión para\nel Mercado Financiero bajo el código POL: 320210063.\n25.947.337-3\nNombre:\nBENSON JEANLUIS\nCompañía Aseguradora:\nSEGUROS DE VIDA SECURITY PREVISION\nFecha inicio póliza:\n02-07-2021 00:00:00\nFecha término póliza:\n01-07-2022 00:00:00\nCódigo de consulta:\n4877715990000837\nFecha de consulta:\n03-01-2022 10:05:58",
-  "label": "Cedula_identidad",
-  "score": 0.3333333333333333,
+  "label": "comprobantes",
+  "score": 0.125,
   "evidence": [
-    "\\brut\\b",
-    "\\brun\\b"
+    "\\bseguro\\b"
   ],
   "processed_at": "2025-12-24T10:31:27",
-  "classified_at": "2025-12-24T11:59:40"
+  "classified_at": "2025-12-24T12:28:36"
 }

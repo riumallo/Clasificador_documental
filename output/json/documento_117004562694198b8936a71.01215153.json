@@ -1,11 +1,11 @@
 {
   "file": "documento_117004562694198b8936a71.01215153.pdf",
   "text": "PROTOCOLO MINSAL\nCódigo:\nCIMB-SSO-20\nFecha: 16-12-2025\nRevisión: 1\n Fecha\n 16-12-2025\n Capacitacion\nPROTOCOLO MINSAL\n Nombre Documento\n PROTOCOLO PSICOSOCIAL\nTemas tratados\n# Tema\nDescripción\n1. DIFUSION\nPROCEDNMIENTO EL\nCUAL INDICA ....\nVCVCVCVCVCVCV\nDatos del Relator\nNombre Relator\nRRHH\nCargo Relator\nFirma Relator\nDatos del Personal\nNombre Trabajador\nprueba 22\nRUT Trabajador\n11.700.456-2\nFirma Trabajador",
-  "label": "Cedula_identidad",
-  "score": 0.16666666666666666,
+  "label": "Contratos",
+  "score": 0.14285714285714285,
   "evidence": [
-    "\\brut\\b"
+    "\\btrabajador\\b"
   ],
   "processed_at": "2025-12-24T11:09:04",
-  "classified_at": "2025-12-24T11:59:44"
+  "classified_at": "2025-12-24T12:28:39"
 }
