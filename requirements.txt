@@ -1,0 +1,5 @@
+google-cloud-vision
+pymupdf
+python-dotenv
+pillow
+pytesseract

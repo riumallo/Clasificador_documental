@@ -1,14 +1,13 @@
 {
   "file": "612_151_46_Com_1529_0119701689646914.pdf",
   "text": "--- PAGE 1 ---\nDT\nDirección del\nTrabajo\nCódigo de verificación AVXYBBJEKJKQ\nCOMPROBANTE DE REGISTRO ELECTRÓNICO DE ANEXO DE\nCONTRATO DE TRABAJO\nConforme lo dispone el artículo 9 bis del Código del Trabajo, con fecha 30/06/2022 se\nha registrado en el sitio electrónico de la Dirección del Trabajo, el anexo de contrato\nindividual de trabajo suscrito entre el empleador CIMBRA INSTALACIONES SANITARIAS\nSPA, RUT.\ntrabajador/a Sr./Srta.\nRUT/DNI/PASAPORTE 25.963.622-1.\n77.093.964-K\ny\nel/la\nSERMY\nCHOISY,\nDIRECCION\nDE\nTRABAJO\nGOBIERNO DE CHILE\nPORTAL\nELECTRO\nDIRECCIÓN DEL TRABAJO\nLa información contenida en el formulario de registro de anexo de contrato de trabajo\nes de exclusiva responsabilidad del empleador. El empleador deberá mantener\ndisponibles los originales de contratos y/o anexos que hayan servido de base para este\nregistro, los que le podrán ser requeridos de manera digital o físicamente por\nfuncionarios de la Dirección del Trabajo.",
-  "label": "Contratos",
-  "score": 0.5714285714285714,
+  "label": "Anexos",
+  "score": 0.6923076923076923,
   "evidence": [
-    "\\bcontrato de trabajo\\b",
-    "\\bCONTRATO\\b",
-    "\\bempleador\\b",
-    "\\btrabajador\\b"
+    "\\banexo de contrato de trabajo\\b",
+    "\\banexo\\b",
+    "\\banexo de contrato\\b"
   ],
   "processed_at": "2025-12-24T10:33:20",
-  "classified_at": "2025-12-24T12:28:36"
+  "classified_at": "2025-12-24T12:37:12"
 }
