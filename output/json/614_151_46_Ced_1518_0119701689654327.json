@@ -1,0 +1,13 @@
+{
+  "file": "614_151_46_Ced_1518_0119701689654327.pdf",
+  "text": "--- PAGE 1 ---\nCEDULA DE\nIDENTIDAD\nEXTRANJERO\nREPUBLICA DE CHILE\nSERVICIO DE REGISTRO CIVIL & IDENTIFICACION\nAPELLIDOS\nALEXANDRE\nNOMBRES\nJOSY\nNACIONALIDAD\nHTI\nFECHA DE NACIMIENTO\n19 MAR 1979\nVECHA DE EMISION\n20 DIC 2019\nFIRMA DEL TITULAR\nSEXO\nM\nNUMERO DOCUMENTO\n602.252.209\nFECHA DE VENCIMIENTO\n04 DIC 2024\nPlexande Josy\nRUN 26.111.309-0\nVisa:\nPERMANENCIA DEFINITIVA\nProfesión: No informada\n276CH-BR\nIECHL6022522098S29<<<<<<<<<<<<\n7903199M2412045HTI26111309<0<8\nALEXANDRE<<JOSY<<<<<<<<<<<<<<<",
+  "label": "Cedula_identidad",
+  "score": 0.5,
+  "evidence": [
+    "\\bcedula de identidad\\b",
+    "\\brun\\b",
+    "\\bregistro civil\\b"
+  ],
+  "processed_at": "2025-12-24T10:37:58",
+  "classified_at": "2025-12-24T11:59:40"
+}

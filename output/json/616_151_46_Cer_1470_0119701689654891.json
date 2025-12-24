@@ -1,0 +1,12 @@
+{
+  "file": "616_151_46_Cer_1470_0119701689654891.pdf",
+  "text": "--- PAGE 1 ---\nJunta de Vecinos\nVilla Alianza Nº1\nUnidad Vecinal N° 29\nCERTIFICADO DE RESIDENCIA N° 061\nCertifico que el (la) Sr.(a) CovidiEU METHELUS\nRut. 26.195.444-3 domiciliado (a) en PSE Eción\nVilla Alianza 1, Cerro Navia.\nSe extiende el presente certificado para ser presentado en:\n-RAMites Laborales.\nN° 8486,\nRaúl Viveros Vargas\nPresidente\nCristina Saez\nTesorera\nFrancisco Valdenegro\nSecretario\nCerro Navia, o de Enero\n(Vigencia del Certificado: 30 días).\nde 2021\nJONTA F\nNOS\nFrancisco Valdenegro Uribe\n16.517.309-0\nTecnico Social",
+  "label": "Certificados",
+  "score": 0.2857142857142857,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertifico\\b"
+  ],
+  "processed_at": "2025-12-24T10:42:34",
+  "classified_at": "2025-12-24T11:59:41"
+}

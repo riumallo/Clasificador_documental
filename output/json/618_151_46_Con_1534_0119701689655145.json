@@ -1,0 +1,14 @@
+{
+  "file": "618_151_46_Con_1534_0119701689655145.pdf",
+  "text": "--- PAGE 1 ---\nIMBRA\nINSTALACIONES SANTUARIA SEA\nANEXO DE CONTRATO DE TRABAJO\nEn Santiago, al 19 de Julio de 2022, entre CIMBRA INSTALACIONES SANITARIAS SPA. Rol Unico\nTributario N°: 77093964-K. Representada por Don GERMAN ALEJANDRO GATICA TAGLE R.U.T\nN° 11.638.920-7 domiciliado en Av. Padre Alberto Hurtado N° 251 Comuna de Estación Central y\nDon AVRIL LEON, R.U.T: 26.252.359-4. se acuerda lo siguiente:\nPRIMERO.- A partir de esta fecha se modifica su contrato de trabajo, en lo relativo a sus funciones quedando del modo siguiente:\nSus funciones serán las de: MAESTRO GASFITER.\nSEGUNDO.- La duración de este contrato de trabajo será de PLAZO INDEFINIDO.\nTERCERO.- En lo demás rige plenamente el contrato suscrito con fecha 07 de Junio de 2022, y sus posteriores modificaciones a\nla fecha.\nCUARTO.- El presente anexo se firma en dos ejemplares quedando uno a disposición de cada una de las partes.\nUMBR\nIMBRA\nEMPLEADOR\nCIMBRA INSTALACIONES SANITARIAS SPA\nRUT\n77093964-K\nLeon And\nвера\nTRABAJADOR(A)\nAVRIL AVRIL LEON\nCEDULA DE IDENTIDAD\n26.252.359-4",
+  "label": "Contratos",
+  "score": 0.5714285714285714,
+  "evidence": [
+    "\\bcontrato de trabajo\\b",
+    "\\bCONTRATO\\b",
+    "\\bempleador\\b",
+    "\\btrabajador\\b"
+  ],
+  "processed_at": "2025-12-24T10:46:18",
+  "classified_at": "2025-12-24T11:59:41"
+}

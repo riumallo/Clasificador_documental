@@ -1,0 +1,13 @@
+{
+  "file": "625_151_46_Cer_1411_0119701689657152.pdf",
+  "text": "--- PAGE 1 ---\nSERVICIO DE REGISTRO\nCIVIL E IDENTIFICACIÓN\nNOMBRE:\nREPUBLICA DE CHILE\nCERTIFICADO DE ANTECEDENTES\nVálido para FINES PARTICULARES\nALIX INTELLUS\nFOLIO: 500434647597\nCódigo Verificación:\n02b213df47bb\n500434647597\nR.U.N.:\nRUN\n26.611.669-1 Fecha nacimiento: 15 Septiembre 1986\nREGISTRO GENERAL DE CONDENAS\nFINES\n26611669-1 SIN ANTECEDENTES PARTICULARES\nREGISTRO ESPECIAL DE CONDENAS POR ACTOS DE\nVIOLENCIA INTRAFAMILIAR\nRUN\nFINES\n26611669-1 SIN ANOTACIONES PARTICULARES\nFECHA EMISIÓN:\n20 Febrero 2022, 18:14.\nCertificado Gratuito\nCERTIFICADO ANTECEDENTES PARA FINES PARTICULARES\nImpreso en:\nREGION\nSmal\nVerifique documento en www.registrocivil.gob.cl o a nuestro Call Center 600 370 2000, para teléfonos fijos y\ncelulares. La próxima vez, obtén este certificado en www.registrocivil.gob.cl.\n:\nEIDENTYF\nYFICACION\nREGISTRO\nELVIA\nOficina Internet\nERVICIO DE\nCHILE\nVictor Rebolledo Salas\nJefe de Archivo General (s)\nIncorpora Firma Electrónica\nAvanzada\nTimbre electrónico SRCel\nwww.registrocivil.gob.cl",
+  "label": "Certificados",
+  "score": 0.42857142857142855,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertificado antecedentes\\b",
+    "\\bcertificado de antecedentes\\b"
+  ],
+  "processed_at": "2025-12-24T11:02:58",
+  "classified_at": "2025-12-24T11:59:43"
+}

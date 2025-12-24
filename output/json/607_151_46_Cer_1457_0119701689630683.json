@@ -1,0 +1,11 @@
+{
+  "file": "607_151_46_Cer_1457_0119701689630683.pdf",
+  "text": "--- PAGE 1 ---\nAFP\nPlanVital\nUna compañia GENERALI\nCERTIFICADO DE AFILIACIÓN\nSantiago, 02 de November del 2022\nFolio N. 6289-1245-4884-9612-5\nAFP PlanVital S.A., certifica que VENET JOSEPH, R.U.T. 25.593.013-3, ingresó al nuevo Sistema Previsional con\nfecha 01 de octubre del 2016 y se encuentra afiliado(a) a esta Administradora de Fondos de Pensiones, desde el día 01\nde octubre del 2016.\nSe extiende el presente Certificado a petición de la persona interesada, para los fines que estime conveniente.\nEste Certificado tiene una validez de 30 días a contar desde su fecha de emisión. La persona a la cual sea entregado,\npuede comprobar su validez ingresando a www.planvital.cl, sección Servicio al Cliente y opción \"Validador de\nCertificados\".\nAFP\nPlanVital\nUna compañia GENERALI",
+  "label": "Cartas",
+  "score": 0.25,
+  "evidence": [
+    "\\bpresente\\b"
+  ],
+  "processed_at": "2025-12-24T10:21:03",
+  "classified_at": "2025-12-24T11:59:39"
+}

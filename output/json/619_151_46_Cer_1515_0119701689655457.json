@@ -1,0 +1,12 @@
+{
+  "file": "619_151_46_Cer_1515_0119701689655457.pdf",
+  "text": "--- PAGE 1 ---\nQUILIAVE\nValor $\n28\nMunicipalidad\nCERTIFICADO DE RESIDENCIA N°\nJunta de vecinos San Ignacio de Loyola.\nde Quilicura Personalidad jurídica N°460 del 22/05/2001 de la Municipalidad de Quilicura.\nCertifico que el (la) Sr. (Stra./Srta.): Jean Villages Bazalar,\nRut 26293975-8 Actualmente reside en\nN°\nFor\nJesuits\n586 De la Vila San quocio de Tojola I\nComunica de Quilicura, Región Metropolitana.\nSe extiende el presente certificado para ser presentado en:_\nGravite\nEl presente certificado tendrá una duración de 30 días contados desde la fecha de emisión.\nQuilicura\n10 de abril\nMplssic\nPresidenta Junta de Vecinos\ndel\n2020\nPER ON DAD JURIDICA 460\nFUNDADO 22 MAYO DEL 2001\nJUNTA DE VECINOS\nSAN IGNACIO LOYOLA Nº 1\nQUILICURA\nSECRETARIA\nSan Ignacio\nde Loyola I\nSecretaria Junta de Vecinos",
+  "label": "Certificados",
+  "score": 0.2857142857142857,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertifico\\b"
+  ],
+  "processed_at": "2025-12-24T10:49:20",
+  "classified_at": "2025-12-24T11:59:42"
+}

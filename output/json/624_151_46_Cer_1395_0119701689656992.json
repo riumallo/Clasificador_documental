@@ -1,0 +1,11 @@
+{
+  "file": "624_151_46_Cer_1395_0119701689656992.pdf",
+  "text": "--- PAGE 1 ---\n1\nDÍA\nMES\nAÑO\nUnión Comunal\nDE\nDE\nJUNTAS DE VECINOS\nSANTIAGO\n23 02 2023\nCERTIFICADO DE RESIDENCIA\nNr 024997\nde la Comuna de Santiago certifica que:\n6\nUnidad Vecinal N°:\nAgrupación\nDon(ña):\n9\nJOSE GERSAIN GUASA\nCédula de Identidad No: 26465777-6 de ST60\nEXPOSICION\nN°\nen:\nCALLG\nCalle\nCOMUNA DE SANTIAGO\n1171\ntiene su domicilio\nPoblación\nSe extiende el presente Certificado a petición del interesado para ser presentado en:\nTRABAJO\nNo Carné de Socio:.\nVALOR: $ 1.000\nJUNTA DE VECINOS N° 6\n\"CAUPOLICAN\"\nNOVENA AGRUPACION\nPERS. JURD. TIJ.V. N° 60 Firma y timbre U.V.\nFUND. 01/11/69 STGO.\nValidamente Emitido por: Unión Comunal de J.V. Stgo.\nJulia CHUMPITAL\nNombre de la persona que entrega el certificado",
+  "label": "Cartas",
+  "score": 0.25,
+  "evidence": [
+    "\\bpresente\\b"
+  ],
+  "processed_at": "2025-12-24T11:00:31",
+  "classified_at": "2025-12-24T11:59:43"
+}

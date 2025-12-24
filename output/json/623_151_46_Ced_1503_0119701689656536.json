@@ -1,0 +1,11 @@
+{
+  "file": "623_151_46_Ced_1503_0119701689656536.pdf",
+  "text": "--- PAGE 1 ---\nEXTRANJERO\nC\nRUN 26.439.773\nESPINOZA\nMURRUGARRA\nALAN HEYSEN\nPER\n18 NOV 1986\nM\n602.847 989\n* OCT 2021\n20 JUL 2022\nCorreo: alanespinozam88@gmail.com\nTelf 963911256.",
+  "label": "Cedula_identidad",
+  "score": 0.16666666666666666,
+  "evidence": [
+    "\\brun\\b"
+  ],
+  "processed_at": "2025-12-24T10:58:20",
+  "classified_at": "2025-12-24T11:59:43"
+}

@@ -1,0 +1,12 @@
+{
+  "file": "619_151_46_Cer_1515_0119701689655449.pdf",
+  "text": "--- PAGE 1 ---\nValor $ 500\nCERTIFICADO DE RESIDENCIA Nº\nJunta de vecinos Edificio Los Santos.\nPersonalidad jurídica N2460 del 22//05/2001 de la Municipalidad de Santiago Centro.\nCertifico que el (la) Sr. (Sra/Srta): JEAN PIERRE VILLEGAS BAZALAR\nRut 26.293.975-8 Actualmente reside en SAN ANTONIO\nNo 630 De la Villa\nComuna de Santiago Centro, Región Metropolitana.\nSe extiende el presente certificado para ser presentado en:_\nTRAMITE\nEl presente certificado tendrá una duración de 30 días contados desde la fecha de emisión.\nSantiago Centro 17de SEPTIEMBRE del 2020\nPresidente Junta de Vecinos\nEdificio los Santos",
+  "label": "Certificados",
+  "score": 0.2857142857142857,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertifico\\b"
+  ],
+  "processed_at": "2025-12-24T10:49:14",
+  "classified_at": "2025-12-24T11:59:42"
+}

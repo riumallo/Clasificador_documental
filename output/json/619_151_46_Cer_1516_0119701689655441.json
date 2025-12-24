@@ -1,0 +1,13 @@
+{
+  "file": "619_151_46_Cer_1516_0119701689655441.pdf",
+  "text": "--- PAGE 1 ---\nL\nSERVICIO DE REGISTRO\nCIVIL E IDENTIFICACIÓN\nFOLIO: 500504286397\nCódigo Verificación:\n23618ae98255\nNOMBRE:\nR.U.N.:\nRUN\nREPUBLICA DE CHILE\nCERTIFICADO DE ANTECEDENTES\nVálido para FINES PARTICULARES\nJEAN PIERRE VILLEGAS BAZALAR\n26.293.975-8 Fecha nacimiento: 11 Abril 1995\nREGISTRO GENERAL DE CONDENAS\nFINES\n26293975-8 SIN ANTECEDENTES PARTICULARES\nREGISTRO ESPECIAL DE CONDENAS POR ACTOS DE\nVIOLENCIA INTRAFAMILIAR\nRUN\nFINES\n26293975-8 SIN ANOTACIONES PARTICULARES\n500504286397\nFECHA EMISIÓN:\n17 Abril 2023, 10:03.\nCertificado Gratuito\nCERTIFICADO ANTECEDENTES PARA FINES PARTICULARES\nImpreso en:\nREGION\n:\nVerifique documento en www.registrocivil.gob.cl o a nuestro Call Center 600 370 2000, para teléfonos fijos y\ncelulares. La próxima vez, obtén este certificado en www.registrocivil.gob.cl.\nTimbre electrónico SRCel\nTRO CIVE\nP\nOficina Internet\nwww.registrocivil.gob.cl\nCHILE\nQemal\nVictor Rebolledo Salas\nJefe de Archivo General\nIncorpora Firma Electrónica\nAvanzada",
+  "label": "Certificados",
+  "score": 0.42857142857142855,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertificado antecedentes\\b",
+    "\\bcertificado de antecedentes\\b"
+  ],
+  "processed_at": "2025-12-24T10:49:29",
+  "classified_at": "2025-12-24T11:59:42"
+}

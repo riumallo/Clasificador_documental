@@ -1,0 +1,12 @@
+{
+  "file": "605_151_46_Com_1508_0119701689630422.pdf",
+  "text": "--- PAGE 1 ---\nCODIGO\nNOMBRE\nINGRESO\nOBRA\nEDIF KTEDRAL\nANGULO PEREZ RICARDO JAVIER 19-02-2022\nDescanso efectivo entre las fechas que se indican\nTOTAL DIAS\nVALOR\nDESDE\nHASTA\n10-06-2022\n30-06-2022\nDETALLE DEL FERIADO\nDIAS\nDIAS HABILES\n15\nDOMINGO E INHABILES\n6\nSALDO PENDIENTE\n21\nCAIMBRA\nFIRMA TRABAJADOR\nJEFE DIRECTO JEFE PERSONAL\nVOB GERENCIA\n\n--- PAGE 2 ---\nIMBRA\nANEXO DE CONTRATO DE TRABAJO\nEn Santiago, al 01 de Enero 2023, entre CIMBRA INSTALACIONES SANITARIAS SPA. Rol Unico\nTributario N° 77093964-K. Representada por Don GERMAN ALEJANDRO GATICA TAGLE\nR.UT N° 11.638.920-7 domiciliado en Av. Padre Alberto Hurtado Nº 251 Comuna de Estación Central y\nDon ANGULO PEREZ RICARDO, R.U.T: 25297936-0, se acuerda lo siguiente:\nPRIMERO. A partir de esta fecha se modifica su contrato de trabajo, en lo relativo a sus funciones quedando del modo siguiente:\nSus funciones serán las de MAESTRO GASFITER\nSEGUNDO. El nuevo sueldo base del trabajador será $410.000.\nTERCERO. El presente anexo se firma en dos ejemplares quedando uno a disposición de cada una de las partes.\nEMPLENDORBRA\nCIMBRA INSTALACIONES SANITARIAS SPA\nINSTALACION RUT NITARIAS SPA\n7709396K\nTRABAJADOR(A)\nANGULO PEREZ RICARDO\nCEDULA DE IDENTIDAD\n25297936-0.",
+  "label": "Anexos",
+  "score": 0.5,
+  "evidence": [
+    "\\banexo\\b",
+    "\\banexo de contrato\\b"
+  ],
+  "processed_at": "2025-12-24T10:19:35",
+  "classified_at": "2025-12-24T11:59:39"
+}

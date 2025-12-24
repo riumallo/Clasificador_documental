@@ -1,0 +1,12 @@
+{
+  "file": "607_151_46_Ced_1458_0119701689630654.pdf",
+  "text": "--- PAGE 1 ---\nCÉDULA DE\nIDENTIDAD\nEXTRANJERO\nREPÚBLICA DE CHILE\nSERVICIO DE REGISTRO CIVIL E IDENTIFICACION\nAPELLIDOS\nJOSEPH\nNOMBRES\nVENET\nNACIONALIDAD\nHTI\nFECHA DE NACIMIENTO\n17 OCT 1989\nFECHA DE EMISIÓN\nSEXO\nM\nNUMERO DOCUMENTO\n601.803.322\nFECHA DE VENCIMIENTO\n08 FEB 2019 25 ENE 2024\nGRA DEL TITULAR\nJoseph Venet\nRUN 25.593.013-3\nVisa:\nPERMANENCIA DEFINITIVA\nProfesión: No informada\n1V2BE-7F\nIECHL6018033221 $37<<<<<<<<<<<<\n8910174M2401254HTI25593013<3<3\nJOSEPH<<VENET<<<<<\n<<<<<<<<\nTelf: 936977281\nCorreo: Nenet jose Phazo@gmail.com",
+  "label": "Cedula_identidad",
+  "score": 0.3333333333333333,
+  "evidence": [
+    "\\brun\\b",
+    "\\bregistro civil\\b"
+  ],
+  "processed_at": "2025-12-24T10:20:33",
+  "classified_at": "2025-12-24T11:59:39"
+}

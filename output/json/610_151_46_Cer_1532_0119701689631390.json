@@ -1,0 +1,11 @@
+{
+  "file": "610_151_46_Cer_1532_0119701689631390.pdf",
+  "text": "--- PAGE 1 ---\nAFP\nPlanVital\nUne companie GENERALI\nCERTIFICADO DE AFILIACIÓN\nSantiago, 06 de febrero del 2023\nFollo 9470-1918-4494-8910-6\nAFP PlanVital S.A., certifica que GARITHO ALTICA, R.U.T. 25.937.251-8, ingresó al nuevo Sistema Previsional con\nfecha 02 de enero del 2018 y se encuentra afiliado(a) a esta Administradora de Fondos de Pensiones, desde el día 02\nde enero del 2018.\nSe extiende el presente Certificado a petición de la persona interesada, para los fines que estime conveniente.\nEste Certificado tiene una validez de 30 días a contar desde su fecha de emisión. La persona a la cual sea entregado,\npuede comprobar su validez ingresando a www.planvital.cl, sección Servicio al Cliente y opción \"Validador de\nCertificados\".\nAFP\nPlanVital\nUna compañia GENERALI",
+  "label": "Cartas",
+  "score": 0.25,
+  "evidence": [
+    "\\bpresente\\b"
+  ],
+  "processed_at": "2025-12-24T10:27:17",
+  "classified_at": "2025-12-24T11:59:39"
+}

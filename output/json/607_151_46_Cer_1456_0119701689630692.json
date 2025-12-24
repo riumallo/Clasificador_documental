@@ -1,0 +1,13 @@
+{
+  "file": "607_151_46_Cer_1456_0119701689630692.pdf",
+  "text": "--- PAGE 1 ---\nSERVICIO DE REGISTRO\nCIVIL E IDENTIFICACIÓN\nFOLIO: 500475386912\nCódigo Verificación:\nfd3ab77adb82\nNOMBRE:\nR.U.N.:\nRUN\nREPUBLICA DE CHILE\nCERTIFICADO DE ANTECEDENTES\nVálido para FINES ESPECIALES\nVENET JOSEPH\n25.593.013-3 Fecha nacimiento: 17 Octubre 1989\nREGISTRO GENERAL DE CONDENAS\nFINES\n25593013-3 SIN ANTECEDENTESES\nESPECIALES\nREGISTRO ESPECIAL DE CONDENAS POR ACTOS DE\nRUN\nVIOLENCIA INTRAFAMILIAR\nFINES\n25593013-3 SIN ANOTACIONESESPEC\nDESPECIALES\n500475386912\nFECHA EMISIÓN:\n2 Noviembre 2022, 13:15.\nCertificado Gratuito\nCERTIFICADO ANTECEDENTES PARA FINES ESPECIALES\nImpreso en:\nREGION\n:\nVerifique documento en www.registrocivil.gob.cl o a nuestro Call Center 600 370 2000, para teléfonos fijos y\ncelulares. La próxima vez, obtén este certificado en www.registrocivil.gob.cl.\nTimbre electrónico SRCel\nCIVIL\nR\nIDENTIFICACION\nOficina Internet\nwww.registrocivil.gob.cl\nCHILE\nQual\nVictor Rebolledo Salas\nJefe de Archivo General\nIncorpora Firma Electrónica\nAvanzada",
+  "label": "Certificados",
+  "score": 0.42857142857142855,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertificado antecedentes\\b",
+    "\\bcertificado de antecedentes\\b"
+  ],
+  "processed_at": "2025-12-24T10:20:49",
+  "classified_at": "2025-12-24T11:59:39"
+}

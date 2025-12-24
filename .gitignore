@@ -1,0 +1,9 @@
+credentials/*.json
+*.pdf
+classified/*.pdf
+classified/anexos/*.pdf
+classified/cartas/*.pdf
+classified/certificados/*.pdf
+classified/contratos/*.pdf
+classified/finiquitos/*.pdf
+classified/liquidaciones/*.pdf

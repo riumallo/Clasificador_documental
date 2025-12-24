@@ -1,0 +1,13 @@
+{
+  "file": "626_151_46_Ced_1413_0119701689657355.pdf",
+  "text": "--- PAGE 1 ---\nCEDULA DE\nIDENTIDAD\nEXTRANJERO\nREPUBLICA DE CHILE\nSERVICIO DE REGISTRO CIVIL E IDENTIFICACION\nAPELLIDOS\nETIENNE\nNOMBRES\nJULIEN\nNACIONALIDAD\nHTI\nFECHA DE NACIMIENTO\nSEXO\nM\nNUMERO DOCUMENTO\n27 AGO 1985 601.779.652\nFECHA DE EMISION\nFECHA DE VENCIMIENTO\n17 ENE 2019 11 ENE 2020\nFIRMA DEL TITULAR\nJulien Etienne\nRUN 26.652.883-3\nBh\n\n--- PAGE 2 ---\nVisa:\nTEMPORARIA\nProfesión: No informada\nIECHL6017796521S16<<<<<<<\n8508270M2001115HTI2665288\nETIENNE<<JULIEN<<<<<<<<<<\n\n--- PAGE 3 ---\nNombre\nComprobante Solicitud de Cédula de Identidad Extranjeros\nJULIEN ETIENNE\nFecha de Nacimiento\nNro Atención 35511\nLugar de Nacimiento\n27/08/1985\nCAP-HAITIEN HTT\nSexo MASCULINO\nRUN 26 652 883-3\nProfesión\nOficina y fecha de atención\nSUBOFICINA ARAUCO MAIPU 23/06/2022\nFecha estimada de entrega\n20/07/2022\nen Oficina SUBOFICINA ARAUCO MAIPU\nValor: $4.270\nEmail JULIENETIENNE83@GMAIL.COM\nObservación USUARIO HABILITADO CON RESOLUCION EXENTA\nInformación importante\n1. Si usted vormo su correo electrónico, recibirá un mensaje indicando que su cédula está lista para ser strada Punds verificar\nel estado de la presente sobicitud en www strocivil da es calcents 600-370-2000\nuna nu\ndel so cante\n31\nsolicitada debe ser intrada a más tardar el dia 18/10/2022 De no hacer duda tend\npetición y pagar los derechos comespondientes. La fecha de entrega está sujeta a la verificación de identides\nAtos para el retiro de la cèdula de identidad son los siguientes\neste comprobants\no debe presentar este comprobante su cédula de identidad vigente y no bloqueada y poder oorpacke\nel oficial civil o nolano donde conate to autonzación para el retro\n3.3 Para los menores de 14 años de edad, debe retirar uno de los padres presentando este comprocante y su pedale de\ny no bloqueada. Si retira un tercero, debe presentar los documentos\nToda cula de idensidad anteriormente emitida quedarono vigente al momento de la\ndel nuevo document",
+  "label": "Cedula_identidad",
+  "score": 0.5,
+  "evidence": [
+    "\\bcedula de identidad\\b",
+    "\\brun\\b",
+    "\\bregistro civil\\b"
+  ],
+  "processed_at": "2025-12-24T11:08:00",
+  "classified_at": "2025-12-24T11:59:44"
+}

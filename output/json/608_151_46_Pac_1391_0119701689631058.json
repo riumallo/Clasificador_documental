@@ -1,0 +1,13 @@
+{
+  "file": "608_151_46_Pac_1391_0119701689631058.pdf",
+  "text": "--- PAGE 1 ---\nIMBRA\nINGENIERIA Y CONSTRUCCION\nANEXO ACUERDO SOBRETIEMPO\nEn Santiago a 23 de Agosto de 2021, entre la Empresa \"CIMBRA INSTALACIONES SANITARIAS SPA\",\nrepresentada por Don Germán Alejandro Gatica Tagle Rut. 11.638.920-7, y el trabajador Sr: JOCELYN\nJUSTILIEN, R.U.T. 25.615.433-1, Quien se desempeña en el cargo de AYUDANTE, en el Proyecto Edificio\nManuel Montt, ubicado en AVENIDA MANUEL MONTT 2630- Comuna de Ñuñoa - Ciudad Santiago, se ha\nacordado lo siguiente:\nPRIMERO:\nLas Partes acuerdan que el trabajador se comprometa a trabajar horas extraordinarias para atender,\na requerimientos del empleador, necesidades o situaciones temporales.\nSEGUNDO: Las partes acuerdan que el trabajador podrá realizar trabajo en horas extraordinarias, toda vez que\nhaya sido expresamente autorizado por el empleador y se pagaran conforme a la normativa legal sobre la materia.\nTERCERO:\nLas partes acuerdan que el presente acuerdo tendrá vigencia por 3 Meses o hasta el término del Hito\nseñalado en el Contrato Original, a contar del 23 AGOSTO 2021\nCUARTO: El presente acuerdo se firma en dos ejemplares del mismo tenor y letra, quedando uno en poder del\ntrabajador.\nEMPLEADOR\nCIMBRA INSTALACIONES SANITARIAS SPA.\nR.U.T: 77.093.964-K\nJocelyn Justilien\nTRABAJADOR\nJOCELYN JUSTILIEN\nRUT: 25.615.433-1,",
+  "label": "Contratos",
+  "score": 0.42857142857142855,
+  "evidence": [
+    "\\bCONTRATO\\b",
+    "\\bempleador\\b",
+    "\\btrabajador\\b"
+  ],
+  "processed_at": "2025-12-24T10:25:19",
+  "classified_at": "2025-12-24T11:59:39"
+}

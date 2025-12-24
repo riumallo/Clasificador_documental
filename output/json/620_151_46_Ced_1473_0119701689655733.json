@@ -1,0 +1,13 @@
+{
+  "file": "620_151_46_Ced_1473_0119701689655733.pdf",
+  "text": "--- PAGE 1 ---\nTelefono:\nCorreo:\nCEDULA DE\nIDENTIDAD\nEXTRANJERO\nREPÚBLICA DE CHILE\nSERVICIO DE REGISTRO CIVIL EIDENBRICACION\nAPELLIDOS\nSENAT\nRUN 26.310.265-7\nNOMBRES\nDUPERSON\nNACIONALIDAD\nHTI\nFECHA DE NACIMIENTO\nSEXO\nM\nNUMERO DOCUMENTO\n13 SEPT 1997 602.568.879\nFECHA DE VENCIMIENTO\nFECHA DE EMISION\n18 DIC 2020\n02 DIC 2025\nFENA DE TITULAR\nVisa:\nPERMANENCIA DEFINITIVA\nProfesión: No informada\n28IUI-SP\nIECHL6025688791$24<<<<<<<<<<<<\n9709133M2512026HTI26310265<7<8\nSENAT<<DUPERSON<<<<<<<<<<<<<<<",
+  "label": "Cedula_identidad",
+  "score": 0.5,
+  "evidence": [
+    "\\bcedula de identidad\\b",
+    "\\brun\\b",
+    "\\bregistro civil\\b"
+  ],
+  "processed_at": "2025-12-24T10:52:45",
+  "classified_at": "2025-12-24T11:59:42"
+}

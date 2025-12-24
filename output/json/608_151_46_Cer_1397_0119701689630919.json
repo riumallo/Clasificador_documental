@@ -1,0 +1,12 @@
+{
+  "file": "608_151_46_Cer_1397_0119701689630919.pdf",
+  "text": "--- PAGE 1 ---\nS SP\nSuperintendencia de\nPensiones\nCERTIFICADO DE AFILIACIÓN N° 210837236322\nCertifico que el señor(a) JOCELYN JUSTILIEN, RUT N° 25615433-1 se\nencuentra incorporado(a) a A.F.P. PLANVITAL, con fecha 16 de Agosto de 2016.\nLo anterior, de acuerdo con la información proporcionada a esta Superintendencia\npor las A.F.P., actualizada al último día hábil del mes de Octubre de 2022.\nSantiago, 05 de Diciembre de 2022\nOSVALDO MACIAS MUÑOZ\nSUPERINTENDENTE DE PENSIONES\n210837236322\nVerifique validez de este documento en http://www.spensiones.cl/apps/certificados/vCertificado.php",
+  "label": "Certificados",
+  "score": 0.2857142857142857,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertifico\\b"
+  ],
+  "processed_at": "2025-12-24T10:24:10",
+  "classified_at": "2025-12-24T11:59:39"
+}

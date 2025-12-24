@@ -1,0 +1,13 @@
+{
+  "file": "618_151_46_Cer_1531_0119701689655192.pdf",
+  "text": "--- PAGE 1 ---\nSERVICIO DE REGISTRO\nCIVIL E IDENTIFICACIÓN\nREPUBLICA DE CHILE\nCERTIFICADO DE ANTECEDENTES\nVálido para FINES PARTICULARES\nNOMBRE\n:\nLEON AVRIL\nR.U.N.:\n26.252.359-4\nFOLIO 500476030572\nCódigo Verificación:\n46ce7fc4247c\nFecha nacimiento: 16 Marzo 1983\nRUN\nREGISTRO GENERAL DE CONDENAS\nFINES\n26252359-4 SIN ANTECEDENTES PARTICULARES\nREGISTRO ESPECIAL DE CONDENAS POR ACTOS DE\nVIOLENCIA INTRAFAMILIAR\nRUN\nFINES\n26252359-4 SIN ANOTACIONES PA\nPARTICULARES\n500476030572\nFECHA EMISIÓN:\n7 Noviembre 2022, 10:12.\nCertificado Gratuito.\nCERTIFICADO ANTECEDENTES PARA FINES PARTICULARES\nImpreso en:\nREGION\nVerifique documento en www.registrocivil.gob.cl o a nuestro Call Center 600 370 2000, para teléfonos fijos y\ncelulares. La próxima vez, obtén este certificado en www.registrocivil.gob.cl.\nTimbre electrónico SRCel\n#IDE\nEGISTRO CIVE\nOficina Internet\n940\nwww.registrocivil.gob.cl\nIFICACION\nCHILE\nmel\nVictor Rebolledo Salas\nJefe de Archivo General\nIncorpora Firma Electrónica\nAvanzada",
+  "label": "Certificados",
+  "score": 0.42857142857142855,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertificado antecedentes\\b",
+    "\\bcertificado de antecedentes\\b"
+  ],
+  "processed_at": "2025-12-24T10:45:05",
+  "classified_at": "2025-12-24T11:59:41"
+}

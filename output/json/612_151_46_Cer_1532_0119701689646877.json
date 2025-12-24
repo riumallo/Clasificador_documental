@@ -1,0 +1,12 @@
+{
+  "file": "612_151_46_Cer_1532_0119701689646877.pdf",
+  "text": "--- PAGE 1 ---\nAFP\nPlanVital\nUna compañia GENERALI\nCERTIFICADO DE ANTECEDENTES PREVISIONALES\nSantiago, 01 de agosto del 2022\nFolio N. Folio 2219-6945-4344-2083-4\nNombre\nRut\nAntecedentes del Afiliado\nSERMY CHOISY\n25.963.622-1\nFecha de Nacimiento\n08/05/1983\nFecha ingreso al sistema\n01/12/2017\nFecha Afiliación\n01/12/2017\nObligatoria\nDomicilio\nla colonia 4724\nComuna\nESTACION CENTRAL\nCiudad\nSANTIAGO\nRegión\nREGION METROPOLITANA\nSALDOS Y COMPOSICIÓN DE CUENTA PERSONAL\nSaldos\nCuenta\nOrigen\nFecha Valor\nFondo\nValor Cuota\nCuota\nActual\nPesos\nCuotas\nUTM\nRETIRO10\n0\n0,00\n0,00\nNORMAL\n1.049.380\n20,70\n0,00\n50.694,68\n50.694,68\n28-07-2022\nB\n28-07-2022\nB\n1.049.380\nObligatoria\nTotal Cuentas\nAFP PlanVital S.A. certifica la información contenida en este documento, el cual se extiende a petición de la persona\ninteresada, para los fines que estime conveniente.\nEste Certificado tiene una validez de 30 días a contar desde su fecha de emisión. La persona a la cual sea entregado.\npuede comprobar su validez ingresando a www.planvital.cl, sección Servicio al Cliente y opción \"Validador de\nCertificados\".\nAFP\nPlanVital\nUna compañia GENERALI",
+  "label": "Certificados",
+  "score": 0.2857142857142857,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertificado de antecedentes\\b"
+  ],
+  "processed_at": "2025-12-24T10:33:06",
+  "classified_at": "2025-12-24T11:59:40"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "618_151_46_Com_1529_0119701689655208.pdf",
+  "text": "--- PAGE 1 ---\nDT\nDirección del\nTrabajo\nCódigo de verificación KBXLRKGRZRMX\nCOMPROBANTE DE REGISTRO ELECTRÓNICO DE CONTRATO DE\nTRABAJO\nConforme lo dispone el artículo 9 bis del Código del Trabajo, con fecha 07/06/2022 se\nha registrado en el sitio electrónico de la Dirección del Trabajo, el contrato individual\nde trabajo suscrito entre el empleador CIMBRA INSTALACIONES SANITARIAS SPA, RUT.\n77.093.964-K y el/la trabajador/a Sr./Srta. LEON AVRIL, RUT/DNI/PASAPORTE\n26.252.359-4.\nON DEL\nDIRECCIÓN D\nTRABAJO\n• GOBIERNO DE CHILE\nFORTAL ELECTRONIC\nDIRECCIÓN DEL TRABAJO\nLa información contenida en el formulario de registro de contrato de trabajo es de\nexclusiva responsabilidad del empleador. El empleador deberá mantener disponibles\nlos originales de contratos y/o anexos que hayan servido de base para este registro,\nlos que le podrán ser requeridos de manera digital o físicamente por parte de\nfuncionarios de la Dirección del Trabajo.",
+  "label": "Contratos",
+  "score": 0.5714285714285714,
+  "evidence": [
+    "\\bcontrato de trabajo\\b",
+    "\\bCONTRATO\\b",
+    "\\bempleador\\b",
+    "\\btrabajador\\b"
+  ],
+  "processed_at": "2025-12-24T10:45:17",
+  "classified_at": "2025-12-24T11:59:41"
+}

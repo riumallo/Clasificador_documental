@@ -1,0 +1,15 @@
+{
+  "file": "615_151_46_Ane_1498_0119701689654717.pdf",
+  "text": "--- PAGE 1 ---\nCIMBRA\nINGENIERIA Y CONSTRUCCION\nANEXO CONTRATO DE\nTRABAJO\nEn Santiago de Chile, a 04 Octubre del año 2021, entre la empresa CIMBRA INSTALACIONES\nSANITARIAS SPA, Rut 77093964-K, representada legalmente por don GERMAN ALEJANDRO\nGATICA TAGLE, RUT 11638920-7, ambos domiciliados en calle Padre Alberto Hurtado 251, comuna\nEstación Central y ciudad de Santiago, en adelante también denominado indistintamente el\n\"Empleador\", por una parte; y, por la otra parte, Don JIMENEZ CELIS EVELIN YULIMAR, cédula de\nidentidad 26192495-1, en adelante también denominado el \"Trabajador\", se han convenido las\nsiguientes modificaciones al contrato de trabajo existente:\nPRIMERO: El empleador declara que su Correo electrónico es: ejimenez@cimbra.cl; que su N°\nteléfono de contacto es: 222719462\nSEGUNDO: El trabajador declara que su Correo electrónico es: EVELINYJC934@GMAIL.COM; que\nsu No teléfono de contacto es: 944817597\nTERCERO: El trabajador señala, que la cuenta para realizar los depósitos o transferencias por\nconcepto de pago de remuneración será: Cuenta RUT N° 26192495 Banco ESTADO\nLas demás cláusulas contractuales continúan subsistentes íntegramente para ambas partes. El presente\nanexo de contrato se firma en dos ejemplares, declarando el trabajador, haber recibido un ejemplar fiel\nde él.\nEmpleador MBRA\nRut:77093964-KANITARIAS SPA.\nEreli\nTrabajador\nRut: 26192495-1",
+  "label": "Contratos",
+  "score": 0.7142857142857143,
+  "evidence": [
+    "\\bcontrato de trabajo\\b",
+    "\\bCONTRATO\\b",
+    "\\bempleador\\b",
+    "\\btrabajador\\b",
+    "\\bremuneraci[oó]n\\b"
+  ],
+  "processed_at": "2025-12-24T10:39:47",
+  "classified_at": "2025-12-24T11:59:41"
+}

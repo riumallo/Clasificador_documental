@@ -1,0 +1,14 @@
+{
+  "file": "611_151_46_Ane_1468_0119701689631759.pdf",
+  "text": "--- PAGE 1 ---\nCIMBRA\nINSTALACIONES SANITARIA SPA\nANEXO DE CONTRATO DE TRABAJO\nPedio de bu\nEn Santiago 01 Agosto 2022, entre CIMBRA INSTALACIONES SANITARIAS SPA. Rol Unico\nTributario N°: 77093964-K. Representada por Don GERMAN ALEJANDRO GATICA TAGLE\nR.U.T N° 11.638.920-7 domiciliado en Av. Padre Alberto Hurtado N° 251 Comuna de Estación Central y\nDon, BENSON BENSON JEAN LUIS, R.U.T: 25947337-3, se acuerda lo siguiente:\nPRIMERO. A partir de esta fecha se modifica su contrato de trabajo, en lo relativo a sus funciones quedando del modo siguiente:\nSus funciones serán las de: Maestro Gasfiter\nSEGUNDO. El nuevo sueldo base del trabajador será $400.000.\nTERCERO.- El presente anexo se firma en dos ejemplares quedando uno a disposición de cada una de las partes.\nJABRA\nEMPLEADOR\nCIMBRA INSTALACIONES SANITARIAS SPA\nRUT 77093964-K\nTRABAJADOR(A)\nBENSON BENSON JEAN LUIS\nRUT 25947337-3\n\n--- PAGE 2 ---\nCIMBRA\nINSTALACIONES SANITARIA SPA\nANEXO DE CONTRATO DE TRABAJO\nEn Santiago 01 Agosto 2022, entre CIMBRA INSTALACIONES SANITARIAS SPA. Rol Unico\nTributario N°: 77093964-K. Representada por Don GERMAN ALEJANDRO GATICA TAGLE\nR.U.T N° 11.638.920-7 domiciliado en Av. Padre Alberto Hurtado N° 251 Comuna de Estación Central y\nDon, BENSON BENSON JEAN LUIS, R.U.T: 25947337-3, se acuerda lo siguiente:\nPRIMERO. A partir de esta fecha se modifica su contrato de trabajo, en lo relativo a sus funciones quedando del modo siguiente:\nSus funciones serán las de: Maestro Gasfiter\nSEGUNDO. El nuevo sueldo base del trabajador será $400.000.\nTERCERO.- El presente anexo se firma en dos ejemplares quedando uno a disposición de cada una de las partes.\nEMPLEADOR\nCIMBRA INSTALACIONES SANITARIAS SPA\nRUT 77093964-K\nTRABAJADOR(A)\nBENSON BENSON JEAN LUIS\nRUT 25947337-3",
+  "label": "Contratos",
+  "score": 0.5714285714285714,
+  "evidence": [
+    "\\bcontrato de trabajo\\b",
+    "\\bCONTRATO\\b",
+    "\\bempleador\\b",
+    "\\btrabajador\\b"
+  ],
+  "processed_at": "2025-12-24T10:28:50",
+  "classified_at": "2025-12-24T11:59:40"
+}

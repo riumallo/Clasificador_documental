@@ -1,0 +1,13 @@
+{
+  "file": "610_151_46_Ced_1533_0119701689631369.pdf",
+  "text": "--- PAGE 1 ---\nCEDULA DE\nIDENTIDAD REPUBLICA DE CHILE\nEXTRANJERO\nALTICA\nMONINERS\nGARITHO\nRUN 25 937 258\nHT\nM\n08 JUL 1995 602.288.319\ne\n15 FNE 2020 27 DIC 2024\nA FREKAN\nVisa:\nPERMANENCIA DEFINITIVA\nProfesión: No informada\n2867Y BF\nIECHL6022883193538<<<<<<<<<<<<\n9507085M2412274HTI25937251<8<1\nALTICA<<GARITHO<<<<<<<<<<<<<<<\nTb: 9845433-34\nRUT=25937251-8\nAltica ganito a gmail.com",
+  "label": "Cedula_identidad",
+  "score": 0.5,
+  "evidence": [
+    "\\bcedula de identidad\\b",
+    "\\brut\\b",
+    "\\brun\\b"
+  ],
+  "processed_at": "2025-12-24T10:27:00",
+  "classified_at": "2025-12-24T11:59:39"
+}

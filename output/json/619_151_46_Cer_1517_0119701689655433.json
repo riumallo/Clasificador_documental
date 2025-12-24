@@ -1,0 +1,12 @@
+{
+  "file": "619_151_46_Cer_1517_0119701689655433.pdf",
+  "text": "--- PAGE 1 ---\n& SP\nSuperintendencia de\nPensiones\nCERTIFICADO DE AFILIACIÓN N° 210895311423\nCertifico que el señor(a) JEAN PIERRE VILLEGAS BAZALAR, RUT N° 26293975-\n8 se encuentra incorporado(a) a A.F.P. PLANVITAL, con fecha 1 de Julio de 2018.\nLo anterior, de acuerdo con la información proporcionada a esta Superintendencia\npor las A.F.P., actualizada al último día hábil del mes de Febrero de 2023.\nSantiago, 17 de Abril de 2023\nOSVALDO MACIAS MUÑOZ\nSUPERINTENDENTE DE PENSIONES\n210895311423\nVerifique validez de este documento en http://www.spensiones.cl/apps/certificados/vCertificado.php",
+  "label": "Certificados",
+  "score": 0.2857142857142857,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertifico\\b"
+  ],
+  "processed_at": "2025-12-24T10:49:45",
+  "classified_at": "2025-12-24T11:59:42"
+}
