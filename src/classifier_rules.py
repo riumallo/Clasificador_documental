@@ -22,7 +22,6 @@ KEYWORDS = {
         r"\banexo\b",
         r"\banexo de contrato\b",
         r"\bmodificaci[oó]n\b",
-        r"\bse deja constancia\b",
     ],
     "Certificados": [
         r"\bcertificado\b",
@@ -56,7 +55,9 @@ KEYWORDS = {
     ],
     "comprobantes": [
         r"\bcomprobante\b",
+        r"\bse deja constancia\b",
         r"\bseguro\b",
+        r"\bseguro obligatorio\b",
         r"\bboleta\b",
         r"\bfactura\b",
         r"\brecibo\b",
@@ -110,6 +111,12 @@ def classify_text_rules(text: str, threshold: float = 0.12) -> ClassificationRes
     threshold: mínimo para no quedar en Desconocido
     """
     t = normalize(text)
+    comprobante_overrides = [
+        r"\bcomprobante de registro\b",
+    ]
+    for p in comprobante_overrides:
+        if re.search(p, t, flags=re.IGNORECASE):
+            return ClassificationResult("comprobantes", 1.0, [p])
     best_label = "Desconocido"
     best_score = 0.0
     best_evidence = []
