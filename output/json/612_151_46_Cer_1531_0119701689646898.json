@@ -1,0 +1,13 @@
+{
+  "file": "612_151_46_Cer_1531_0119701689646898.pdf",
+  "text": "--- PAGE 1 ---\nSERVICIO DE REGISTRO\nCIVIL E IDENTIFICACIÓN\nREPUBLICA DE CHILE\nCERTIFICADO DE ANTECEDENTES\nVálido para FINES ESPECIALES\nNOMBRE :\nSERMY CHOISY\nFOLIO: 500485176346\nCódigo Verificación:\nda5d31e90d2d\nR.U.N. :\nRUN\n25.963.622-1 Fecha nacimiento: 8 Mayo 1983\nREGISTRO GENERAL DE CONDENAS\nFINES\n25963622-1 SIN ANTECEDENTESESPECIALES\nREGISTRO ESPECIAL DE CONDENAS POR ACTOS DE\nRUN\nVIOLENCIA INTRAFAMILIAR\nFINES\n25963622-1 SIN ANOTACIONES ESPECIALES\n500485176346\nFECHA EMISIÓN:\n1 Enero 2023, 15:15.\nCertificado Gratuito\nCERTIFICADO ANTECEDENTES PARA FINES ESPECIALES\nImpreso en:\nREGION\nVerifique documento en www.registrocivil gob.cl o a nuestro Call Center 600 370 2000, para teléfonos fijos y\ncelulares. La próxima vez, obtén este certificado en www.registrocivil.gob.cl.\nTimbre electrónico SRCel\nFIDENTY\nYFICACION\nREGISTRO CIVIL E\nOficina Internet\nwww.registrocivil.gob.cl\nCHILE\nQual\nVictor Rebolledo Salas\nJefe de Archivo General\nIncorpora Firma Electrónica\nAvanzada",
+  "label": "Certificados",
+  "score": 0.38461538461538464,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertificado antecedentes\\b",
+    "\\bcertificado de antecedentes\\b"
+  ],
+  "processed_at": "2025-12-24T17:19:53",
+  "classified_at": "2025-12-26T17:28:45"
+}

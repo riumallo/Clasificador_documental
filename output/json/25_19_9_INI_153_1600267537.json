@@ -1,0 +1,11 @@
+{
+  "file": "25_19_9_INI_153_1600267537.pdf",
+  "text": "DECLARACIÓN JURADA INICIO DE ACTIVIDADES\nFolio N° 13884880451\nEl Servicio de Impuestos Internos con fecha 02-02-2018 11:06:31, certifica que ha recibido y efectuado el trámite de Inicio de\nActividades.\nInformación General\nContribuyente\n: 76.826.236-5 TABIQUES ESCOBAR SPA\nSubTipo\n: SOCIEDAD POR ACCIONES\nFecha inicio actividades : 02-02-2018\nActividad a realizar\n: OBRAS MENORES DE CONSTRUCCION\nResultado Clasificación\nCategoría Tributaria\nAfecto a IVA\nSegmento\nPRIMERA\nSI\nMICRO EMPRESA\nActividades Económicas\nCódigo\nDescripción\nCategoría\nAfecto\nTítulo\n454000\nOBRAS MENORES EN CONSTRUCCION (CONTRATISTAS ALBANILES\nCARPINTEROS)\nPRIMERA\nSI\nNO\nInformación de Representantes\nForma Actuación: CUALQUIERA\n7538178-6 JUAN BAUTISTA ESCOBAR MUNOZ, F. incorporación: 23-01-2018\nInformación del Capital\nCapital Enterado: (M$)1.500, Capital por Enterar: (M$)0, Fecha Capital por Enterar:, Total Capital: (M$)1.500\nInformación de los Socios\nRUT\nNombre o Razón Social\n% Capital\n% Utilidades\nF. Incorpor.\n7538178-6\nJUAN BAUTISTA ESCOBAR MUNOZ\n100,000\n100,000\n23-01-2018\nTotales\n100,000\n100,000\nDomicilio\nPrincipal: Calle:CALLE DOS Nro:669 Comuna:PUENTE ALTO Ciudad:PUENTE ALTO Teléfono Móvil:954261063 Correo\nElectrónico:CONTABILIDAD@HOMEPYMES.CL Rut Propietario:7538178-6 Calidad Ocupac.:PROPIETARIO\nUrbano : Calle:CALLE DOS Nro:669 Comuna:PUENTE ALTO Ciudad:SANTIAGO\nDeclaro que la información indicada en esta declaración, es expresión fiel a la verdad, por lo que asumo la responsabilidad\ncorrespondiente.",
+  "label": "Certificados",
+  "score": 0.19230769230769232,
+  "evidence": [
+    "\\bcertifica\\b"
+  ],
+  "processed_at": "2025-12-24T16:28:39",
+  "classified_at": "2025-12-26T17:28:45"
+}

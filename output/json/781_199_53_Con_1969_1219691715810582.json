@@ -1,0 +1,14 @@
+{
+  "file": "781_199_53_Con_1969_1219691715810582.pdf",
+  "text": "--- PAGE 1 ---\nHOMEPYMES\nASESORÍA INTEGRAL A PYMES\nANEXO DE CONTRATO DE TRABAJO\nEn Santiago, a 31 de Agosto del 2023 entre \"HOMEPYMES ASESORIAS INTEGRALES\", Rut 76.580.031-5,\nrepresentado(a) legalmente por Don(a) FELIPE ANDRÉS ÁLVAREZ SÁNCHEZ, cédula de identidad 18.707.734-\n6, ambos con domicilio en AV. GRECIA #1938 ÑUÑOA, SANTIAGO, correo electrónico falvarez@grupohb.cl\nen adelante \"Empleador\" y Don(a) CAROLINA DE LOS ANGELES TRAMOLAO PAINEQUIR cédula de identidad\n19.061.628-2, de nacionalidad CHILENA, nacido(a) el 15 DE MARZO DE 1995, domiciliado en CALLE MARIO\nRECORDON #1003, comuna MAIPÚ, SANTIAGO, correo electrónico tramolao.c@gmail.com contacto\ntelefónico +56 9 7603 7219 en adelante \"Trabajador\". Se ha convenido la siguiente modificación del\nContrato individual de Trabajo suscrito con fecha: 01 de agosto 2022 Clausula SÉPTIMA.\nSÉPTIMO: A contar del día 01 de Septiembre 2023, este contrato se prorroga a indefinido.\nEn todo lo demás se mantiene vigente el contrato de trabajo celebrado entre las partes.\nPrevia lectura y acuerdo firman las partes dos copias correspondientes, quedando una en poder del\ntrabajador y otra en la Empresa.\nS\nFIRMA EMPLEADOR\nRUT 76.580.081-5\nWalt\nFIRMA TRABAJADOR\nRUT 19.061.628-2",
+  "label": "Anexos",
+  "score": 1.0,
+  "evidence": [
+    "\\banexo de contrato de trabajo\\b",
+    "\\banexo\\b",
+    "\\banexo de contrato\\b",
+    "\\bmodificaci[oó]n\\b"
+  ],
+  "processed_at": "2025-12-24T18:29:07",
+  "classified_at": "2025-12-26T17:28:45"
+}

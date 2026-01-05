@@ -1,0 +1,17 @@
+{
+  "file": "31_20_9_REC_139_1600030638.pdf",
+  "text": "--- PAGE 1 ---\nTrabajador:\nENTREGA Y CARGO DE ELEMENTOS DE PROTECCIÓN PERSONAL\nхоча\nHector July Martillo xx00\nRUT: 5.542.8941-8\nN° CANTIDAD ELEMENTO DE SEGURIDAD\n1\n01\nCASCO DE SEGURIDAD\n2\n01\n3\n01\nLENTES DE SEGURIDAD\nZAPATOS DE SEGURIDAD\n4\n01\nGUANTES DE SEGURIDAD\n5\n01\nCO\n6\n01\n7\n01\n8\n00\n01\nCOIPA\nOVEROL\nARNES DE SEGURIDAD CON\nDOBLE CABO DE VIDA\nRESPIRADOR DOBLE VIA\n9\n01\nTAPON AUDITIVO\n10\nFecha de entrega\n10/12/2019\n10/12/2019\n10/12/2019\n10/12/2019-\n10/12/2019\n10/12/2019.\nCargo:.....\nFecha:...\nAhindlero\n10/12/2019\nEl\nObra: cuador\nFecha de devolución\nFirma\n11\n12\n13\nCompromiso: Me comprometo a usar, cuidar y mantener en buen estado el equipo de protección personal.\nCualquier perdida o imprevisto no justificado lo comunicare en forma inmediata de acuerdo a los procedimientos establecidos\ny autorizo que se me descuenten de mi remuneración.\nПрое\nTRABAJADOR\nTABIQUES ESCOBAR SpA\nRUT 7628.236-5",
+  "label": "Prevencion_riesgos",
+  "score": 0.30434782608695654,
+  "evidence": [
+    "\\belementos de protecci[oó]n\\b",
+    "\\bentrega y cargo de elemento(?:s)?\\b",
+    "\\beleme{1,2}ntos? de seguridad\\b",
+    "\\bcasco\\b",
+    "\\bzapatos\\b",
+    "\\bguantes\\b",
+    "\\bseguridad\\b"
+  ],
+  "processed_at": "2025-12-24T16:31:18",
+  "classified_at": "2025-12-26T17:28:45"
+}

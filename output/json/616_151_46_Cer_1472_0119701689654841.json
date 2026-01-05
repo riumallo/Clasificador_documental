@@ -1,0 +1,12 @@
+{
+  "file": "616_151_46_Cer_1472_0119701689654841.pdf",
+  "text": "--- PAGE 1 ---\nGoblemo\nde Chile\nCERTIFICADO\nFonasa\nEI FONDO NACIONAL DE SALUD certifica que, de acuerdo a sus registros, Don(a) LOUIDIEU METHELUS, RUN\n26195444-3, figura como afiliado (o beneficiario) del FONDO NACIONAL DE SALUD, encontrándose clasificado en el\nGrupo C, a que se refiere el artículo 160 D.F.L N° 01 del 2005, con certificación vigente.\nSe extiende el presente certificado a petición del interesado, para los fines relacionados al área de salud.\nis\n·Fonasa.\nCamilo Cid Pedraza\nDirector\nFondo Nacional de Salud\nQueremos que esté más informado.\nLlámenos al 600 360 3000\nVisítenos en www.fonasa.cl\nEste certificado tiene validez de 60 dias, después de su emisión.\nFecha Emisión:\nCódigo de Verificación:\n02/09/2022\n3262187771",
+  "label": "Certificados",
+  "score": 0.4230769230769231,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertifica\\b"
+  ],
+  "processed_at": "2025-12-24T17:37:44",
+  "classified_at": "2025-12-26T17:28:45"
+}

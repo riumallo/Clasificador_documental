@@ -22,15 +22,20 @@ KEYWORDS = {
         r"\banexo\b",
         r"\banexo de contrato\b",
         r"\bmodificaci[oó]n\b",
+        r"\bmodificacion contrado\b",
     ],
     "Certificados": [
         r"\bcertificado\b",
+        r"\bcertifica\b",
         r"\bcertifico\b",
         r"\bse certifica\b",
         r"\bconstancia\b",
         r"\bcertificado antecedentes\b",
         r"\bcertificado de antecedentes\b",
         r"\bComprobante de Seguro Obligatorio\b",
+        r"\binforme empresarial\b",
+        r"\binforme comercial\b",
+        r"\bequifax\b",
     ],
     "Cartas": [
         r"\bseñor\(a\)\b",
@@ -73,7 +78,19 @@ KEYWORDS = {
     ],
 
     "Prevencion_riesgos": [
-        r"\bprevencion de riesgos\b",
+        r"\bprevencion de riesgos\b", 
+        r"\belementos de protecci[oó]n\b",
+        r"\bentrega y cargo de elemento(?:s)?\b",
+        r"\bproy?teccion personal\b",
+        r"\beleme{1,2}ntos? de seguridad\b",
+        r"\bcasco\b",
+        r"\bzapatos\b",
+        r"\bguantes\b",
+        r"\bacus[eo] (?:de|del) entrega (?:reglamento|relgamento)\b",
+        r"\bregistro de entrega y recepci[oó]n\b",
+        r"\breglamento interno de orden,? higiene y seguridad\b",
+        r"\bley n[°o]\s*16\.744\b",
+        r"\bc[oó]digo del trabajo\b",
         r"\briesgos laborales\b",
         r"\bseguridad\b",
         r"\bhigiene\b",
@@ -92,10 +109,22 @@ WEIGHTS = {
     "Anexos": {
         r"\banexo de contrato de trabajo\b": 2.0,
         r"\banexo de contrato\b": 1.5,
+        r"\bmodificaci[oИ]n\b": 0.2,
+    },
+    "Cartas": {
+        r"\bpresente\b": 0.2,
     },
     "Cedula_identidad": {
         r"\brut\b": 0.2,
         r"\brun\b": 0.2,
+    },
+    "Certificados": {
+        r"\bcertificado\b": 3.0,
+        r"\bcertifica\b": 2.5,
+        r"\bse certifica\b": 2.5,
+        r"\binforme empresarial\b": 2.0,
+        r"\binforme comercial\b": 2.0,
+        r"\bequifax\b": 2.0,
     },
 }
 

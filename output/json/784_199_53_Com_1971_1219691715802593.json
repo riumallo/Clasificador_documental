@@ -1,0 +1,11 @@
+{
+  "file": "784_199_53_Com_1971_1219691715802593.pdf",
+  "text": "Código de verificación PAXMMMDRPDJX\nCOMPROBANTE DE REGISTRO ELECTRÓNICO DE ANEXO DE\nCONTRATO DE TRABAJO\nConforme lo dispone el artículo 9 bis del Código del Trabajo, con fecha 08/07/2022 se\nha registrado en el sitio electrónico de la Dirección del Trabajo, el anexo de contrato\nindividual de trabajo suscrito entre el empleador HOMEPYMES ASESORÍAS INTEGRALES\nSPA, RUT. 76.580.031-5 y el/la trabajador/a Sr./Srta. ANGELA ODETTE QUIÑELEN\nLOPEZ, RUT/DNI/PASAPORTE 19.439.784-4.\nDIRECCIÓN DEL TRABAJO\nLa información contenida en el formulario de registro de anexo de contrato de trabajo\nes de exclusiva responsabilidad del empleador. El empleador deberá mantener\ndisponibles los originales de contratos y/o anexos que hayan servido de base para este\nregistro, los que le podrán ser requeridos de manera digital o físicamente por\nfuncionarios de la Dirección del Trabajo.",
+  "label": "comprobantes",
+  "score": 1.0,
+  "evidence": [
+    "\\bcomprobante de registro\\b"
+  ],
+  "processed_at": "2025-12-24T18:29:15",
+  "classified_at": "2025-12-26T17:28:45"
+}

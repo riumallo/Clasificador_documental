@@ -47,6 +47,7 @@ def main():
     labels = list(KEYWORDS.keys()) + ["Desconocido"]
     counts = Counter()
     summary_lines = []
+    summary_by_label = {label: [] for label in labels}
 
     print(f"Procesando {len(json_files)} JSONs desde {json_dir.resolve()}")
 
@@ -73,13 +74,24 @@ def main():
         )
 
         counts[result.label] += 1
-        summary_lines.append(f"{json_path.name}\t{result.label}\t{result.score:.2f}")
+        line = f"{json_path.name}\t{result.label}\t{result.score:.2f}"
+        summary_lines.append(line)
+        if result.label not in summary_by_label:
+            summary_by_label[result.label] = []
+        summary_by_label[result.label].append(line)
         print(f"[OK] {json_path.name} -> {result.label} (score={result.score:.2f})")
 
     summary_name = (os.getenv("JSON_SUMMARY_NAME") or "json_classification.txt").strip() or "json_classification.txt"
     summary_path = Path(output_dir) / summary_name
     summary_path.write_text("\n".join(summary_lines), encoding="utf-8")
     print(f"Resumen guardado en: {summary_path.resolve()}")
+
+    for label, lines in summary_by_label.items():
+        safe_label = label.replace(" ", "_")
+        per_label_name = f"json_classification_{safe_label}.txt"
+        per_label_path = Path(output_dir) / per_label_name
+        per_label_path.write_text("\n".join(lines), encoding="utf-8")
+        print(f"Resumen {label} guardado en: {per_label_path.resolve()}")
 
     print("Totales por clasificacion:")
     for label in labels:

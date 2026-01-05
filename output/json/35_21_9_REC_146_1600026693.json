@@ -1,0 +1,17 @@
+{
+  "file": "35_21_9_REC_146_1600026693.pdf",
+  "text": "--- PAGE 1 ---\nENTREGA Y CARGO DE ELEMENTOS DE PROTECCIÓN PERSONAL\nlier Delao Vazques\nfevier\nTrabajador: Felluno levier De\nRUT 17.20.659-3\nN° CANTIDAD\nELEMENTOS DE\nPROTECCION PERSONAL\n01\nCASCO DE SEGURIDAD\n12\n10\n2\n01\n01\n4\n01\n3\n5\n01\n6\n01\n67\nB\n9\n66\n01\n10\n01\n10\n01\nLENTES DE SEGURIDAD\nZAPATOS DE\nSEGURIDAD\nGUANTES DE\nSEGURIDAD\nLEGIONARIO\nOVEROL\nARNES DE SEGURIDAD\nCON DOBLE CABO DE\nVIDA\nRESPIRADOR DOBLE\nFILTRO\nTAPON AUDITIVO\nFECHA DE ENTREGA\n18/03/2000\n18/02/020\n118/03/2020\n1/8/63/2020\n18/00/200\n18/03/200\nCargo: Fasiguro\nFecha: 18/63/2020\nFECHA DE\nDEVOLUCIÓN\nFIRMA\n10\n10\n11\n14\n22\n12\nCompromiso: Me comprometo a usar, cuidar y mantener en buen estado el equipo de protección personal.\nCualquier perdida o imprevisto no justificado lo comunicare en forma inmediata de acuerdo a los procedimientos\nestablecidos y autorizo que se me descuenten de mi remuneración.\n13\nOBRA\nTRABAJADOR\nMILO HAMANI R.\nEpro Ob\nConstructora ISA\nTABIQUES ESCOBAR SpA\nRUT 76.826.236-5\nScanned with CamScanner",
+  "label": "Prevencion_riesgos",
+  "score": 0.30434782608695654,
+  "evidence": [
+    "\\belementos de protecci[oó]n\\b",
+    "\\bentrega y cargo de elemento(?:s)?\\b",
+    "\\bproy?teccion personal\\b",
+    "\\bcasco\\b",
+    "\\bzapatos\\b",
+    "\\bguantes\\b",
+    "\\bseguridad\\b"
+  ],
+  "processed_at": "2025-12-24T16:46:10",
+  "classified_at": "2025-12-26T17:28:45"
+}

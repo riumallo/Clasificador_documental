@@ -1,0 +1,12 @@
+{
+  "file": "785_199_53_Seg_1981_1219691715808520.pdf",
+  "text": "SEGURO OBLIGATORIO COVID\nLa persona aquí individualizada está asegurada contra los riesgos de salud y \nfallecimiento por Covid 19, de acuerdo con lo establecido en la Ley N° 21342 con la \npóliza 191051 incorporada en el Depósito de Pólizas de la Comisión para el Mercado \nFinanciero bajo el código POL: 320210063.\n  Rut:\n19.870.539-K\n  Nombre:\nJARA INOSTROZA VALENTINA JAVIERA                  \n  Compañía Aseguradora:\nBICE VIDA COMPAÑIA DE SEGUROS S.A. \n  Fecha inicio póliza:\n30-11-2021 00:00:00\nFecha término póliza:\n30-11-2022 00:00:00\n  Código de consulta:\n4230359990008439\nFecha de consulta:\n02-12-2022 11:27:04",
+  "label": "comprobantes",
+  "score": 0.2,
+  "evidence": [
+    "\\bseguro\\b",
+    "\\bseguro obligatorio\\b"
+  ],
+  "processed_at": "2025-12-24T18:34:34",
+  "classified_at": "2025-12-26T17:28:46"
+}

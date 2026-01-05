@@ -1,0 +1,12 @@
+{
+  "file": "623_151_46_Com_1493_0119701689656771.pdf",
+  "text": "--- PAGE 1 ---\nCOMPROBANTE DE FERIADO PROPORCIONAL\nEn cumplimiento de las disposiciones legales vigentes, se deja constancia que a contar de las\nfechas que se indican, el trabajador hara uso de su feriado legal anual con remuneraciones\nintegra de acuerdo al siguiente detalle:\nA CUENTA PERIODO: 2021-2022\nCODIGO\nNOMBRE\nINGRESO\nOBRA\nESPINOZA MURRUGARRA ALAN HEYSEN\n23-05-2019\nEdif Brione Luco\nDescanso efectivo entre las fechas que se indican\nTOTAL DIAS\nDESDE\nHASTA\n14-09-2022\n03-10-2022\nDETALLE DEL FERIADO\nDIAS\nDIAS HABILES\nDOMINGO E INHABILES\nSALDO PENDIENTE\nAlam\n11\n8\n0\n19\nVALOR\nIMBRA\nVOB GERENCIA\nFIRMA TRABAJADOR\nVºB JEFE DIRECTO VOB JEFE PERSONAL",
+  "label": "comprobantes",
+  "score": 0.2,
+  "evidence": [
+    "\\bcomprobante\\b",
+    "\\bse deja constancia\\b"
+  ],
+  "processed_at": "2025-12-24T18:09:31",
+  "classified_at": "2025-12-26T17:28:45"
+}

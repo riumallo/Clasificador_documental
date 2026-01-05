@@ -1,0 +1,12 @@
+{
+  "file": "607_151_46_Cer_1455_0119701689630706.pdf",
+  "text": "--- PAGE 1 ---\nUNIDAD VECINAL N° 34\n\"UNION Y AMISTAD\"\nFundado 29 de Julio 1992\nCERTIFICADO DE RESIDENCIA\nNO 001907\n8 de noviembre de 20 21\nSantiago\n8.\nLa Junta de Vecinos \"Unión y Amistad\" de la Unidad Vecinal N° 34 Sector B\nCertifica que el Señor(a) Venet Joseph\nCédula de Identidad N° 25.593.013-13\nde Santiago tiene su docimilio en\nCalle/Pasaje\n6 norte\nJ\nM. Cano\nPoblación\nla Comuna de Pedro Aguirre Cerda.\nN° 1607\nSe extiende el presente certificado a solicitud del interesado(a) para ser presentado en donde\nestime conveniente.\nPERS.\n$40\nALA DIRECTIVA\nél lo\nAMISTAD\n29-JULIO-19",
+  "label": "Certificados",
+  "score": 0.4230769230769231,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertifica\\b"
+  ],
+  "processed_at": "2025-12-24T16:54:54",
+  "classified_at": "2025-12-26T17:28:45"
+}

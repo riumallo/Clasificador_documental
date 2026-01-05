@@ -1,0 +1,17 @@
+{
+  "file": "32_20_9_REC_139_1600030742.pdf",
+  "text": "--- PAGE 1 ---\nTrabajador:\nENTREGA Y CARGO DE ELEMENTOS DE PROTECCIÓN PERSONAL\n1. you Eduardo Contreras born\nRUT:., 13.459.777-1\nN° CANTIDAD ELEMENTO DE SEGURIDAD\nFecha de entrega\nCargo:\nDematters;\nFecha:.2.2.1 Enero/2020\nEdil Ecubor\nObra:\ndevolución\nFecha de devolución\n01\n2\n01\n3\n01\nCASCO DE SEGURIDAD\nLENTES DE SEGURIDAD\nZAPATOS DE SEGURIDAD\n4\n01\nGUANTES DE SEGURIDAD\n22/01/2010\n2/2/1/2020\n22/01/2020.\n22/01/2000\n5\n01\n160\n01\n7\n01\n80\n01\nCOIPA\nOVEROL\nARNES DE SEGURIDAD CON\nDOBLE CABO DE VIDA\nRESPIRADOR DOBLE VIA\n22/1/2000\n9\n01\nTAPON AUDITIVO\n10\n10\n11\n12\n13\nFirma\n由\nCompromiso: Me comprometo a usar, cuidar y mantener en buen estado el equipo de protección personal.\nCualquier perdida o imprevisto no justificado lo comunicare en forma inmediata de acuerdo a los procedimientos establecidos\ny autorizo que se me descuenten de mi remuneración.\nTRABAJADOR\nTABIQUES ESCOBAR SPA\nRUT 76.826.236-5\n-\nScanned by CamScanner",
+  "label": "Prevencion_riesgos",
+  "score": 0.30434782608695654,
+  "evidence": [
+    "\\belementos de protecci[oó]n\\b",
+    "\\bentrega y cargo de elemento(?:s)?\\b",
+    "\\beleme{1,2}ntos? de seguridad\\b",
+    "\\bcasco\\b",
+    "\\bzapatos\\b",
+    "\\bguantes\\b",
+    "\\bseguridad\\b"
+  ],
+  "processed_at": "2025-12-24T16:33:06",
+  "classified_at": "2025-12-26T17:28:45"
+}

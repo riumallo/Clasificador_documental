@@ -1,0 +1,12 @@
+{
+  "file": "621_151_46_Cer_1380_0119701689656099.pdf",
+  "text": "--- PAGE 1 ---\nJunta de Vecinos N° 51\nPedro Aguirre Cerda\nSan Bernardo\nDIA\nMES\nAÑO\n11 05 22\n0522\nCERTIFICADO DE RESIDENCIA\nN° 000280 AGUIRRE\nBLACION SU\nCERDA\nEL DIRECTOR DE ESTA JUNTA DE VECINOS CERTIFICA Unidad Vecinal N° 51\nWiSLER Exinded\nDONINAY\nDON\nSAN RAVARDO\nR.U.T.: 26433668. TIENE SU DOMICILIO EN EY ZAQvinne\n1399 SU Bolo CORRESPONDIENTE A ESTA UNIDAD VECINAL\nSE EXTIENDE EL PRESENTE DOCUMENTO A PETICION DEL INTERESADO(A)\nPARA PRESENTARSE EN TRAmitES PERSONALES\nJosions\nSECRETARIO\nPRESIDENTÉ",
+  "label": "Certificados",
+  "score": 0.4230769230769231,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertifica\\b"
+  ],
+  "processed_at": "2025-12-24T18:03:05",
+  "classified_at": "2025-12-26T17:28:45"
+}

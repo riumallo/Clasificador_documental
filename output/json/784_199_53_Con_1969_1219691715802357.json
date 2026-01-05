@@ -1,0 +1,17 @@
+{
+  "file": "784_199_53_Con_1969_1219691715802357.pdf",
+  "text": "--- PAGE 1 ---\nA\nHOMEPYMES\nASESORÍA INTEGRAL A PYMES\nCONTRATO DE TRABAJO\nEn Santiago, a 10 de diciembre del 2021 entre \"HOMEPYMES ASESORIAS INTEGRALES\", Rut 76.580.031-5,\nrepresentado(a) legalmente por don(a) FELIPE ANDRÉS ÁLVAREZ SÁNCHEZ, cédula de identidad 18.707.734-6,\nambos con domicilio en AV. GRECIA #1938 ÑUÑOA, SANTIAGO, correo electrónico falvarez@grupohb.cl y don(a)\nANGELA ODETTE QUIÑELEN LÓPEZ Rut 19.439.784-4, de nacionalidad CHILENA, nacido(a) el 18 DE MARZO 1996,\ndomiciliado en SANTA INÉS DE ASIS #2106, COMUNA SAN RAMÓN, SANTIAGO, correo electrónico\nangela.quinelenlopez@gmail.com contacto telefónico +569 74680078 en adelante \"Trabajador\". Se ha convenid\nel siguiente Contrato Individual de Trabajo.\nPRIMERO: El trabajador se compromete a ejecutar función de ASISTENTE CONTABLE, en el establecimiento\ndenominado CASA MATRIZ. Ubicado en AV. GRECIA #1938 ÑUÑOA, SANTIAGO. Pudiendo ser trasladado a otro\ndomicilio dentro de la ciudad, por causa justificada, sin que ello importe menoscabo al trabajador.\nSEGUNDO: La jornada de trabajo será según art. 22 del código del trabajo.\nTERCERO: El empleador se compromete a remunerar al trabajador la suma de $337.000 (TRESCIENTOS TREINTA Y\nTRES MIL PESOS) más gratificación mensual del 25% sobre el sueldo mensual con tope de 4.75 ingresos mínimos\nmensuales, montos sobre los cuales se efectuarán los descuentos legales correspondientes, más Colación $25.400\ny Movilización $30.000. La remuneración se pagará por periodos vencidos, dentro de los primeros cinco días hábiles\nde cada mes.\nAFP: MODELO\nSALUD: FONASA\nDATOS BANCARIOS\nRut Titular: 19.439.784-4\nTipo de cuenta: VISTA\nBanco: FALABELLA\nNro. De cuenta: 50013464824\nCUARTO: El presente Contrato de Trabajo es de carácter plazo fijo hasta el 28 DE FEBRERO 2022, y podrá ponerse\ntérmino al mismo cuando concurran para ello causas justificadas que, en conformidad a la ley, puedan producir su\ncaducidad o sea permitido dar al trabajador el aviso de desahucio con 30 días de anticipación a lo menos. De la\nmisma forma, el incumplimiento de las obligaciones en las cláusulas que este establece, así como en las que se\ndetallan en la cláusula primera, darán derecho al Empleador para poner término al Contrato.\nQUINTO: Se deja constancia que el Empleado ingresó al servicio de la Empresa con fecha\n10 de diciembre de 2021.\nSEXTO: Se entienden incorporadas al presente Contrato todas las disposiciones legales que se dicten con\nposterioridad a la fecha de suscripción y que tengan relación con él.\nEl presente contrato se firma en dos ejemplares, quedando en este mismo acto uno en poder de cada contratante.\nFIRMA EMPLEADOR\nRUT 16.980.031-5\nFIRMA TRABAJADOR\nRUT 19.439.784-4",
+  "label": "Contratos",
+  "score": 1.0,
+  "evidence": [
+    "\\bcontrato de trabajo\\b",
+    "\\bCONTRATO\\b",
+    "\\bempleador\\b",
+    "\\btrabajador\\b",
+    "\\bjornada\\b",
+    "\\bremuneraci[oó]n\\b",
+    "\\bcl[aá]usula\\b"
+  ],
+  "processed_at": "2025-12-24T18:29:29",
+  "classified_at": "2025-12-26T17:28:45"
+}

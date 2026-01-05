@@ -1,0 +1,12 @@
+{
+  "file": "623_151_46_Cer_1502_0119701689656548.pdf",
+  "text": "--- PAGE 1 ---\nGobiemo\nde Chile\nCERTIFICADO\nFonasa\nEI FONDO NACIONAL DE SALUD certifica que, de acuerdo a sus registros, Don(a) ALAN HEYSEN ESPINOZA\nMURRUGARRA, RUN 26439776-6, figura como afiliado (o beneficiario) del FONDO NACIONAL DE SALUD,\nencontrándose clasificado en el Grupo C, a que se refiere el artículo 160 D.F.L N° 01 del 2005, con certificación\nvigente.\nSe extiende el presente certificado a petición del interesado, para los fines relacionados al área de salud.\n•Fonasa.\nCamilo Cid Pedraza\nDirector\nFondo Nacional de Salud\nQueremos que esté más informado.\nLlámenos al 600 360 3000\nVisítenos en www.fonasa.cl\nEste certificado tiene validez de 60 días, después de su emisión.\nFecha Emisión:\nCódigo de Verificación:\n10/02/2023\n1505908557",
+  "label": "Certificados",
+  "score": 0.4230769230769231,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertifica\\b"
+  ],
+  "processed_at": "2025-12-24T18:08:51",
+  "classified_at": "2025-12-26T17:28:45"
+}

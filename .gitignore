@@ -1,17 +1,9 @@
 credentials/*.json
-*.pdf
-classified/*.pdf
-classified/anexos/*.pdf
-classified/cartas/*.pdf
-classified/certificados/*.pdf
-classified/contratos/*.pdf
-classified/finiquitos/*.pdf
-classified/liquidaciones/*.pdf
-*.json
-output/*.json
-output/json/*.json
-output/tesseract_json/*.json
 output/json_classified.txt
 __pycache__/
 *.pyc
 
+cache/
+.venv/
+.venv/pyvenv.cfg
+.env

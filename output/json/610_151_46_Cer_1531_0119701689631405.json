@@ -1,0 +1,13 @@
+{
+  "file": "610_151_46_Cer_1531_0119701689631405.pdf",
+  "text": "--- PAGE 1 ---\nSERVICIO DE REGISTRO\nCIVIL E IDENTIFICACIÓN\nNOMBRE:\nREPUBLICA DE CHILE\nCERTIFICADO DE ANTECEDENTES\nVálido para FINES ESPECIALES\nGARITHO ALTICA\nFOLIO: 500491166572\nCódigo Verificación:\n04f880380b38\nR.U.N.:\nRUN\n25.937.251-8 Fecha nacimiento: 8 Julio 1995\nREGISTRO GENERAL DE CONDENAS\nFINES\n25937251-8 SIN ANTECEDENTESESPECIALES\nREGISTRO ESPECIAL DE CONDENAS POR ACTOS DE\nRUN\nVIOLENCIA INTRAFAMILIAR\nFINES\n25937251-8 SIN ANOTACIONES ESPECIALES\n500491166572\nFECHA EMISIÓN:\n6 Febrero 2023, 20:02.\nCertificado Gratuito\nCERTIFICADO ANTECEDENTES PARA FINES ESPECIALES\nImpreso en:\nREGION\n:\nVerifique documento en www.registracivil.gob.clo a nuestro Call Center 600 370 2000, para teléfonos fijos y\ncelulares. La próxima vez, obtén este certificado en www.registrocivil.gob.cl.\nTimbre electrónico SRCel\nOficina internet\nwww.registrocivil.gob.cl\n4\nCHILE*\nQual\nVictor Rebolledo Salas\nJefe de Archivo General\nIncorpora Firma Electrónica\nAvanzada",
+  "label": "Certificados",
+  "score": 0.38461538461538464,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertificado antecedentes\\b",
+    "\\bcertificado de antecedentes\\b"
+  ],
+  "processed_at": "2025-12-24T17:07:35",
+  "classified_at": "2025-12-26T17:28:45"
+}

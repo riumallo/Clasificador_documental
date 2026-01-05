@@ -1,0 +1,12 @@
+{
+  "file": "616_151_46_Com_1463_0119701689655060.pdf",
+  "text": "--- PAGE 1 ---\nCOMPROBANTE DE FERIADO PROPORCIONAL\nEn cumplimiento de las disposiciones legales vigentes, se deja constancia que a contar de las\nfechas que se indican, el trabajador hara uso de su feriado legal anual con remuneraciones\nintegra de acuerdo al siguiente detalle:\nA CUENTA PERIODO: 2021-2022\nCODIGO\nNOMBRE\nMETHELUS LOUIDIEU\nINGRESO\nOBRA\n11-01-2021\nEdif Asturias\nDescanso efectivo entre las fechas que se indican\nDESDE\nHASTA\n06-06-2022\n26-06-2022\nTOTAL DIAS\n21\nVALOR\nDETALLE DEL FERIADO\nDIAS\nDIAS HABILES\n15\nDOMINGO E INHABILES\n6\nX\nSALDO PENDIENTE\nADD\nFIRMA TRABAJADOR\nVOBO JEFE DIRECTO V2B JEFE PERSONAL GEA\nIMG\n9B GERENCIA\nEscaneado con CamScanner\n\n--- PAGE 2 ---\nCOMPROBANTE DE FERIADO PROPORCIONAL\nEn cumplimiento de las disposiciones legales vigentes, se deja constancia que a contar de las\nfechas que se indican, el trabajador hara uso de su feriado legal anual con remuneraciones\nintegra de acuerdo al siguiente detalle:\nA CUENTA PERIODO: 2021-2022\nCODIGO\nNOMBRE\nMETHELUS LOUIDIEU\nINGRESO\nOBRA\n11-01-2021\nEdif Asturias\nDescanso efectivo entre las fechas que se indican\nDESDE\nHASTA\n06-06-2022\n26-06-2022\nX\nDETALLE DEL FERIADO\nDIAS\nDIAS HABILES\nDOMINGO E INHABILES\nSALDO PENDIENTE\nADD\n15\n55\n9\nTOTAL DIAS\n21\nVALOR\nFIRMA TRABAJADOR\nVOBO JEFE DIRECTO VºBº JEFE PERSONAL\nINVB\nBº GERENCIA",
+  "label": "comprobantes",
+  "score": 0.2,
+  "evidence": [
+    "\\bcomprobante\\b",
+    "\\bse deja constancia\\b"
+  ],
+  "processed_at": "2025-12-24T17:38:44",
+  "classified_at": "2025-12-26T17:28:45"
+}

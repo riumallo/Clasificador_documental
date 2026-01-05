@@ -1,0 +1,15 @@
+{
+  "file": "33_20_9_CON_138_0119701600033780.pdf",
+  "text": "--- PAGE 1 ---\nMODIFICACION CONTRATO DE TRABAJO\n(ANEXO DE SUPERVISIÓN)\n• Jage autoris Aquilone quere.\nарадасивой\nTRABAJADOR SR..\na24\nEn Santiago, a 24 de 12.. de 2019., entre TABIQUES ESCOBAR SPA, en su calidad de Empleador;\ndon Joxe Antonio Raquel one que vel cédula nacional de identidad NR. 7.011-272-4\ny\nquienes en adelante se denominaran \"el empleador\" y \"el trabajador\", respectivamente,\nconvienen en la siguiente modificación del contrato de trabajo existente y vigente entre las partes:\n1. A partir de la fecha del presente anexo las partes acuerdan Anexar esta cláusula al contrato de\ntrabajo, por la siguiente:\nEl Trabajador deberá recibir las instrucciones del jefe o supervisor del empleador en la obra o\nfaena.\n2 \"Estará prohibido al trabajador recibir órdenes e instrucciones de parte de personal de la\nempresa contratante del empleador y/o de empresas ubicadas más arriba en la eventual línea de\nsubcontratación, salvo en lo relativo a instrucciones y directrices sobre salud y seguridad en el\ntrabajo, en que se aplicarán -en lo pertinente- las disposiciones e instrucciones del dueño de la\nobra o faena y/o de la empresa encargada de la construcción o ejecución del proyecto, en\nparticular su Sistema de Salud y Seguridad en el Trabajo y sus regulaciones complementarias o\nadicionales, como asimismo deberá acatar las decisiones del Comité Paritario de Faena, todo lo\ncual conforme al Art. 66 bis de la Ley 16.744 y el D. S. 76 de 2007, de la Subsecretaría de Previsión\nSocial, que reglamenta dicho artículo\"\n3.\nEl presente anexo se extiende en tres ejemplares, quedando uno en poder del trabajador y\ndos en poder de la empresa.\nPrevia lectura las partes se ratifican y firman:\nFIRMA TRABAJADOR\nRUT: 9.011.272-4\nBecker un TABIQUES ESCOBAR\nRUT 76.826.236-5\nFIRMA EMPLEADOR\nRUT: 76.826.236-5",
+  "label": "Contratos",
+  "score": 0.7142857142857143,
+  "evidence": [
+    "\\bcontrato de trabajo\\b",
+    "\\bCONTRATO\\b",
+    "\\bempleador\\b",
+    "\\btrabajador\\b",
+    "\\bcl[aá]usula\\b"
+  ],
+  "processed_at": "2025-12-24T16:36:17",
+  "classified_at": "2025-12-26T17:28:45"
+}

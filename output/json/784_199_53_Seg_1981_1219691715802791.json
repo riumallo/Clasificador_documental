@@ -1,0 +1,13 @@
+{
+  "file": "784_199_53_Seg_1981_1219691715802791.pdf",
+  "text": "Comprobante de contratación\nSeguro Obligatorio de Salud asociado a COVID-19 Ley\n21.342\n(Publicada Diario Oﬁcial el 1 de junio de 2021)\nN° de Póliza 282543\n|\nFecha de contratación 06/09/2022\nI. Compañía de Seguros de Vida\nNombre\nR.U.T.\nBice Vida Compañia de Seguros S.A.\n96.656.410-5\nII. Empleador (Nombre y RUT)\nNombre\nR.U.T.\nHOMEPYMES ASESORIAS INTEGRALES SPA\n76.580.031-5\nIII. Trabajador Asegurado (Nombre y RUT)\nNombre\nR.U.T.\nANGELA ODETTE QUIÑELEN LOPEZ\n19.439.784-4\nInicio vigencia individual del seguro\nTérmino vigencia individual del seguro\n06/09/2022\n06/09/2023\nEs obligación del empleador entregar este comprobante al trabajador asegurado.\n\nEste comprobante acredita la contratación del Seguro Obligatorio de Salud asociado a COVID-19\ny que la persona aquí individualizada como trabajador se encuentra asegurada contra los\nriesgos de salud y muerte de acuerdo con la póliza incorporada en el Depósito de Pólizas de la\nComisión para el Mercado Financiero (CMF) bajo el código POL320210063.\nEsta compañía de seguros está adherida al Código de Autorregulación de las Cías. de Seguros y\nha aceptado la intervención del Defensor del Asegurado cuando los clientes le presenten\nreclamos. Más información en web www.autorregulacion.cl y www.ddachile.cl\nBICE VIDA Compañía de Seguros S.A.\n(Firma representante compañía)",
+  "label": "comprobantes",
+  "score": 0.3,
+  "evidence": [
+    "\\bcomprobante\\b",
+    "\\bseguro\\b",
+    "\\bseguro obligatorio\\b"
+  ],
+  "processed_at": "2025-12-24T18:31:49",
+  "classified_at": "2025-12-26T17:28:46"
+}

@@ -1,0 +1,4412 @@
+[
+  {
+    "json_file": "187831715805360.json",
+    "pdf_file": "187831715805360.pdf",
+    "old_label": "Finiquitos",
+    "new_label": "Finiquitos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:25"
+  },
+  {
+    "json_file": "233_62_CON259161765899830.json",
+    "pdf_file": "233_62_CON259161765899830.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:27"
+  },
+  {
+    "json_file": "233_62_CON28351765908457.json",
+    "pdf_file": "233_62_CON28351765908457.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:28"
+  },
+  {
+    "json_file": "233_62_CON296691765897793.json",
+    "pdf_file": "233_62_CON296691765897793.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:28"
+  },
+  {
+    "json_file": "25_19_9_ADH_156_1600263923.json",
+    "pdf_file": "25_19_9_ADH_156_1600263923.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:29"
+  },
+  {
+    "json_file": "25_19_9_CER_149_1600263586.json",
+    "pdf_file": "25_19_9_CER_149_1600263586.pdf",
+    "old_label": "Anexos",
+    "new_label": "Certificados",
+    "decision": "incorrect",
+    "suggested_keywords": "Total Documentos Impagos No registra documentos impagos. INFORME EMPRESARIAL",
+    "corrected_at": "2025-12-26T18:50:41"
+  },
+  {
+    "json_file": "25_19_9_CER_151_0119701600267511.json",
+    "pdf_file": "25_19_9_CER_151_0119701600267511.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:48"
+  },
+  {
+    "json_file": "25_19_9_CER_152_0119701600267524.json",
+    "pdf_file": "25_19_9_CER_152_0119701600267524.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:49"
+  },
+  {
+    "json_file": "25_19_9_F-3_161_0119701600269497.json",
+    "pdf_file": "25_19_9_F-3_161_0119701600269497.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:51"
+  },
+  {
+    "json_file": "25_19_9_FOR_157_1600269418.json",
+    "pdf_file": "25_19_9_FOR_157_1600269418.pdf",
+    "old_label": "Finiquitos",
+    "new_label": "Finiquitos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:54"
+  },
+  {
+    "json_file": "25_19_9_INI_153_1600267537.json",
+    "pdf_file": "25_19_9_INI_153_1600267537.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:57"
+  },
+  {
+    "json_file": "306_80_CON105161765888078.json",
+    "pdf_file": "306_80_CON105161765888078.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:50:58"
+  },
+  {
+    "json_file": "31_20_9_ANT_137_1600030600.json",
+    "pdf_file": "31_20_9_ANT_137_1600030600.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:51:00"
+  },
+  {
+    "json_file": "31_20_9_CED_136_0119701600030587.json",
+    "pdf_file": "31_20_9_CED_136_0119701600030587.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:51:01"
+  },
+  {
+    "json_file": "31_20_9_CON_138_0119701600030626.json",
+    "pdf_file": "31_20_9_CON_138_0119701600030626.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:51:02"
+  },
+  {
+    "json_file": "31_20_9_OBL_140_1600030646.json",
+    "pdf_file": "31_20_9_OBL_140_1600030646.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:51:04"
+  },
+  {
+    "json_file": "31_20_9_REC_139_1600030638.json",
+    "pdf_file": "31_20_9_REC_139_1600030638.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:51:53"
+  },
+  {
+    "json_file": "31_20_9_REC_141_1600030656.json",
+    "pdf_file": "31_20_9_REC_141_1600030656.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "ACUSO ENTREGA DEL REGLAMENTO INTERNO",
+    "corrected_at": "2025-12-26T18:52:05"
+  },
+  {
+    "json_file": "32_20_9_ANT_137_1600030710.json",
+    "pdf_file": "32_20_9_ANT_137_1600030710.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:52:09"
+  },
+  {
+    "json_file": "32_20_9_CED_136_0119701600030701.json",
+    "pdf_file": "32_20_9_CED_136_0119701600030701.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:52:11"
+  },
+  {
+    "json_file": "32_20_9_CON_138_0119701600030732.json",
+    "pdf_file": "32_20_9_CON_138_0119701600030732.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:52:12"
+  },
+  {
+    "json_file": "32_20_9_OBL_140_1600030749.json",
+    "pdf_file": "32_20_9_OBL_140_1600030749.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Desconocido",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:52:19"
+  },
+  {
+    "json_file": "32_20_9_REC_139_1600030742.json",
+    "pdf_file": "32_20_9_REC_139_1600030742.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:52:45"
+  },
+  {
+    "json_file": "32_20_9_REC_141_1600030760.json",
+    "pdf_file": "32_20_9_REC_141_1600030760.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "ACUSO ENTREGA DEL REGLAMENTO INTERNO",
+    "corrected_at": "2025-12-26T18:52:53"
+  },
+  {
+    "json_file": "33_20_9_ANT_137_1600030887.json",
+    "pdf_file": "33_20_9_ANT_137_1600030887.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:52:57"
+  },
+  {
+    "json_file": "33_20_9_CED_136_0119701600030876.json",
+    "pdf_file": "33_20_9_CED_136_0119701600030876.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:53:05"
+  },
+  {
+    "json_file": "33_20_9_CON_138_0119701600030902.json",
+    "pdf_file": "33_20_9_CON_138_0119701600030902.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:53:07"
+  },
+  {
+    "json_file": "33_20_9_CON_138_0119701600031120.json",
+    "pdf_file": "33_20_9_CON_138_0119701600031120.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:53:08"
+  },
+  {
+    "json_file": "33_20_9_CON_138_0119701600033780.json",
+    "pdf_file": "33_20_9_CON_138_0119701600033780.pdf",
+    "old_label": "Contratos",
+    "new_label": "Anexos",
+    "decision": "incorrect",
+    "suggested_keywords": "ANEXO DE SUPERVISIÓN",
+    "corrected_at": "2025-12-26T18:53:19"
+  },
+  {
+    "json_file": "33_20_9_OBL_140_1600030981.json",
+    "pdf_file": "33_20_9_OBL_140_1600030981.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:53:22"
+  },
+  {
+    "json_file": "33_20_9_REC_139_1600030973.json",
+    "pdf_file": "33_20_9_REC_139_1600030973.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:53:23"
+  },
+  {
+    "json_file": "33_20_9_REC_141_1600030990.json",
+    "pdf_file": "33_20_9_REC_141_1600030990.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "Recibí conforme el reglamento interno",
+    "corrected_at": "2025-12-26T18:53:29"
+  },
+  {
+    "json_file": "33_21_9_CON_143_0119701600132871.json",
+    "pdf_file": "33_21_9_CON_143_0119701600132871.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:29"
+  },
+  {
+    "json_file": "34_20_9_CED_136_0119701600028753.json",
+    "pdf_file": "34_20_9_CED_136_0119701600028753.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:30"
+  },
+  {
+    "json_file": "34_20_9_CED_136_0119701600028817.json",
+    "pdf_file": "34_20_9_CED_136_0119701600028817.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:31"
+  },
+  {
+    "json_file": "34_20_9_CED_136_0119701600028865.json",
+    "pdf_file": "34_20_9_CED_136_0119701600028865.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:32"
+  },
+  {
+    "json_file": "34_20_9_CON_138_0119701600028886.json",
+    "pdf_file": "34_20_9_CON_138_0119701600028886.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:32"
+  },
+  {
+    "json_file": "34_20_9_CON_138_0119701600029027.json",
+    "pdf_file": "34_20_9_CON_138_0119701600029027.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:33"
+  },
+  {
+    "json_file": "34_20_9_CON_138_0119701600029066.json",
+    "pdf_file": "34_20_9_CON_138_0119701600029066.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:34"
+  },
+  {
+    "json_file": "35_21_9_CED_142_0119701600026510.json",
+    "pdf_file": "35_21_9_CED_142_0119701600026510.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:35"
+  },
+  {
+    "json_file": "35_21_9_CON_143_0119701600026643.json",
+    "pdf_file": "35_21_9_CON_143_0119701600026643.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:36"
+  },
+  {
+    "json_file": "35_21_9_CON_143_0119701600026799.json",
+    "pdf_file": "35_21_9_CON_143_0119701600026799.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:37"
+  },
+  {
+    "json_file": "35_21_9_CON_143_0119701600026820.json",
+    "pdf_file": "35_21_9_CON_143_0119701600026820.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:37"
+  },
+  {
+    "json_file": "35_21_9_ENT_144_1600026675.json",
+    "pdf_file": "35_21_9_ENT_144_1600026675.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:39"
+  },
+  {
+    "json_file": "35_21_9_ODI_145_1600026684.json",
+    "pdf_file": "35_21_9_ODI_145_1600026684.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Desconocido",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:45"
+  },
+  {
+    "json_file": "35_21_9_REC_146_1600026693.json",
+    "pdf_file": "35_21_9_REC_146_1600026693.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:50"
+  },
+  {
+    "json_file": "36_21_9_CED_142_0119701600028307.json",
+    "pdf_file": "36_21_9_CED_142_0119701600028307.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:51"
+  },
+  {
+    "json_file": "36_21_9_CON_143_0119701600028444.json",
+    "pdf_file": "36_21_9_CON_143_0119701600028444.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:53"
+  },
+  {
+    "json_file": "36_21_9_CON_143_0119701600132923.json",
+    "pdf_file": "36_21_9_CON_143_0119701600132923.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:54"
+  },
+  {
+    "json_file": "36_21_9_ENT_144_1600028463.json",
+    "pdf_file": "36_21_9_ENT_144_1600028463.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:56"
+  },
+  {
+    "json_file": "36_21_9_ODI_145_1600028472.json",
+    "pdf_file": "36_21_9_ODI_145_1600028472.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T17:59:57"
+  },
+  {
+    "json_file": "36_21_9_REC_146_1600028483.json",
+    "pdf_file": "36_21_9_REC_146_1600028483.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:04"
+  },
+  {
+    "json_file": "37_21_9_CED_142_0119701600028554.json",
+    "pdf_file": "37_21_9_CED_142_0119701600028554.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:08"
+  },
+  {
+    "json_file": "37_21_9_CON_143_0119701600028588.json",
+    "pdf_file": "37_21_9_CON_143_0119701600028588.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:11"
+  },
+  {
+    "json_file": "37_21_9_CON_143_0119701600133137.json",
+    "pdf_file": "37_21_9_CON_143_0119701600133137.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:11"
+  },
+  {
+    "json_file": "37_21_9_ENT_144_1600028602.json",
+    "pdf_file": "37_21_9_ENT_144_1600028602.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:14"
+  },
+  {
+    "json_file": "37_21_9_ODI_145_1600028610.json",
+    "pdf_file": "37_21_9_ODI_145_1600028610.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:17"
+  },
+  {
+    "json_file": "37_21_9_REC_146_1600028620.json",
+    "pdf_file": "37_21_9_REC_146_1600028620.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Desconocido",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:21"
+  },
+  {
+    "json_file": "416_119_OTR300311765890340.json",
+    "pdf_file": "416_119_OTR300311765890340.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:23"
+  },
+  {
+    "json_file": "605_151_46_Ane_1513_0119701689630371.json",
+    "pdf_file": "605_151_46_Ane_1513_0119701689630371.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:25"
+  },
+  {
+    "json_file": "605_151_46_Cha_1510_0119701689630409.json",
+    "pdf_file": "605_151_46_Cha_1510_0119701689630409.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:31"
+  },
+  {
+    "json_file": "605_151_46_Com_1508_0119701689630422.json",
+    "pdf_file": "605_151_46_Com_1508_0119701689630422.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:37"
+  },
+  {
+    "json_file": "605_151_46_For_1507_0119701689630432.json",
+    "pdf_file": "605_151_46_For_1507_0119701689630432.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:43"
+  },
+  {
+    "json_file": "605_151_46_Seg_1512_0119701689630395.json",
+    "pdf_file": "605_151_46_Seg_1512_0119701689630395.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:45"
+  },
+  {
+    "json_file": "607_151_46_Ane_1453_0119701689630734.json",
+    "pdf_file": "607_151_46_Ane_1453_0119701689630734.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:46"
+  },
+  {
+    "json_file": "607_151_46_Ane_1453_0119701689630750.json",
+    "pdf_file": "607_151_46_Ane_1453_0119701689630750.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:47"
+  },
+  {
+    "json_file": "607_151_46_Ane_1453_0119701689630766.json",
+    "pdf_file": "607_151_46_Ane_1453_0119701689630766.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:48"
+  },
+  {
+    "json_file": "607_151_46_Ced_1458_0119701689630654.json",
+    "pdf_file": "607_151_46_Ced_1458_0119701689630654.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:49"
+  },
+  {
+    "json_file": "607_151_46_Cer_1455_0119701689630706.json",
+    "pdf_file": "607_151_46_Cer_1455_0119701689630706.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:50"
+  },
+  {
+    "json_file": "607_151_46_Cer_1456_0119701689630692.json",
+    "pdf_file": "607_151_46_Cer_1456_0119701689630692.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:51"
+  },
+  {
+    "json_file": "607_151_46_Cer_1457_0119701689630669.json",
+    "pdf_file": "607_151_46_Cer_1457_0119701689630669.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:52"
+  },
+  {
+    "json_file": "607_151_46_Cer_1457_0119701689630683.json",
+    "pdf_file": "607_151_46_Cer_1457_0119701689630683.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:53"
+  },
+  {
+    "json_file": "607_151_46_Com_1454_0119701689630717.json",
+    "pdf_file": "607_151_46_Com_1454_0119701689630717.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:55"
+  },
+  {
+    "json_file": "607_151_46_Con_1459_0119701689630497.json",
+    "pdf_file": "607_151_46_Con_1459_0119701689630497.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:56"
+  },
+  {
+    "json_file": "607_151_46_Con_1459_0119701689630523.json",
+    "pdf_file": "607_151_46_Con_1459_0119701689630523.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:00:58"
+  },
+  {
+    "json_file": "607_151_46_Con_1459_0119701689630567.json",
+    "pdf_file": "607_151_46_Con_1459_0119701689630567.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:02"
+  },
+  {
+    "json_file": "607_151_46_Pac_1451_0119701689630817.json",
+    "pdf_file": "607_151_46_Pac_1451_0119701689630817.pdf",
+    "old_label": "Contratos",
+    "new_label": "Anexos",
+    "decision": "incorrect",
+    "suggested_keywords": "ANEXO ACUERDO SOBRETIEMPO",
+    "corrected_at": "2025-12-26T18:01:28"
+  },
+  {
+    "json_file": "607_151_46_Seg_1452_0119701689630778.json",
+    "pdf_file": "607_151_46_Seg_1452_0119701689630778.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:31"
+  },
+  {
+    "json_file": "607_151_46_Seg_1452_0119701689630788.json",
+    "pdf_file": "607_151_46_Seg_1452_0119701689630788.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:32"
+  },
+  {
+    "json_file": "608_151_46_Ane_1393_0119701689630974.json",
+    "pdf_file": "608_151_46_Ane_1393_0119701689630974.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:34"
+  },
+  {
+    "json_file": "608_151_46_Ane_1393_0119701689630990.json",
+    "pdf_file": "608_151_46_Ane_1393_0119701689630990.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:39"
+  },
+  {
+    "json_file": "608_151_46_Ane_1393_0119701689631004.json",
+    "pdf_file": "608_151_46_Ane_1393_0119701689631004.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:40"
+  },
+  {
+    "json_file": "608_151_46_Ane_1393_0119701689631019.json",
+    "pdf_file": "608_151_46_Ane_1393_0119701689631019.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:42"
+  },
+  {
+    "json_file": "608_151_46_Ced_1398_0119701689630895.json",
+    "pdf_file": "608_151_46_Ced_1398_0119701689630895.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:43"
+  },
+  {
+    "json_file": "608_151_46_Cer_1396_0119701689630941.json",
+    "pdf_file": "608_151_46_Cer_1396_0119701689630941.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:45"
+  },
+  {
+    "json_file": "608_151_46_Cer_1397_0119701689630907.json",
+    "pdf_file": "608_151_46_Cer_1397_0119701689630907.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:46"
+  },
+  {
+    "json_file": "608_151_46_Cer_1397_0119701689630919.json",
+    "pdf_file": "608_151_46_Cer_1397_0119701689630919.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:01:48"
+  },
+  {
+    "json_file": "608_151_46_Com_1388_0119701689631072.json",
+    "pdf_file": "608_151_46_Com_1388_0119701689631072.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:13:07"
+  },
+  {
+    "json_file": "608_151_46_Com_1394_0119701689630953.json",
+    "pdf_file": "608_151_46_Com_1394_0119701689630953.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:13:09"
+  },
+  {
+    "json_file": "608_151_46_Con_1399_0119701689630865.json",
+    "pdf_file": "608_151_46_Con_1399_0119701689630865.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:13:12"
+  },
+  {
+    "json_file": "608_151_46_Con_1399_0119701689630880.json",
+    "pdf_file": "608_151_46_Con_1399_0119701689630880.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:13:13"
+  },
+  {
+    "json_file": "608_151_46_Pac_1391_0119701689631058.json",
+    "pdf_file": "608_151_46_Pac_1391_0119701689631058.pdf",
+    "old_label": "Contratos",
+    "new_label": "Anexos",
+    "decision": "incorrect",
+    "suggested_keywords": "ANEXO ACUERDO SOBRETIEMPO",
+    "corrected_at": "2025-12-26T18:14:11"
+  },
+  {
+    "json_file": "608_151_46_Seg_1392_0119701689631036.json",
+    "pdf_file": "608_151_46_Seg_1392_0119701689631036.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:13"
+  },
+  {
+    "json_file": "609_151_46_Ced_1458_0119701689631124.json",
+    "pdf_file": "609_151_46_Ced_1458_0119701689631124.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:14"
+  },
+  {
+    "json_file": "609_151_46_Cer_1455_0119701689631165.json",
+    "pdf_file": "609_151_46_Cer_1455_0119701689631165.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:35"
+  },
+  {
+    "json_file": "609_151_46_Cer_1456_0119701689631154.json",
+    "pdf_file": "609_151_46_Cer_1456_0119701689631154.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:37"
+  },
+  {
+    "json_file": "609_151_46_Cer_1457_0119701689631134.json",
+    "pdf_file": "609_151_46_Cer_1457_0119701689631134.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:38"
+  },
+  {
+    "json_file": "609_151_46_Cer_1457_0119701689631143.json",
+    "pdf_file": "609_151_46_Cer_1457_0119701689631143.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:38"
+  },
+  {
+    "json_file": "609_151_46_Con_1459_0119701689631109.json",
+    "pdf_file": "609_151_46_Con_1459_0119701689631109.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:39"
+  },
+  {
+    "json_file": "610_151_46_Ced_1533_0119701689631369.json",
+    "pdf_file": "610_151_46_Ced_1533_0119701689631369.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Desconocido",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:40"
+  },
+  {
+    "json_file": "610_151_46_Cer_1530_0119701689631415.json",
+    "pdf_file": "610_151_46_Cer_1530_0119701689631415.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:46"
+  },
+  {
+    "json_file": "610_151_46_Cer_1531_0119701689631405.json",
+    "pdf_file": "610_151_46_Cer_1531_0119701689631405.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:46"
+  },
+  {
+    "json_file": "610_151_46_Cer_1532_0119701689631378.json",
+    "pdf_file": "610_151_46_Cer_1532_0119701689631378.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:47"
+  },
+  {
+    "json_file": "610_151_46_Cer_1532_0119701689631390.json",
+    "pdf_file": "610_151_46_Cer_1532_0119701689631390.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:48"
+  },
+  {
+    "json_file": "610_151_46_Con_1534_0119701689631300.json",
+    "pdf_file": "610_151_46_Con_1534_0119701689631300.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:49"
+  },
+  {
+    "json_file": "610_151_46_Con_1534_0119701689631315.json",
+    "pdf_file": "610_151_46_Con_1534_0119701689631315.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:50"
+  },
+  {
+    "json_file": "610_151_46_Con_1534_0119701689631344.json",
+    "pdf_file": "610_151_46_Con_1534_0119701689631344.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:14:51"
+  },
+  {
+    "json_file": "610_151_46_For_1522_0119701689631440.json",
+    "pdf_file": "610_151_46_For_1522_0119701689631440.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "El finiquito FINIQUITO DEL TRABAJADOR",
+    "corrected_at": "2025-12-26T18:15:16"
+  },
+  {
+    "json_file": "611_151_46_Ane_1468_0119701689631695.json",
+    "pdf_file": "611_151_46_Ane_1468_0119701689631695.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:17"
+  },
+  {
+    "json_file": "611_151_46_Ane_1468_0119701689631712.json",
+    "pdf_file": "611_151_46_Ane_1468_0119701689631712.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:18"
+  },
+  {
+    "json_file": "611_151_46_Ane_1468_0119701689631740.json",
+    "pdf_file": "611_151_46_Ane_1468_0119701689631740.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:20"
+  },
+  {
+    "json_file": "611_151_46_Ane_1468_0119701689631759.json",
+    "pdf_file": "611_151_46_Ane_1468_0119701689631759.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:22"
+  },
+  {
+    "json_file": "611_151_46_Ane_1468_0119701689631783.json",
+    "pdf_file": "611_151_46_Ane_1468_0119701689631783.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:23"
+  },
+  {
+    "json_file": "611_151_46_Ane_1468_0119701689631799.json",
+    "pdf_file": "611_151_46_Ane_1468_0119701689631799.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:24"
+  },
+  {
+    "json_file": "611_151_46_Ane_1468_0119701689631813.json",
+    "pdf_file": "611_151_46_Ane_1468_0119701689631813.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:27"
+  },
+  {
+    "json_file": "611_151_46_Ced_1473_0119701689631619.json",
+    "pdf_file": "611_151_46_Ced_1473_0119701689631619.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Cedula_identidad",
+    "decision": "incorrect",
+    "suggested_keywords": "CÉDULA DE IDENTIDAD EXTRANJERO  XTRANJERO REPÚBLICA DE CHILE SERVICIO DE REGISTRO CIVILE IDENTIFICACION",
+    "corrected_at": "2025-12-26T18:15:44"
+  },
+  {
+    "json_file": "611_151_46_Cer_1471_0119701689631657.json",
+    "pdf_file": "611_151_46_Cer_1471_0119701689631657.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:46"
+  },
+  {
+    "json_file": "611_151_46_Cer_1472_0119701689631633.json",
+    "pdf_file": "611_151_46_Cer_1472_0119701689631633.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:47"
+  },
+  {
+    "json_file": "611_151_46_Cer_1472_0119701689631644.json",
+    "pdf_file": "611_151_46_Cer_1472_0119701689631644.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:47"
+  },
+  {
+    "json_file": "611_151_46_Com_1463_0119701689631869.json",
+    "pdf_file": "611_151_46_Com_1463_0119701689631869.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:52"
+  },
+  {
+    "json_file": "611_151_46_Com_1469_0119701689631672.json",
+    "pdf_file": "611_151_46_Com_1469_0119701689631672.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:54"
+  },
+  {
+    "json_file": "611_151_46_Con_1474_0119701689631490.json",
+    "pdf_file": "611_151_46_Con_1474_0119701689631490.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:55"
+  },
+  {
+    "json_file": "611_151_46_Con_1474_0119701689631517.json",
+    "pdf_file": "611_151_46_Con_1474_0119701689631517.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:57"
+  },
+  {
+    "json_file": "611_151_46_Con_1474_0119701689631597.json",
+    "pdf_file": "611_151_46_Con_1474_0119701689631597.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:15:57"
+  },
+  {
+    "json_file": "611_151_46_For_1462_0119701689631881.json",
+    "pdf_file": "611_151_46_For_1462_0119701689631881.pdf",
+    "old_label": "Contratos",
+    "new_label": "Finiquitos",
+    "decision": "incorrect",
+    "suggested_keywords": "FINIQUITO DE TRABAJO",
+    "corrected_at": "2025-12-26T18:16:05"
+  },
+  {
+    "json_file": "611_151_46_Seg_1467_0119701689631842.json",
+    "pdf_file": "611_151_46_Seg_1467_0119701689631842.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:11"
+  },
+  {
+    "json_file": "612_151_46_Ane_1528_0119701689646945.json",
+    "pdf_file": "612_151_46_Ane_1528_0119701689646945.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:15"
+  },
+  {
+    "json_file": "612_151_46_Ane_1528_0119701689646957.json",
+    "pdf_file": "612_151_46_Ane_1528_0119701689646957.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:17"
+  },
+  {
+    "json_file": "612_151_46_Ane_1528_0119701689646969.json",
+    "pdf_file": "612_151_46_Ane_1528_0119701689646969.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:18"
+  },
+  {
+    "json_file": "612_151_46_Ane_1528_0119701689646983.json",
+    "pdf_file": "612_151_46_Ane_1528_0119701689646983.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:19"
+  },
+  {
+    "json_file": "612_151_46_Ane_1528_0119701689646996.json",
+    "pdf_file": "612_151_46_Ane_1528_0119701689646996.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:20"
+  },
+  {
+    "json_file": "612_151_46_Ane_1528_0119701689647020.json",
+    "pdf_file": "612_151_46_Ane_1528_0119701689647020.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:21"
+  },
+  {
+    "json_file": "612_151_46_Ane_1528_0119701689647033.json",
+    "pdf_file": "612_151_46_Ane_1528_0119701689647033.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:22"
+  },
+  {
+    "json_file": "612_151_46_Ane_1528_0119701689647045.json",
+    "pdf_file": "612_151_46_Ane_1528_0119701689647045.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:24"
+  },
+  {
+    "json_file": "612_151_46_Ced_1533_0119701689646826.json",
+    "pdf_file": "612_151_46_Ced_1533_0119701689646826.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:28"
+  },
+  {
+    "json_file": "612_151_46_Cer_1531_0119701689646889.json",
+    "pdf_file": "612_151_46_Cer_1531_0119701689646889.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:32"
+  },
+  {
+    "json_file": "612_151_46_Cer_1531_0119701689646898.json",
+    "pdf_file": "612_151_46_Cer_1531_0119701689646898.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:33"
+  },
+  {
+    "json_file": "612_151_46_Cer_1532_0119701689646850.json",
+    "pdf_file": "612_151_46_Cer_1532_0119701689646850.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:35"
+  },
+  {
+    "json_file": "612_151_46_Cer_1532_0119701689646860.json",
+    "pdf_file": "612_151_46_Cer_1532_0119701689646860.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:36"
+  },
+  {
+    "json_file": "612_151_46_Cer_1532_0119701689646869.json",
+    "pdf_file": "612_151_46_Cer_1532_0119701689646869.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:39"
+  },
+  {
+    "json_file": "612_151_46_Cer_1532_0119701689646877.json",
+    "pdf_file": "612_151_46_Cer_1532_0119701689646877.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:40"
+  },
+  {
+    "json_file": "612_151_46_Cha_1525_0119701689647072.json",
+    "pdf_file": "612_151_46_Cha_1525_0119701689647072.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:44"
+  },
+  {
+    "json_file": "612_151_46_Com_1529_0119701689646914.json",
+    "pdf_file": "612_151_46_Com_1529_0119701689646914.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:50"
+  },
+  {
+    "json_file": "612_151_46_Com_1529_0119701689646923.json",
+    "pdf_file": "612_151_46_Com_1529_0119701689646923.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:57"
+  },
+  {
+    "json_file": "612_151_46_Con_1534_0119701689646773.json",
+    "pdf_file": "612_151_46_Con_1534_0119701689646773.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:16:59"
+  },
+  {
+    "json_file": "612_151_46_Con_1534_0119701689646793.json",
+    "pdf_file": "612_151_46_Con_1534_0119701689646793.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:00"
+  },
+  {
+    "json_file": "612_151_46_Con_1534_0119701689646807.json",
+    "pdf_file": "612_151_46_Con_1534_0119701689646807.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:01"
+  },
+  {
+    "json_file": "612_151_46_Seg_1527_0119701689647061.json",
+    "pdf_file": "612_151_46_Seg_1527_0119701689647061.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:04"
+  },
+  {
+    "json_file": "613_151_46_Ane_1513_0119701689647239.json",
+    "pdf_file": "613_151_46_Ane_1513_0119701689647239.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:04"
+  },
+  {
+    "json_file": "613_151_46_Ced_1518_0119701689647189.json",
+    "pdf_file": "613_151_46_Ced_1518_0119701689647189.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:06"
+  },
+  {
+    "json_file": "613_151_46_Cer_1515_0119701689647223.json",
+    "pdf_file": "613_151_46_Cer_1515_0119701689647223.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:09"
+  },
+  {
+    "json_file": "613_151_46_Cer_1516_0119701689647214.json",
+    "pdf_file": "613_151_46_Cer_1516_0119701689647214.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:09"
+  },
+  {
+    "json_file": "613_151_46_Cer_1517_0119701689647203.json",
+    "pdf_file": "613_151_46_Cer_1517_0119701689647203.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:11"
+  },
+  {
+    "json_file": "613_151_46_Con_1519_0119701689647172.json",
+    "pdf_file": "613_151_46_Con_1519_0119701689647172.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:13"
+  },
+  {
+    "json_file": "613_151_46_Seg_1512_0119701689647256.json",
+    "pdf_file": "613_151_46_Seg_1512_0119701689647256.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:15"
+  },
+  {
+    "json_file": "614_151_46_Ane_1513_0119701689654425.json",
+    "pdf_file": "614_151_46_Ane_1513_0119701689654425.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:22"
+  },
+  {
+    "json_file": "614_151_46_Ane_1513_0119701689654438.json",
+    "pdf_file": "614_151_46_Ane_1513_0119701689654438.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:51"
+  },
+  {
+    "json_file": "614_151_46_Ane_1513_0119701689654452.json",
+    "pdf_file": "614_151_46_Ane_1513_0119701689654452.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:52"
+  },
+  {
+    "json_file": "614_151_46_Ane_1513_0119701689654463.json",
+    "pdf_file": "614_151_46_Ane_1513_0119701689654463.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:53"
+  },
+  {
+    "json_file": "614_151_46_Ane_1513_0119701689654485.json",
+    "pdf_file": "614_151_46_Ane_1513_0119701689654485.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:54"
+  },
+  {
+    "json_file": "614_151_46_Ane_1513_0119701689654498.json",
+    "pdf_file": "614_151_46_Ane_1513_0119701689654498.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:55"
+  },
+  {
+    "json_file": "614_151_46_Ane_1513_0119701689654509.json",
+    "pdf_file": "614_151_46_Ane_1513_0119701689654509.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:56"
+  },
+  {
+    "json_file": "614_151_46_Ane_1513_0119701689654522.json",
+    "pdf_file": "614_151_46_Ane_1513_0119701689654522.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:56"
+  },
+  {
+    "json_file": "614_151_46_Ane_1513_0119701689654536.json",
+    "pdf_file": "614_151_46_Ane_1513_0119701689654536.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:17:57"
+  },
+  {
+    "json_file": "614_151_46_Ane_1513_0119701689654578.json",
+    "pdf_file": "614_151_46_Ane_1513_0119701689654578.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:00"
+  },
+  {
+    "json_file": "614_151_46_Ced_1518_0119701689654327.json",
+    "pdf_file": "614_151_46_Ced_1518_0119701689654327.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:01"
+  },
+  {
+    "json_file": "614_151_46_Cer_1516_0119701689654347.json",
+    "pdf_file": "614_151_46_Cer_1516_0119701689654347.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:03"
+  },
+  {
+    "json_file": "614_151_46_Cer_1517_0119701689654337.json",
+    "pdf_file": "614_151_46_Cer_1517_0119701689654337.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:03"
+  },
+  {
+    "json_file": "614_151_46_Com_1508_0119701689654562.json",
+    "pdf_file": "614_151_46_Com_1508_0119701689654562.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:04"
+  },
+  {
+    "json_file": "614_151_46_Com_1514_0119701689654408.json",
+    "pdf_file": "614_151_46_Com_1514_0119701689654408.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:06"
+  },
+  {
+    "json_file": "614_151_46_Con_1519_0119701689654249.json",
+    "pdf_file": "614_151_46_Con_1519_0119701689654249.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:07"
+  },
+  {
+    "json_file": "614_151_46_Con_1519_0119701689654309.json",
+    "pdf_file": "614_151_46_Con_1519_0119701689654309.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:08"
+  },
+  {
+    "json_file": "614_151_46_Seg_1512_0119701689654548.json",
+    "pdf_file": "614_151_46_Seg_1512_0119701689654548.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:09"
+  },
+  {
+    "json_file": "615_151_46_Ane_1498_0119701689654684.json",
+    "pdf_file": "615_151_46_Ane_1498_0119701689654684.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:10"
+  },
+  {
+    "json_file": "615_151_46_Ane_1498_0119701689654700.json",
+    "pdf_file": "615_151_46_Ane_1498_0119701689654700.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:10"
+  },
+  {
+    "json_file": "615_151_46_Ane_1498_0119701689654717.json",
+    "pdf_file": "615_151_46_Ane_1498_0119701689654717.pdf",
+    "old_label": "Contratos",
+    "new_label": "Anexos",
+    "decision": "incorrect",
+    "suggested_keywords": "ANEXO",
+    "corrected_at": "2025-12-26T18:18:19"
+  },
+  {
+    "json_file": "615_151_46_Ced_1503_0119701689654616.json",
+    "pdf_file": "615_151_46_Ced_1503_0119701689654616.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Cedula_identidad",
+    "decision": "incorrect",
+    "suggested_keywords": "CÉDULA REPUBLICA DE CHILE SERVICIO DE REGISTRO CIVILE IDENTIFICACION",
+    "corrected_at": "2025-12-26T18:18:33"
+  },
+  {
+    "json_file": "615_151_46_Cer_1501_0119701689654655.json",
+    "pdf_file": "615_151_46_Cer_1501_0119701689654655.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:35"
+  },
+  {
+    "json_file": "615_151_46_Cer_1502_0119701689654628.json",
+    "pdf_file": "615_151_46_Cer_1502_0119701689654628.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:36"
+  },
+  {
+    "json_file": "615_151_46_Cer_1502_0119701689654636.json",
+    "pdf_file": "615_151_46_Cer_1502_0119701689654636.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:38"
+  },
+  {
+    "json_file": "615_151_46_Cer_1502_0119701689654645.json",
+    "pdf_file": "615_151_46_Cer_1502_0119701689654645.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:39"
+  },
+  {
+    "json_file": "615_151_46_Com_1499_0119701689654665.json",
+    "pdf_file": "615_151_46_Com_1499_0119701689654665.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:50"
+  },
+  {
+    "json_file": "616_151_46_Ane_1468_0119701689654914.json",
+    "pdf_file": "616_151_46_Ane_1468_0119701689654914.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:52"
+  },
+  {
+    "json_file": "616_151_46_Ane_1468_0119701689654930.json",
+    "pdf_file": "616_151_46_Ane_1468_0119701689654930.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:54"
+  },
+  {
+    "json_file": "616_151_46_Ane_1468_0119701689654946.json",
+    "pdf_file": "616_151_46_Ane_1468_0119701689654946.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:54"
+  },
+  {
+    "json_file": "616_151_46_Ane_1468_0119701689654958.json",
+    "pdf_file": "616_151_46_Ane_1468_0119701689654958.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:55"
+  },
+  {
+    "json_file": "616_151_46_Ane_1468_0119701689654969.json",
+    "pdf_file": "616_151_46_Ane_1468_0119701689654969.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:56"
+  },
+  {
+    "json_file": "616_151_46_Ane_1468_0119701689654980.json",
+    "pdf_file": "616_151_46_Ane_1468_0119701689654980.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:57"
+  },
+  {
+    "json_file": "616_151_46_Ane_1468_0119701689655003.json",
+    "pdf_file": "616_151_46_Ane_1468_0119701689655003.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:58"
+  },
+  {
+    "json_file": "616_151_46_Ced_1473_0119701689654828.json",
+    "pdf_file": "616_151_46_Ced_1473_0119701689654828.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:18:59"
+  },
+  {
+    "json_file": "616_151_46_Cer_1470_0119701689654891.json",
+    "pdf_file": "616_151_46_Cer_1470_0119701689654891.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:01"
+  },
+  {
+    "json_file": "616_151_46_Cer_1471_0119701689654867.json",
+    "pdf_file": "616_151_46_Cer_1471_0119701689654867.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:02"
+  },
+  {
+    "json_file": "616_151_46_Cer_1471_0119701689654875.json",
+    "pdf_file": "616_151_46_Cer_1471_0119701689654875.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:03"
+  },
+  {
+    "json_file": "616_151_46_Cer_1472_0119701689654841.json",
+    "pdf_file": "616_151_46_Cer_1472_0119701689654841.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:04"
+  },
+  {
+    "json_file": "616_151_46_Cer_1472_0119701689654850.json",
+    "pdf_file": "616_151_46_Cer_1472_0119701689654850.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:04"
+  },
+  {
+    "json_file": "616_151_46_Cer_1472_0119701689654858.json",
+    "pdf_file": "616_151_46_Cer_1472_0119701689654858.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:05"
+  },
+  {
+    "json_file": "616_151_46_Cha_1465_0119701689655050.json",
+    "pdf_file": "616_151_46_Cha_1465_0119701689655050.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:09"
+  },
+  {
+    "json_file": "616_151_46_Com_1463_0119701689655060.json",
+    "pdf_file": "616_151_46_Com_1463_0119701689655060.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:11"
+  },
+  {
+    "json_file": "616_151_46_Com_1469_0119701689654899.json",
+    "pdf_file": "616_151_46_Com_1469_0119701689654899.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:12"
+  },
+  {
+    "json_file": "616_151_46_Con_1474_0119701689654783.json",
+    "pdf_file": "616_151_46_Con_1474_0119701689654783.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:13"
+  },
+  {
+    "json_file": "616_151_46_Con_1474_0119701689654797.json",
+    "pdf_file": "616_151_46_Con_1474_0119701689654797.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:15"
+  },
+  {
+    "json_file": "616_151_46_Con_1474_0119701689654809.json",
+    "pdf_file": "616_151_46_Con_1474_0119701689654809.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:17"
+  },
+  {
+    "json_file": "616_151_46_Pac_1466_0119701689655041.json",
+    "pdf_file": "616_151_46_Pac_1466_0119701689655041.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:19"
+  },
+  {
+    "json_file": "616_151_46_Seg_1467_0119701689655013.json",
+    "pdf_file": "616_151_46_Seg_1467_0119701689655013.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:21"
+  },
+  {
+    "json_file": "616_151_46_Seg_1467_0119701689655022.json",
+    "pdf_file": "616_151_46_Seg_1467_0119701689655022.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:22"
+  },
+  {
+    "json_file": "618_151_46_Ane_1528_0119701689655230.json",
+    "pdf_file": "618_151_46_Ane_1528_0119701689655230.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:26"
+  },
+  {
+    "json_file": "618_151_46_Ane_1528_0119701689655246.json",
+    "pdf_file": "618_151_46_Ane_1528_0119701689655246.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:19:26"
+  },
+  {
+    "json_file": "618_151_46_Ced_1533_0119701689655158.json",
+    "pdf_file": "618_151_46_Ced_1533_0119701689655158.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Cedula_identidad",
+    "decision": "incorrect",
+    "suggested_keywords": "CÉDULA DE IDENTIDAD EXTRANJERO REPUBLICA DE CHILE, SERVICIO DE SEGISTIC CIVILE IDENTIFICACION",
+    "corrected_at": "2025-12-26T18:19:36"
+  },
+  {
+    "json_file": "618_151_46_Cer_1530_0119701689655200.json",
+    "pdf_file": "618_151_46_Cer_1530_0119701689655200.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:09"
+  },
+  {
+    "json_file": "618_151_46_Cer_1531_0119701689655181.json",
+    "pdf_file": "618_151_46_Cer_1531_0119701689655181.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:10"
+  },
+  {
+    "json_file": "618_151_46_Cer_1531_0119701689655192.json",
+    "pdf_file": "618_151_46_Cer_1531_0119701689655192.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:10"
+  },
+  {
+    "json_file": "618_151_46_Cer_1532_0119701689655166.json",
+    "pdf_file": "618_151_46_Cer_1532_0119701689655166.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:11"
+  },
+  {
+    "json_file": "618_151_46_Cer_1532_0119701689655173.json",
+    "pdf_file": "618_151_46_Cer_1532_0119701689655173.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:12"
+  },
+  {
+    "json_file": "618_151_46_Com_1529_0119701689655208.json",
+    "pdf_file": "618_151_46_Com_1529_0119701689655208.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:13"
+  },
+  {
+    "json_file": "618_151_46_Com_1529_0119701689655216.json",
+    "pdf_file": "618_151_46_Com_1529_0119701689655216.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:14"
+  },
+  {
+    "json_file": "618_151_46_Con_1534_0119701689655094.json",
+    "pdf_file": "618_151_46_Con_1534_0119701689655094.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:15"
+  },
+  {
+    "json_file": "618_151_46_Con_1534_0119701689655106.json",
+    "pdf_file": "618_151_46_Con_1534_0119701689655106.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:16"
+  },
+  {
+    "json_file": "618_151_46_Con_1534_0119701689655120.json",
+    "pdf_file": "618_151_46_Con_1534_0119701689655120.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:17"
+  },
+  {
+    "json_file": "618_151_46_Con_1534_0119701689655133.json",
+    "pdf_file": "618_151_46_Con_1534_0119701689655133.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:18"
+  },
+  {
+    "json_file": "618_151_46_Con_1534_0119701689655145.json",
+    "pdf_file": "618_151_46_Con_1534_0119701689655145.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:19"
+  },
+  {
+    "json_file": "618_151_46_For_1522_0119701689655278.json",
+    "pdf_file": "618_151_46_For_1522_0119701689655278.pdf",
+    "old_label": "Contratos",
+    "new_label": "Finiquitos",
+    "decision": "incorrect",
+    "suggested_keywords": "FINIQUITO DE TRABAJADOR",
+    "corrected_at": "2025-12-26T18:20:42"
+  },
+  {
+    "json_file": "618_151_46_Seg_1527_0119701689655255.json",
+    "pdf_file": "618_151_46_Seg_1527_0119701689655255.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:44"
+  },
+  {
+    "json_file": "619_151_46_Ane_1513_0119701689655495.json",
+    "pdf_file": "619_151_46_Ane_1513_0119701689655495.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:45"
+  },
+  {
+    "json_file": "619_151_46_Ane_1513_0119701689655513.json",
+    "pdf_file": "619_151_46_Ane_1513_0119701689655513.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:47"
+  },
+  {
+    "json_file": "619_151_46_Ane_1513_0119701689655530.json",
+    "pdf_file": "619_151_46_Ane_1513_0119701689655530.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:20:48"
+  },
+  {
+    "json_file": "619_151_46_Ane_1513_0119701689655543.json",
+    "pdf_file": "619_151_46_Ane_1513_0119701689655543.pdf",
+    "old_label": "Contratos",
+    "new_label": "Anexos",
+    "decision": "incorrect",
+    "suggested_keywords": "ANEXO DE TRASLADO",
+    "corrected_at": "2025-12-26T18:20:56"
+  },
+  {
+    "json_file": "619_151_46_Ane_1513_0119701689655561.json",
+    "pdf_file": "619_151_46_Ane_1513_0119701689655561.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:21:30"
+  },
+  {
+    "json_file": "619_151_46_Ane_1513_0119701689655575.json",
+    "pdf_file": "619_151_46_Ane_1513_0119701689655575.pdf",
+    "old_label": "Contratos",
+    "new_label": "Anexos",
+    "decision": "incorrect",
+    "suggested_keywords": "ANEXO DE TRASLADO",
+    "corrected_at": "2025-12-26T18:21:37"
+  },
+  {
+    "json_file": "619_151_46_Ane_1513_0119701689655592.json",
+    "pdf_file": "619_151_46_Ane_1513_0119701689655592.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:21:45"
+  },
+  {
+    "json_file": "619_151_46_Ane_1513_0119701689655611.json",
+    "pdf_file": "619_151_46_Ane_1513_0119701689655611.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:21:46"
+  },
+  {
+    "json_file": "619_151_46_Ced_1518_0119701689655404.json",
+    "pdf_file": "619_151_46_Ced_1518_0119701689655404.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Cedula_identidad",
+    "decision": "incorrect",
+    "suggested_keywords": "CÉDULA DE IDENTIDAD EXTRANJERO",
+    "corrected_at": "2025-12-26T18:22:18"
+  },
+  {
+    "json_file": "619_151_46_Cer_1515_0119701689655449.json",
+    "pdf_file": "619_151_46_Cer_1515_0119701689655449.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:22:21"
+  },
+  {
+    "json_file": "619_151_46_Cer_1515_0119701689655457.json",
+    "pdf_file": "619_151_46_Cer_1515_0119701689655457.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:22:40"
+  },
+  {
+    "json_file": "619_151_46_Cer_1516_0119701689655441.json",
+    "pdf_file": "619_151_46_Cer_1516_0119701689655441.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:22:49"
+  },
+  {
+    "json_file": "619_151_46_Cer_1517_0119701689655424.json",
+    "pdf_file": "619_151_46_Cer_1517_0119701689655424.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:22:50"
+  },
+  {
+    "json_file": "619_151_46_Cer_1517_0119701689655433.json",
+    "pdf_file": "619_151_46_Cer_1517_0119701689655433.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:22:51"
+  },
+  {
+    "json_file": "619_151_46_Com_1508_0119701689655645.json",
+    "pdf_file": "619_151_46_Com_1508_0119701689655645.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:22:52"
+  },
+  {
+    "json_file": "619_151_46_Com_1514_0119701689655471.json",
+    "pdf_file": "619_151_46_Com_1514_0119701689655471.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:22:54"
+  },
+  {
+    "json_file": "619_151_46_Con_1519_0119701689655356.json",
+    "pdf_file": "619_151_46_Con_1519_0119701689655356.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:22:57"
+  },
+  {
+    "json_file": "619_151_46_Con_1519_0119701689655374.json",
+    "pdf_file": "619_151_46_Con_1519_0119701689655374.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:22:58"
+  },
+  {
+    "json_file": "619_151_46_Con_1519_0119701689655387.json",
+    "pdf_file": "619_151_46_Con_1519_0119701689655387.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:22:59"
+  },
+  {
+    "json_file": "619_151_46_For_1507_0119701689655654.json",
+    "pdf_file": "619_151_46_For_1507_0119701689655654.pdf",
+    "old_label": "Contratos",
+    "new_label": "Finiquitos",
+    "decision": "incorrect",
+    "suggested_keywords": "FINIQUITO DE CONTRATO DE TRABAJO",
+    "corrected_at": "2025-12-26T18:23:07"
+  },
+  {
+    "json_file": "619_151_46_Seg_1512_0119701689655622.json",
+    "pdf_file": "619_151_46_Seg_1512_0119701689655622.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:10"
+  },
+  {
+    "json_file": "619_151_46_Seg_1512_0119701689655631.json",
+    "pdf_file": "619_151_46_Seg_1512_0119701689655631.pdf",
+    "old_label": "Cartas",
+    "new_label": "comprobantes",
+    "decision": "incorrect",
+    "suggested_keywords": "Comprobante de Seguro Obligatorio",
+    "corrected_at": "2025-12-26T18:23:24"
+  },
+  {
+    "json_file": "620_151_46_Ane_1468_0119701689655804.json",
+    "pdf_file": "620_151_46_Ane_1468_0119701689655804.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:26"
+  },
+  {
+    "json_file": "620_151_46_Ane_1468_0119701689655819.json",
+    "pdf_file": "620_151_46_Ane_1468_0119701689655819.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:27"
+  },
+  {
+    "json_file": "620_151_46_Ane_1468_0119701689655834.json",
+    "pdf_file": "620_151_46_Ane_1468_0119701689655834.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:29"
+  },
+  {
+    "json_file": "620_151_46_Ane_1468_0119701689655849.json",
+    "pdf_file": "620_151_46_Ane_1468_0119701689655849.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:30"
+  },
+  {
+    "json_file": "620_151_46_Ane_1468_0119701689655870.json",
+    "pdf_file": "620_151_46_Ane_1468_0119701689655870.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:31"
+  },
+  {
+    "json_file": "620_151_46_Ane_1468_0119701689655887.json",
+    "pdf_file": "620_151_46_Ane_1468_0119701689655887.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:32"
+  },
+  {
+    "json_file": "620_151_46_Ane_1468_0119701689655926.json",
+    "pdf_file": "620_151_46_Ane_1468_0119701689655926.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:33"
+  },
+  {
+    "json_file": "620_151_46_Ced_1473_0119701689655733.json",
+    "pdf_file": "620_151_46_Ced_1473_0119701689655733.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:35"
+  },
+  {
+    "json_file": "620_151_46_Cer_1471_0119701689655762.json",
+    "pdf_file": "620_151_46_Cer_1471_0119701689655762.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:37"
+  },
+  {
+    "json_file": "620_151_46_Cer_1471_0119701689655770.json",
+    "pdf_file": "620_151_46_Cer_1471_0119701689655770.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:47"
+  },
+  {
+    "json_file": "620_151_46_Cer_1472_0119701689655744.json",
+    "pdf_file": "620_151_46_Cer_1472_0119701689655744.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:49"
+  },
+  {
+    "json_file": "620_151_46_Cer_1472_0119701689655753.json",
+    "pdf_file": "620_151_46_Cer_1472_0119701689655753.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:50"
+  },
+  {
+    "json_file": "620_151_46_Com_1469_0119701689655786.json",
+    "pdf_file": "620_151_46_Com_1469_0119701689655786.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:51"
+  },
+  {
+    "json_file": "620_151_46_Con_1474_0119701689655683.json",
+    "pdf_file": "620_151_46_Con_1474_0119701689655683.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:52"
+  },
+  {
+    "json_file": "620_151_46_Con_1474_0119701689655701.json",
+    "pdf_file": "620_151_46_Con_1474_0119701689655701.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:54"
+  },
+  {
+    "json_file": "620_151_46_Con_1474_0119701689655719.json",
+    "pdf_file": "620_151_46_Con_1474_0119701689655719.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:55"
+  },
+  {
+    "json_file": "620_151_46_Seg_1467_0119701689655896.json",
+    "pdf_file": "620_151_46_Seg_1467_0119701689655896.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:56"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656139.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656139.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:57"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656150.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656150.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:58"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656163.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656163.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:23:59"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656176.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656176.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:00"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656200.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656200.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:01"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656213.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656213.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:02"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656227.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656227.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:02"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656251.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656251.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:03"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656266.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656266.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:05"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656278.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656278.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:06"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656293.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656293.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:07"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656305.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656305.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "incorrect",
+    "suggested_keywords": "ANEXO DE TRASLADO",
+    "corrected_at": "2025-12-26T18:24:19"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656320.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656320.pdf",
+    "old_label": "Contratos",
+    "new_label": "Anexos",
+    "decision": "incorrect",
+    "suggested_keywords": "ANEXO DE TRASLADO",
+    "corrected_at": "2025-12-26T18:24:25"
+  },
+  {
+    "json_file": "621_151_46_Ane_1378_0119701689656413.json",
+    "pdf_file": "621_151_46_Ane_1378_0119701689656413.pdf",
+    "old_label": "Contratos",
+    "new_label": "Anexos",
+    "decision": "incorrect",
+    "suggested_keywords": "ANEXO CONTRATO DE TRABAJO",
+    "corrected_at": "2025-12-26T18:24:38"
+  },
+  {
+    "json_file": "621_151_46_Ced_1383_0119701689656036.json",
+    "pdf_file": "621_151_46_Ced_1383_0119701689656036.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Cedula_identidad",
+    "decision": "incorrect",
+    "suggested_keywords": "CÉDULA DE IDENTIDAD",
+    "corrected_at": "2025-12-26T18:24:45"
+  },
+  {
+    "json_file": "621_151_46_Ced_1383_0119701689656058.json",
+    "pdf_file": "621_151_46_Ced_1383_0119701689656058.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:46"
+  },
+  {
+    "json_file": "621_151_46_Cer_1380_0119701689656099.json",
+    "pdf_file": "621_151_46_Cer_1380_0119701689656099.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:48"
+  },
+  {
+    "json_file": "621_151_46_Cer_1381_0119701689656088.json",
+    "pdf_file": "621_151_46_Cer_1381_0119701689656088.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:52"
+  },
+  {
+    "json_file": "621_151_46_Cer_1382_0119701689656068.json",
+    "pdf_file": "621_151_46_Cer_1382_0119701689656068.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:53"
+  },
+  {
+    "json_file": "621_151_46_Cer_1382_0119701689656077.json",
+    "pdf_file": "621_151_46_Cer_1382_0119701689656077.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:54"
+  },
+  {
+    "json_file": "621_151_46_Cha_1375_0119701689656387.json",
+    "pdf_file": "621_151_46_Cha_1375_0119701689656387.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Desconocido",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:55"
+  },
+  {
+    "json_file": "621_151_46_Com_1379_0119701689656119.json",
+    "pdf_file": "621_151_46_Com_1379_0119701689656119.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:24:57"
+  },
+  {
+    "json_file": "621_151_46_Con_1384_0119701689655991.json",
+    "pdf_file": "621_151_46_Con_1384_0119701689655991.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:00"
+  },
+  {
+    "json_file": "621_151_46_Con_1384_0119701689656005.json",
+    "pdf_file": "621_151_46_Con_1384_0119701689656005.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:02"
+  },
+  {
+    "json_file": "621_151_46_Con_1384_0119701689656017.json",
+    "pdf_file": "621_151_46_Con_1384_0119701689656017.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:03"
+  },
+  {
+    "json_file": "621_151_46_Pac_1376_0119701689656375.json",
+    "pdf_file": "621_151_46_Pac_1376_0119701689656375.pdf",
+    "old_label": "Contratos",
+    "new_label": "Anexos",
+    "decision": "incorrect",
+    "suggested_keywords": "ANEXO ACUERDO SOBRETIEMPO",
+    "corrected_at": "2025-12-26T18:25:12"
+  },
+  {
+    "json_file": "621_151_46_Seg_1377_0119701689656346.json",
+    "pdf_file": "621_151_46_Seg_1377_0119701689656346.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:14"
+  },
+  {
+    "json_file": "621_151_46_Seg_1377_0119701689656355.json",
+    "pdf_file": "621_151_46_Seg_1377_0119701689656355.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:16"
+  },
+  {
+    "json_file": "623_151_46_Ane_1498_0119701689656603.json",
+    "pdf_file": "623_151_46_Ane_1498_0119701689656603.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:17"
+  },
+  {
+    "json_file": "623_151_46_Ane_1498_0119701689656623.json",
+    "pdf_file": "623_151_46_Ane_1498_0119701689656623.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:18"
+  },
+  {
+    "json_file": "623_151_46_Ane_1498_0119701689656637.json",
+    "pdf_file": "623_151_46_Ane_1498_0119701689656637.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:19"
+  },
+  {
+    "json_file": "623_151_46_Ane_1498_0119701689656653.json",
+    "pdf_file": "623_151_46_Ane_1498_0119701689656653.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:21"
+  },
+  {
+    "json_file": "623_151_46_Ane_1498_0119701689656668.json",
+    "pdf_file": "623_151_46_Ane_1498_0119701689656668.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:21"
+  },
+  {
+    "json_file": "623_151_46_Ane_1498_0119701689656691.json",
+    "pdf_file": "623_151_46_Ane_1498_0119701689656691.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:23"
+  },
+  {
+    "json_file": "623_151_46_Ane_1498_0119701689656715.json",
+    "pdf_file": "623_151_46_Ane_1498_0119701689656715.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:24"
+  },
+  {
+    "json_file": "623_151_46_Ane_1498_0119701689656733.json",
+    "pdf_file": "623_151_46_Ane_1498_0119701689656733.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:25"
+  },
+  {
+    "json_file": "623_151_46_Ced_1503_0119701689656536.json",
+    "pdf_file": "623_151_46_Ced_1503_0119701689656536.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Desconocido",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:29"
+  },
+  {
+    "json_file": "623_151_46_Cer_1501_0119701689656568.json",
+    "pdf_file": "623_151_46_Cer_1501_0119701689656568.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:33"
+  },
+  {
+    "json_file": "623_151_46_Cer_1502_0119701689656548.json",
+    "pdf_file": "623_151_46_Cer_1502_0119701689656548.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:34"
+  },
+  {
+    "json_file": "623_151_46_Cer_1502_0119701689656556.json",
+    "pdf_file": "623_151_46_Cer_1502_0119701689656556.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:34"
+  },
+  {
+    "json_file": "623_151_46_Com_1493_0119701689656760.json",
+    "pdf_file": "623_151_46_Com_1493_0119701689656760.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:36"
+  },
+  {
+    "json_file": "623_151_46_Com_1493_0119701689656771.json",
+    "pdf_file": "623_151_46_Com_1493_0119701689656771.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:36"
+  },
+  {
+    "json_file": "623_151_46_Com_1499_0119701689656582.json",
+    "pdf_file": "623_151_46_Com_1499_0119701689656582.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:37"
+  },
+  {
+    "json_file": "623_151_46_Con_1504_0119701689656472.json",
+    "pdf_file": "623_151_46_Con_1504_0119701689656472.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:38"
+  },
+  {
+    "json_file": "623_151_46_Con_1504_0119701689656487.json",
+    "pdf_file": "623_151_46_Con_1504_0119701689656487.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:39"
+  },
+  {
+    "json_file": "623_151_46_Con_1504_0119701689656507.json",
+    "pdf_file": "623_151_46_Con_1504_0119701689656507.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:40"
+  },
+  {
+    "json_file": "623_151_46_Con_1504_0119701689656520.json",
+    "pdf_file": "623_151_46_Con_1504_0119701689656520.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:41"
+  },
+  {
+    "json_file": "623_151_46_Seg_1497_0119701689656746.json",
+    "pdf_file": "623_151_46_Seg_1497_0119701689656746.pdf",
+    "old_label": "Cartas",
+    "new_label": "comprobantes",
+    "decision": "incorrect",
+    "suggested_keywords": "Comprobante de Seguro Obligatorio Covid-19",
+    "corrected_at": "2025-12-26T18:25:51"
+  },
+  {
+    "json_file": "624_151_46_Ced_1398_0119701689656934.json",
+    "pdf_file": "624_151_46_Ced_1398_0119701689656934.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:53"
+  },
+  {
+    "json_file": "624_151_46_Ced_1398_0119701689656948.json",
+    "pdf_file": "624_151_46_Ced_1398_0119701689656948.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:54"
+  },
+  {
+    "json_file": "624_151_46_Cer_1395_0119701689656992.json",
+    "pdf_file": "624_151_46_Cer_1395_0119701689656992.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:56"
+  },
+  {
+    "json_file": "624_151_46_Cer_1396_0119701689656980.json",
+    "pdf_file": "624_151_46_Cer_1396_0119701689656980.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:25:58"
+  },
+  {
+    "json_file": "624_151_46_Cer_1397_0119701689656958.json",
+    "pdf_file": "624_151_46_Cer_1397_0119701689656958.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:00"
+  },
+  {
+    "json_file": "624_151_46_Cer_1397_0119701689656968.json",
+    "pdf_file": "624_151_46_Cer_1397_0119701689656968.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:07"
+  },
+  {
+    "json_file": "624_151_46_Con_1399_0119701689656868.json",
+    "pdf_file": "624_151_46_Con_1399_0119701689656868.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:09"
+  },
+  {
+    "json_file": "624_151_46_Con_1399_0119701689656887.json",
+    "pdf_file": "624_151_46_Con_1399_0119701689656887.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:11"
+  },
+  {
+    "json_file": "624_151_46_Con_1399_0119701689656914.json",
+    "pdf_file": "624_151_46_Con_1399_0119701689656914.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:12"
+  },
+  {
+    "json_file": "625_151_46_Ane_1408_0119701689657214.json",
+    "pdf_file": "625_151_46_Ane_1408_0119701689657214.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:13"
+  },
+  {
+    "json_file": "625_151_46_Ced_1413_0119701689657124.json",
+    "pdf_file": "625_151_46_Ced_1413_0119701689657124.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Cedula_identidad",
+    "decision": "incorrect",
+    "suggested_keywords": "CÉDULA DE IDENTIDAD",
+    "corrected_at": "2025-12-26T18:26:19"
+  },
+  {
+    "json_file": "625_151_46_Cer_1410_0119701689657161.json",
+    "pdf_file": "625_151_46_Cer_1410_0119701689657161.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:22"
+  },
+  {
+    "json_file": "625_151_46_Cer_1411_0119701689657152.json",
+    "pdf_file": "625_151_46_Cer_1411_0119701689657152.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:23"
+  },
+  {
+    "json_file": "625_151_46_Cer_1412_0119701689657137.json",
+    "pdf_file": "625_151_46_Cer_1412_0119701689657137.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:24"
+  },
+  {
+    "json_file": "625_151_46_Cer_1412_0119701689657145.json",
+    "pdf_file": "625_151_46_Cer_1412_0119701689657145.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:25"
+  },
+  {
+    "json_file": "625_151_46_Cha_1405_0119701689657233.json",
+    "pdf_file": "625_151_46_Cha_1405_0119701689657233.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:35"
+  },
+  {
+    "json_file": "625_151_46_Com_1409_0119701689657171.json",
+    "pdf_file": "625_151_46_Com_1409_0119701689657171.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:39"
+  },
+  {
+    "json_file": "625_151_46_Con_1414_0119701689657077.json",
+    "pdf_file": "625_151_46_Con_1414_0119701689657077.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:42"
+  },
+  {
+    "json_file": "625_151_46_Con_1414_0119701689657093.json",
+    "pdf_file": "625_151_46_Con_1414_0119701689657093.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:43"
+  },
+  {
+    "json_file": "625_151_46_Con_1414_0119701689657108.json",
+    "pdf_file": "625_151_46_Con_1414_0119701689657108.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:44"
+  },
+  {
+    "json_file": "626_151_46_Ane_1408_0119701689657432.json",
+    "pdf_file": "626_151_46_Ane_1408_0119701689657432.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:45"
+  },
+  {
+    "json_file": "626_151_46_Ane_1408_0119701689657445.json",
+    "pdf_file": "626_151_46_Ane_1408_0119701689657445.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:46"
+  },
+  {
+    "json_file": "626_151_46_Ane_1408_0119701689657457.json",
+    "pdf_file": "626_151_46_Ane_1408_0119701689657457.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:47"
+  },
+  {
+    "json_file": "626_151_46_Ane_1408_0119701689657472.json",
+    "pdf_file": "626_151_46_Ane_1408_0119701689657472.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:48"
+  },
+  {
+    "json_file": "626_151_46_Ced_1413_0119701689657355.json",
+    "pdf_file": "626_151_46_Ced_1413_0119701689657355.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:49"
+  },
+  {
+    "json_file": "626_151_46_Cer_1410_0119701689657390.json",
+    "pdf_file": "626_151_46_Cer_1410_0119701689657390.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:50"
+  },
+  {
+    "json_file": "626_151_46_Cer_1412_0119701689657366.json",
+    "pdf_file": "626_151_46_Cer_1412_0119701689657366.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:51"
+  },
+  {
+    "json_file": "626_151_46_Cer_1412_0119701689657374.json",
+    "pdf_file": "626_151_46_Cer_1412_0119701689657374.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:52"
+  },
+  {
+    "json_file": "626_151_46_Cha_1405_0119701689657494.json",
+    "pdf_file": "626_151_46_Cha_1405_0119701689657494.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:54"
+  },
+  {
+    "json_file": "626_151_46_Com_1409_0119701689657400.json",
+    "pdf_file": "626_151_46_Com_1409_0119701689657400.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:56"
+  },
+  {
+    "json_file": "626_151_46_Com_1409_0119701689657409.json",
+    "pdf_file": "626_151_46_Com_1409_0119701689657409.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:57"
+  },
+  {
+    "json_file": "626_151_46_Con_1414_0119701689657300.json",
+    "pdf_file": "626_151_46_Con_1414_0119701689657300.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:26:59"
+  },
+  {
+    "json_file": "626_151_46_Con_1414_0119701689657318.json",
+    "pdf_file": "626_151_46_Con_1414_0119701689657318.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:27:00"
+  },
+  {
+    "json_file": "626_151_46_Con_1414_0119701689657331.json",
+    "pdf_file": "626_151_46_Con_1414_0119701689657331.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:27:01"
+  },
+  {
+    "json_file": "756_194_52_CON_1825_1219691715954410.json",
+    "pdf_file": "756_194_52_CON_1825_1219691715954410.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:27:02"
+  },
+  {
+    "json_file": "756_194_52_LIQ_1876_02_20231715954503.json",
+    "pdf_file": "756_194_52_LIQ_1876_02_20231715954503.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "Liquidación de Remuneraciones",
+    "corrected_at": "2025-12-26T18:27:10"
+  },
+  {
+    "json_file": "756_194_52_LIQ_1876_08_20231715954537.json",
+    "pdf_file": "756_194_52_LIQ_1876_08_20231715954537.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "Liquidación de Remuneraciones Impuesto Unico Seguro de Cesantia Total  Imponibles: Total No Imponibles:",
+    "corrected_at": "2025-12-26T18:27:33"
+  },
+  {
+    "json_file": "756_194_52_LIQ_1876_10_20231715954571.json",
+    "pdf_file": "756_194_52_LIQ_1876_10_20231715954571.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "Total  Imponibles: Total No Imponibles:",
+    "corrected_at": "2025-12-26T18:27:38"
+  },
+  {
+    "json_file": "778_199_53_Con_1969_1219691715809887.json",
+    "pdf_file": "778_199_53_Con_1969_1219691715809887.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:27:40"
+  },
+  {
+    "json_file": "778_199_53_Con_1969_1219691715809938.json",
+    "pdf_file": "778_199_53_Con_1969_1219691715809938.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:27:41"
+  },
+  {
+    "json_file": "778_199_53_Ent_1974_1219691715810048.json",
+    "pdf_file": "778_199_53_Ent_1974_1219691715810048.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "Reglamento Interno de Orden",
+    "corrected_at": "2025-12-26T18:27:54"
+  },
+  {
+    "json_file": "778_199_53_Lic_1979_1219691715885334.json",
+    "pdf_file": "778_199_53_Lic_1979_1219691715885334.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:07"
+  },
+  {
+    "json_file": "778_199_53_Liq_1986_01_20241715810116.json",
+    "pdf_file": "778_199_53_Liq_1986_01_20241715810116.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:11"
+  },
+  {
+    "json_file": "778_199_53_Liq_1986_02_20241715810151.json",
+    "pdf_file": "778_199_53_Liq_1986_02_20241715810151.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "Descuentos Haberes Imponibles Haberes No Imponibles Total Descuentos: Alcance Liquido:",
+    "corrected_at": "2025-12-26T18:28:38"
+  },
+  {
+    "json_file": "778_199_53_Liq_1986_03_20241715810191.json",
+    "pdf_file": "778_199_53_Liq_1986_03_20241715810191.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:42"
+  },
+  {
+    "json_file": "778_199_53_Liq_1986_04_20241715810238.json",
+    "pdf_file": "778_199_53_Liq_1986_04_20241715810238.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:44"
+  },
+  {
+    "json_file": "778_199_53_Seg_1981_1219691715810005.json",
+    "pdf_file": "778_199_53_Seg_1981_1219691715810005.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:46"
+  },
+  {
+    "json_file": "781_199_53_CE_1972_1219691715810657.json",
+    "pdf_file": "781_199_53_CE_1972_1219691715810657.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:48"
+  },
+  {
+    "json_file": "781_199_53_Con_1969_1219691715810426.json",
+    "pdf_file": "781_199_53_Con_1969_1219691715810426.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:49"
+  },
+  {
+    "json_file": "781_199_53_Con_1969_1219691715810475.json",
+    "pdf_file": "781_199_53_Con_1969_1219691715810475.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:50"
+  },
+  {
+    "json_file": "781_199_53_Con_1969_1219691715810582.json",
+    "pdf_file": "781_199_53_Con_1969_1219691715810582.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:52"
+  },
+  {
+    "json_file": "784_199_53_CE_1972_1219691715802541.json",
+    "pdf_file": "784_199_53_CE_1972_1219691715802541.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:53"
+  },
+  {
+    "json_file": "784_199_53_Com_1971_1219691715802593.json",
+    "pdf_file": "784_199_53_Com_1971_1219691715802593.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:54"
+  },
+  {
+    "json_file": "784_199_53_Con_1969_1219691715802357.json",
+    "pdf_file": "784_199_53_Con_1969_1219691715802357.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:55"
+  },
+  {
+    "json_file": "784_199_53_Con_1969_1219691715802490.json",
+    "pdf_file": "784_199_53_Con_1969_1219691715802490.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:28:57"
+  },
+  {
+    "json_file": "784_199_53_Ent_1974_1219691715802630.json",
+    "pdf_file": "784_199_53_Ent_1974_1219691715802630.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:02"
+  },
+  {
+    "json_file": "784_199_53_Ent_1976_1219691715802669.json",
+    "pdf_file": "784_199_53_Ent_1976_1219691715802669.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Cedula_identidad",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:03"
+  },
+  {
+    "json_file": "784_199_53_Fic_1968_1219691715801939.json",
+    "pdf_file": "784_199_53_Fic_1968_1219691715801939.pdf",
+    "old_label": "Certificados",
+    "new_label": "Certificados",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:10"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_01_20221715803562.json",
+    "pdf_file": "784_199_53_Liq_1986_01_20221715803562.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:13"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_01_20231715802923.json",
+    "pdf_file": "784_199_53_Liq_1986_01_20231715802923.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:17"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_02_20221715803530.json",
+    "pdf_file": "784_199_53_Liq_1986_02_20221715803530.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:20"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_02_20231715802981.json",
+    "pdf_file": "784_199_53_Liq_1986_02_20231715802981.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:23"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_03_20221715803243.json",
+    "pdf_file": "784_199_53_Liq_1986_03_20221715803243.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "Liquidación de Remuneraciones",
+    "corrected_at": "2025-12-26T18:29:30"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_03_20231715803013.json",
+    "pdf_file": "784_199_53_Liq_1986_03_20231715803013.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "Liquidación de Remuneraciones liquidación",
+    "corrected_at": "2025-12-26T18:29:46"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_03_20241715802838.json",
+    "pdf_file": "784_199_53_Liq_1986_03_20241715802838.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:49"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_04_20221715803216.json",
+    "pdf_file": "784_199_53_Liq_1986_04_20221715803216.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:51"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_04_20231715803047.json",
+    "pdf_file": "784_199_53_Liq_1986_04_20231715803047.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:54"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_04_20241715802874.json",
+    "pdf_file": "784_199_53_Liq_1986_04_20241715802874.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:29:59"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_05_20221715803282.json",
+    "pdf_file": "784_199_53_Liq_1986_05_20221715803282.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:04"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_05_20231715803134.json",
+    "pdf_file": "784_199_53_Liq_1986_05_20231715803134.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:06"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_06_20221715803419.json",
+    "pdf_file": "784_199_53_Liq_1986_06_20221715803419.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:09"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_07_20221715803389.json",
+    "pdf_file": "784_199_53_Liq_1986_07_20221715803389.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:14"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_08_20221715803335.json",
+    "pdf_file": "784_199_53_Liq_1986_08_20221715803335.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:17"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_09_20221715803310.json",
+    "pdf_file": "784_199_53_Liq_1986_09_20221715803310.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:22"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_10_20221715803497.json",
+    "pdf_file": "784_199_53_Liq_1986_10_20221715803497.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:24"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_11_20221715803448.json",
+    "pdf_file": "784_199_53_Liq_1986_11_20221715803448.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:26"
+  },
+  {
+    "json_file": "784_199_53_Liq_1986_12_20221715803190.json",
+    "pdf_file": "784_199_53_Liq_1986_12_20221715803190.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:29"
+  },
+  {
+    "json_file": "784_199_53_Seg_1981_1219691715802748.json",
+    "pdf_file": "784_199_53_Seg_1981_1219691715802748.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:31"
+  },
+  {
+    "json_file": "784_199_53_Seg_1981_1219691715802791.json",
+    "pdf_file": "784_199_53_Seg_1981_1219691715802791.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:32"
+  },
+  {
+    "json_file": "785_199_53_Com_1971_1219691715808634.json",
+    "pdf_file": "785_199_53_Com_1971_1219691715808634.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:33"
+  },
+  {
+    "json_file": "785_199_53_Con_1969_1219691715804586.json",
+    "pdf_file": "785_199_53_Con_1969_1219691715804586.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:35"
+  },
+  {
+    "json_file": "785_199_53_Con_1969_1219691715804727.json",
+    "pdf_file": "785_199_53_Con_1969_1219691715804727.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:36"
+  },
+  {
+    "json_file": "785_199_53_Con_1969_1219691715804785.json",
+    "pdf_file": "785_199_53_Con_1969_1219691715804785.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:37"
+  },
+  {
+    "json_file": "785_199_53_Ent_1974_1219691715808270.json",
+    "pdf_file": "785_199_53_Ent_1974_1219691715808270.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:30:38"
+  },
+  {
+    "json_file": "785_199_53_Ent_1976_1219691715808334.json",
+    "pdf_file": "785_199_53_Ent_1976_1219691715808334.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "ACTA ENTREGA DE EQUIPOS",
+    "corrected_at": "2025-12-26T18:30:48"
+  },
+  {
+    "json_file": "785_199_53_Ent_1976_1219691715808365.json",
+    "pdf_file": "785_199_53_Ent_1976_1219691715808365.pdf",
+    "old_label": "Cedula_identidad",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "ACTA ENTREGA DE EQUIPOS",
+    "corrected_at": "2025-12-26T18:30:54"
+  },
+  {
+    "json_file": "785_199_53_Ent_1976_1219691715808387.json",
+    "pdf_file": "785_199_53_Ent_1976_1219691715808387.pdf",
+    "old_label": "Desconocido",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "Recepcion de implementos / Equipos laborales",
+    "corrected_at": "2025-12-26T18:31:03"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_01_20221715805751.json",
+    "pdf_file": "785_199_53_Liq_1986_01_20221715805751.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:08"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_01_20241715804967.json",
+    "pdf_file": "785_199_53_Liq_1986_01_20241715804967.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:10"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_02_20221715805496.json",
+    "pdf_file": "785_199_53_Liq_1986_02_20221715805496.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:12"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_03_20221715805265.json",
+    "pdf_file": "785_199_53_Liq_1986_03_20221715805265.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:15"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_03_20241715805086.json",
+    "pdf_file": "785_199_53_Liq_1986_03_20241715805086.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:17"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_04_20221715805302.json",
+    "pdf_file": "785_199_53_Liq_1986_04_20221715805302.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:19"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_04_20231715808166.json",
+    "pdf_file": "785_199_53_Liq_1986_04_20231715808166.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:22"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_04_20241715805215.json",
+    "pdf_file": "785_199_53_Liq_1986_04_20241715805215.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:24"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_05_20221715805462.json",
+    "pdf_file": "785_199_53_Liq_1986_05_20221715805462.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:28"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_05_20231715808134.json",
+    "pdf_file": "785_199_53_Liq_1986_05_20231715808134.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:31"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_06_20221715806428.json",
+    "pdf_file": "785_199_53_Liq_1986_06_20221715806428.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:34"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_06_20231715806321.json",
+    "pdf_file": "785_199_53_Liq_1986_06_20231715806321.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:37"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_07_20221715806480.json",
+    "pdf_file": "785_199_53_Liq_1986_07_20221715806480.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:39"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_08_20221715807922.json",
+    "pdf_file": "785_199_53_Liq_1986_08_20221715807922.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:42"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_08_20231715806359.json",
+    "pdf_file": "785_199_53_Liq_1986_08_20231715806359.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:44"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_09_20221715808002.json",
+    "pdf_file": "785_199_53_Liq_1986_09_20221715808002.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:46"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_09_20231715806393.json",
+    "pdf_file": "785_199_53_Liq_1986_09_20231715806393.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:48"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_10_20211715805634.json",
+    "pdf_file": "785_199_53_Liq_1986_10_20211715805634.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:50"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_10_20221715808034.json",
+    "pdf_file": "785_199_53_Liq_1986_10_20221715808034.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:53"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_10_20231715808075.json",
+    "pdf_file": "785_199_53_Liq_1986_10_20231715808075.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:31:57"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_11_20211715805539.json",
+    "pdf_file": "785_199_53_Liq_1986_11_20211715805539.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:01"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_12_20211715805583.json",
+    "pdf_file": "785_199_53_Liq_1986_12_20211715805583.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "Periodo de Remuneraciones:",
+    "corrected_at": "2025-12-26T18:32:08"
+  },
+  {
+    "json_file": "785_199_53_Liq_1986_12_20221715806287.json",
+    "pdf_file": "785_199_53_Liq_1986_12_20221715806287.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "Periodo de Remuneraciones:",
+    "corrected_at": "2025-12-26T18:32:14"
+  },
+  {
+    "json_file": "785_199_53_Seg_1981_1219691715808520.json",
+    "pdf_file": "785_199_53_Seg_1981_1219691715808520.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:17"
+  },
+  {
+    "json_file": "785_199_53_Seg_1981_1219691715808591.json",
+    "pdf_file": "785_199_53_Seg_1981_1219691715808591.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:17"
+  },
+  {
+    "json_file": "787_199_53_Ane_1970_1219691715803835.json",
+    "pdf_file": "787_199_53_Ane_1970_1219691715803835.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:20"
+  },
+  {
+    "json_file": "787_199_53_Ane_1970_1219691715803875.json",
+    "pdf_file": "787_199_53_Ane_1970_1219691715803875.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:21"
+  },
+  {
+    "json_file": "787_199_53_Com_1971_1219691715804054.json",
+    "pdf_file": "787_199_53_Com_1971_1219691715804054.pdf",
+    "old_label": "comprobantes",
+    "new_label": "comprobantes",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:23"
+  },
+  {
+    "json_file": "787_199_53_Con_1969_1219691715803760.json",
+    "pdf_file": "787_199_53_Con_1969_1219691715803760.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:23"
+  },
+  {
+    "json_file": "787_199_53_Lic_1979_1219691715804367.json",
+    "pdf_file": "787_199_53_Lic_1979_1219691715804367.pdf",
+    "old_label": "Contratos",
+    "new_label": "Contratos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:26"
+  },
+  {
+    "json_file": "787_199_53_Liq_1986_03_20241715804416.json",
+    "pdf_file": "787_199_53_Liq_1986_03_20241715804416.pdf",
+    "old_label": "Contratos",
+    "new_label": "Liquidaciones",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:30"
+  },
+  {
+    "json_file": "787_199_53_Liq_1986_04_20241715804450.json",
+    "pdf_file": "787_199_53_Liq_1986_04_20241715804450.pdf",
+    "old_label": "Contratos",
+    "new_label": "Anexos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:33"
+  },
+  {
+    "json_file": "787_199_53_Vac_1978_1219691715804138.json",
+    "pdf_file": "787_199_53_Vac_1978_1219691715804138.pdf",
+    "old_label": "Contratos",
+    "new_label": "Desconocido",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:37"
+  },
+  {
+    "json_file": "787_199_53_Vac_1978_1219691715804166.json",
+    "pdf_file": "787_199_53_Vac_1978_1219691715804166.pdf",
+    "old_label": "Contratos",
+    "new_label": "Desconocido",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:32:41"
+  },
+  {
+    "json_file": "documento_117004562694198b7833622.57428887.json",
+    "pdf_file": "documento_117004562694198b7833622.57428887.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "Capacitacion maTRIZ IPER Temas tratados",
+    "corrected_at": "2025-12-26T18:33:03"
+  },
+  {
+    "json_file": "documento_117004562694198b7b6a7b4.62578771.json",
+    "pdf_file": "documento_117004562694198b7b6a7b4.62578771.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:33:09"
+  },
+  {
+    "json_file": "documento_117004562694198b8936a71.01215153.json",
+    "pdf_file": "documento_117004562694198b8936a71.01215153.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "PROTOCOLO MINSAL  Capacitacion",
+    "corrected_at": "2025-12-26T18:33:29"
+  },
+  {
+    "json_file": "documento_117004562694198b9a66217.10624915.json",
+    "pdf_file": "documento_117004562694198b9a66217.10624915.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:34:09"
+  },
+  {
+    "json_file": "documento_117004562694198ba3967f8.97626973.json",
+    "pdf_file": "documento_117004562694198ba3967f8.97626973.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "Capacitacion",
+    "corrected_at": "2025-12-26T18:34:25"
+  },
+  {
+    "json_file": "documento_117004562694198ba94fca2.00526223.json",
+    "pdf_file": "documento_117004562694198ba94fca2.00526223.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "PROCEDIMIENTO",
+    "corrected_at": "2025-12-26T18:34:38"
+  },
+  {
+    "json_file": "documento_117004562694198bac66d01.56358992.json",
+    "pdf_file": "documento_117004562694198bac66d01.56358992.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "MATRIZ DE RIESGOS",
+    "corrected_at": "2025-12-26T18:34:50"
+  },
+  {
+    "json_file": "documento_117004562694198bb6b35a0.92111111.json",
+    "pdf_file": "documento_117004562694198bb6b35a0.92111111.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "PREVENCION DE RIESGOS",
+    "corrected_at": "2025-12-26T18:34:56"
+  },
+  {
+    "json_file": "documento_117004562694198bbb76df5.59663814.json",
+    "pdf_file": "documento_117004562694198bbb76df5.59663814.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "Capacitacion DIFUSION PROTOCOLO",
+    "corrected_at": "2025-12-26T18:35:08"
+  },
+  {
+    "json_file": "documento_117004562694198bbdd59b0.02509554.json",
+    "pdf_file": "documento_117004562694198bbdd59b0.02509554.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "Capacitacion",
+    "corrected_at": "2025-12-26T18:35:18"
+  },
+  {
+    "json_file": "documento_169832647694182f83c3766.04899687.json",
+    "pdf_file": "documento_169832647694182f83c3766.04899687.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "MATRIZ DE IDENTIFICACION DE PELIGRO",
+    "corrected_at": "2025-12-26T18:35:25"
+  },
+  {
+    "json_file": "documento_169832647694182f857a749.48389410.json",
+    "pdf_file": "documento_169832647694182f857a749.48389410.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:35:29"
+  },
+  {
+    "json_file": "documento_169832647694182f9adb669.86948323.json",
+    "pdf_file": "documento_169832647694182f9adb669.86948323.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:35:33"
+  },
+  {
+    "json_file": "documento_169832647694182fb169379.14463234.json",
+    "pdf_file": "documento_169832647694182fb169379.14463234.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "PROTOCOLO",
+    "corrected_at": "2025-12-26T18:35:39"
+  },
+  {
+    "json_file": "documento_169832647694182fb4799e5.39658662.json",
+    "pdf_file": "documento_169832647694182fb4799e5.39658662.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:35:45"
+  },
+  {
+    "json_file": "documento_169832647694182fbca4974.61594757.json",
+    "pdf_file": "documento_169832647694182fbca4974.61594757.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:35:49"
+  },
+  {
+    "json_file": "documento_169832647694182fc55e761.66596772.json",
+    "pdf_file": "documento_169832647694182fc55e761.66596772.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "CAPACITACION MATRIZ DE RIESGOS",
+    "corrected_at": "2025-12-26T18:35:55"
+  },
+  {
+    "json_file": "documento_169832647694182fcbf2558.61039463.json",
+    "pdf_file": "documento_169832647694182fcbf2558.61039463.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "PROGRAMA PREVENCION DE RIESGOS",
+    "corrected_at": "2025-12-26T18:36:02"
+  },
+  {
+    "json_file": "documento_169832647694182fd35aaf5.77808808.json",
+    "pdf_file": "documento_169832647694182fd35aaf5.77808808.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "REGISTRO CAPACITACION LEY KARIN",
+    "corrected_at": "2025-12-26T18:36:09"
+  },
+  {
+    "json_file": "documento_169832647694182fdb3f717.12395490.json",
+    "pdf_file": "documento_169832647694182fdb3f717.12395490.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:18"
+  },
+  {
+    "json_file": "documento_20789762069405fbfeca2e7.79446459.json",
+    "pdf_file": "documento_20789762069405fbfeca2e7.79446459.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:27"
+  },
+  {
+    "json_file": "documento_20789762069405fbfee4c98.66287377.json",
+    "pdf_file": "documento_20789762069405fbfee4c98.66287377.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:31"
+  },
+  {
+    "json_file": "documento_20789762069405fbfee7fd5.60556070.json",
+    "pdf_file": "documento_20789762069405fbfee7fd5.60556070.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:35"
+  },
+  {
+    "json_file": "documento_20789762069405fc176b7a0.00717123.json",
+    "pdf_file": "documento_20789762069405fc176b7a0.00717123.pdf",
+    "old_label": "Finiquitos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:38"
+  },
+  {
+    "json_file": "documento_20789762069405fc182a421.66835711.json",
+    "pdf_file": "documento_20789762069405fc182a421.66835711.pdf",
+    "old_label": "Contratos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "incorrect",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:41"
+  },
+  {
+    "json_file": "induccion_694072919f60d8.03595685.json",
+    "pdf_file": "induccion_694072919f60d8.03595685.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:44"
+  },
+  {
+    "json_file": "induccion_6940747ad1dd95.94584269.json",
+    "pdf_file": "induccion_6940747ad1dd95.94584269.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:46"
+  },
+  {
+    "json_file": "induccion_6940750f42b091.81715563.json",
+    "pdf_file": "induccion_6940750f42b091.81715563.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:47"
+  },
+  {
+    "json_file": "induccion_69407585552a45.08686712.json",
+    "pdf_file": "induccion_69407585552a45.08686712.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:47"
+  },
+  {
+    "json_file": "induccion_694076c05d9847.09607627.json",
+    "pdf_file": "induccion_694076c05d9847.09607627.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:48"
+  },
+  {
+    "json_file": "induccion_6940770a29a760.59451458.json",
+    "pdf_file": "induccion_6940770a29a760.59451458.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:48"
+  },
+  {
+    "json_file": "induccion_694077467dcb91.54809761.json",
+    "pdf_file": "induccion_694077467dcb91.54809761.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:49"
+  },
+  {
+    "json_file": "induccion_6940777ed11ce2.31369580.json",
+    "pdf_file": "induccion_6940777ed11ce2.31369580.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:50"
+  },
+  {
+    "json_file": "induccion_69407811ebf953.25667168.json",
+    "pdf_file": "induccion_69407811ebf953.25667168.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:50"
+  },
+  {
+    "json_file": "induccion_694078a439fba6.36320805.json",
+    "pdf_file": "induccion_694078a439fba6.36320805.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:51"
+  },
+  {
+    "json_file": "induccion_6940790bca5032.61656846.json",
+    "pdf_file": "induccion_6940790bca5032.61656846.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:51"
+  },
+  {
+    "json_file": "induccion_6940796396d457.94015910.json",
+    "pdf_file": "induccion_6940796396d457.94015910.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:52"
+  },
+  {
+    "json_file": "induccion_6941614a254ac5.19989539.json",
+    "pdf_file": "induccion_6941614a254ac5.19989539.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:52"
+  },
+  {
+    "json_file": "induccion_6941614eab71d4.20089345.json",
+    "pdf_file": "induccion_6941614eab71d4.20089345.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:53"
+  },
+  {
+    "json_file": "induccion_694182bdc3b260.60919958.json",
+    "pdf_file": "induccion_694182bdc3b260.60919958.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:53"
+  },
+  {
+    "json_file": "induccion_6941973d2bdce3.16053096.json",
+    "pdf_file": "induccion_6941973d2bdce3.16053096.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:54"
+  },
+  {
+    "json_file": "merged_document_31436941ab1ee4ed4.json",
+    "pdf_file": "merged_document_31436941ab1ee4ed4.pdf",
+    "old_label": "Anexos",
+    "new_label": "Anexos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:56"
+  },
+  {
+    "json_file": "merged_document_541.json",
+    "pdf_file": "merged_document_541.pdf",
+    "old_label": "Liquidaciones",
+    "new_label": "Liquidaciones",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:58"
+  },
+  {
+    "json_file": "merged_document_549.json",
+    "pdf_file": "merged_document_549.pdf",
+    "old_label": "Liquidaciones",
+    "new_label": "Liquidaciones",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:36:58"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-112840605694079642290f6.26552139.json",
+    "pdf_file": "Recepcion_Reglamento-112840605694079642290f6.26552139.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:01"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-117004562694197403064b5.13428093.json",
+    "pdf_file": "Recepcion_Reglamento-117004562694197403064b5.13428093.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:02"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-117637794694078a4cf7b41.76524718.json",
+    "pdf_file": "Recepcion_Reglamento-117637794694078a4cf7b41.76524718.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:03"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-1237332826940777f5c1db9.88730311.json",
+    "pdf_file": "Recepcion_Reglamento-1237332826940777f5c1db9.88730311.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:03"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-12786930869407812745507.78856562.json",
+    "pdf_file": "Recepcion_Reglamento-12786930869407812745507.78856562.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:04"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-1465102726940770abfef79.75604280.json",
+    "pdf_file": "Recepcion_Reglamento-1465102726940770abfef79.75604280.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:04"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-15849211369407293e54588.48427208.json",
+    "pdf_file": "Recepcion_Reglamento-15849211369407293e54588.48427208.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:05"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-169832647694182be7a8878.25430820.json",
+    "pdf_file": "Recepcion_Reglamento-169832647694182be7a8878.25430820.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:05"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-1876195136940747b5b17b5.92854844.json",
+    "pdf_file": "Recepcion_Reglamento-1876195136940747b5b17b5.92854844.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:05"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-18967500369407585d59b15.06129639.json",
+    "pdf_file": "Recepcion_Reglamento-18967500369407585d59b15.06129639.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:06"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-2275584746941614c7896f6.79358437.json",
+    "pdf_file": "Recepcion_Reglamento-2275584746941614c7896f6.79358437.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:06"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-2275584746941614f2cd7e3.68051472.json",
+    "pdf_file": "Recepcion_Reglamento-2275584746941614f2cd7e3.68051472.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:06"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-26743266K6940774711d648.48218322.json",
+    "pdf_file": "Recepcion_Reglamento-26743266K6940774711d648.48218322.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:07"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-865211136940790c541934.17547623.json",
+    "pdf_file": "Recepcion_Reglamento-865211136940790c541934.17547623.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:07"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-90598139694076c0e63de4.39849740.json",
+    "pdf_file": "Recepcion_Reglamento-90598139694076c0e63de4.39849740.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "",
+    "corrected_at": "2025-12-26T18:37:08"
+  },
+  {
+    "json_file": "Recepcion_Reglamento-9086209K6940750fd46b62.43650142.json",
+    "pdf_file": "Recepcion_Reglamento-9086209K6940750fd46b62.43650142.pdf",
+    "old_label": "Prevencion_riesgos",
+    "new_label": "Prevencion_riesgos",
+    "decision": "correct",
+    "suggested_keywords": "REGISTRO DE ENTREGA Y RECEPCIÓN",
+    "corrected_at": "2025-12-26T18:37:29"
+  }
+]

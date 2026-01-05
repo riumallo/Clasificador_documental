@@ -1,0 +1,12 @@
+{
+  "file": "618_151_46_Cer_1530_0119701689655200.pdf",
+  "text": "--- PAGE 1 ---\nUnión Comunal N°12\nJunta de Vecinos 1\nEstación Central\nEstación Central,\n6 done Junio\nCERTIFICADO DE RESIDENCIA\ncertifica que el Sr. (a)\nLa Junta de Vecinos N°\n1-12\ncon residencia en\nJavicon\nSalas\ndel 20\nNo 004894\nLeon Avril\nR.U.T: 26.252.359-4\n4111\n22\nde Chile\ncorrespondiente al sector de esta Unidad Vecinal.\nSe otorga el presente certificado a petición del interesado, para ser presentado en:\nmit varios\nTESORERO\nIMP, TORRES Y CIA. LTDA. - R.U.T. 77.494.580-6- FONO: 99825 9825\nCINCO DE\nJUNTA DE VECINOS\nABRIL\nPersonalidad Juridica\n598\nPRESIDENCIA\nEST\nNTRAL\nPRESIDENTE",
+  "label": "Certificados",
+  "score": 0.4230769230769231,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertifica\\b"
+  ],
+  "processed_at": "2025-12-24T17:41:57",
+  "classified_at": "2025-12-26T17:28:45"
+}

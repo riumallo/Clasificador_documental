@@ -1,0 +1,11 @@
+{
+  "file": "787_199_53_Com_1971_1219691715804054.pdf",
+  "text": "Código de verificación AZQGPADDVAMX\nCOMPROBANTE DE REGISTRO ELECTRÓNICO DE CONTRATO DE\nTRABAJO\nConforme lo dispone el artículo 9 bis del Código del Trabajo, con fecha 19/03/2024 se\nha registrado en el sitio electrónico de la Dirección del Trabajo, el contrato individual\nde trabajo suscrito entre el empleador HOMEPYMES ASESORÍAS INTEGRALES SPA, RUT.\n76.580.031-5 y el/la trabajador/a Sr./Srta. JAVIERA BELÉN CIFUENTES DONOSO,\nRUT/DNI/PASAPORTE 20.162.408-8.\nDIRECCIÓN DEL TRABAJO\nLa información contenida en el formulario de registro de contrato de trabajo es de\nexclusiva responsabilidad del empleador. El empleador deberá mantener disponibles\nlos originales de contratos y/o anexos que hayan servido de base para este registro,\nlos que le podrán ser requeridos de manera digital o físicamente por parte de\nfuncionarios de la Dirección del Trabajo.",
+  "label": "comprobantes",
+  "score": 1.0,
+  "evidence": [
+    "\\bcomprobante de registro\\b"
+  ],
+  "processed_at": "2025-12-24T18:34:34",
+  "classified_at": "2025-12-26T17:28:46"
+}

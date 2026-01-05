@@ -1,0 +1,17 @@
+{
+  "file": "785_199_53_Con_1969_1219691715804586.pdf",
+  "text": "--- PAGE 1 ---\nHOMEPYMES\nASESORÍA INTEGRAL A PYMES\nCONTRATO DE TRABAJO\nEn Santiago, a 01 de octubre del 2021 entre \"HOMEPYMES ASESORIAS INTEGRALES\", Rut 76.580.031-5,\nrepresentado(a) legalmente por don(a) FELIPE ANDRÉS ÁLVAREZ SÁNCHEZ, cédula de identidad\n18.707.734-6, ambos con domicilio en AV. GRECIA #1938 ÑUÑOA, SANTIAGO, correo electrónico\nfalvarez@grupohb.cl y don(a) VALENTINA JAVIERA JARA INOSTROZA Rut 19.870.539-K, de nacionalidad\nCHILENA, nacido(a) el 10 DE OCTUBRE DE 1998, domiciliado en PASAJE LIMACHE # 685, LA FLORIDA,\nSANTIAGO, correo electrónico valenttina.javiera1010@gmail.com en adelante \"Trabajador\". Se ha\nconvenido el siguiente Contrato Individual de Trabajo.\nPRIMERO: El trabajador se compromete a ejecutar función de ASISTENTE DE RECURSOS HUMANOS, en\nel establecimiento denominado CASA MATRIZ. Ubicado en AV. GRECIA #1938 ÑUÑOA, SANTIAGO.\nPudiendo ser trasladado a otro domicilio dentro de la ciudad, por causa justificada, sin que ello importe\nmenoscabo al trabajador.\nSEGUNDO: La jornada de trabajo será según art. 22 del código del trabajo.\nTERCERO: El empleador se compromete a remunerar al trabajador la suma de $ 337.000 TRESCIENTOS\nTREINTA Y SIETE MIL PESOS más gratificación mensual con tope de 4.75 ingresos mínimos mensuales,\nmontos sobre los cuales se efectuarán los descuentos legales correspondientes, más Colación $27.000 y\nMovilización $26.650. La remuneración se pagará por periodos vencidos, dentro de los primeros cinco\ndías hábiles de cada mes.\nCUARTO: El presente Contrato de Trabajo es de carácter plazo fijo hasta el 15 DE ENERO 2022, y podrá\nponerse término al mismo cuando concurran para ello causas justificadas que, en conformidad a la ley,\npuedan producir su caducidad o sea permitido dar al trabajador el aviso de desahucio con 30 días de\nanticipación a lo menos. De la misma forma, el incumplimiento de las obligaciones en las cláusulas que\neste establece, así como en las que se detallan en la cláusula primera, darán derecho al Empleador para\nponer término al Contrato.\nQUINTO: Se deja constancia que el Empleado ingresó al servicio de la Empresa con fecha\n01 de octubre de 2021.\nSEXTO: Se entienden incorporadas al presente Contrato todas las disposiciones legales que se dicten con\nposterioridad a la fecha de suscripción y que tengan relación con él.\nEl presente contrato se firma en dos ejemplares, quedando en este mismo acto uno en poder de cada\ncontratante.\nFIRMA EMPLEADOR\nRUT 76.580.031-5\nVeterino.\nFIRMA TRABAJADOR\nRUT 19.870.539-K",
+  "label": "Contratos",
+  "score": 1.0,
+  "evidence": [
+    "\\bcontrato de trabajo\\b",
+    "\\bCONTRATO\\b",
+    "\\bempleador\\b",
+    "\\btrabajador\\b",
+    "\\bjornada\\b",
+    "\\bremuneraci[oó]n\\b",
+    "\\bcl[aá]usula\\b"
+  ],
+  "processed_at": "2025-12-24T18:32:07",
+  "classified_at": "2025-12-26T17:28:46"
+}

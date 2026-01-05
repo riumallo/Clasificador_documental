@@ -1,0 +1,13 @@
+{
+  "file": "614_151_46_Cer_1516_0119701689654347.pdf",
+  "text": "--- PAGE 1 ---\nSERVICIO DE REGISTRO\nCIVIL E IDENTIFICACIÓN\nNOMBRE:\nREPUBLICA DE CHILE\nCERTIFICADO DE ANTECEDENTES\nVálido para FINES PARTICULARES\nJOSY ALEXANDRE\nFOLIO: 500503353386\nCódigo Verificación:\n178f97e6d8e0\nR.U.N.:\nRUN\n26.111.309-0 Fecha nacimiento: 19 Marzo 1979\nREGISTRO GENERAL DE CONDENAS\nFINES\n26111309-0 SIN ANTECEDENTES PARTICULARES\nREGISTRO ESPECIAL DE CONDENAS POR ACTOS DE\nVIOLENCIA INTRAFAMILIAR\nRUN\nFINES\n26111309-0 SIN ANOTACIONES PARTICULARES\n500503353386\nFECHA EMISIÓN:\n11 Abril 2023, 10:31.\nCertificado Gratuito\nCERTIFICADO ANTECEDENTES PARA FINES PARTICULARES\nImpreso en:\nREGION\nVerifique documento en www.registrocivil.gob.cl o a nuestro Call Center 600 370 2000, para teléfonos fijos y\ncelulares. La próxima vez, obtén este certificado en www.registrocivil.gob.cl.\nTimbre electrónico SRCel\nIDENTIFICACION\nREGISTRO CIVE\nOficina Internet\nCHILE\namal\nVictor Rebolledo Salas\nJefe de Archivo General\nIncorpora Firma Electrónica\nAvanzada\nwww.registrocivil.gob.cl",
+  "label": "Certificados",
+  "score": 0.38461538461538464,
+  "evidence": [
+    "\\bcertificado\\b",
+    "\\bcertificado antecedentes\\b",
+    "\\bcertificado de antecedentes\\b"
+  ],
+  "processed_at": "2025-12-24T17:29:54",
+  "classified_at": "2025-12-26T17:28:45"
+}

@@ -1,0 +1,12 @@
+{
+  "file": "618_151_46_Seg_1527_0119701689655255.pdf",
+  "text": "--- PAGE 1 ---\nSEGURO OBLIGATORIO COVID\nRut:\nASOCIACION DE\nASEGURADORES\nDE CHILE A.G.\nLa persona aquí individualizada está asegurada contra los riesgos de salud y\nfallecimiento por Covid 19, de acuerdo con lo establecido en la Ley N° 21342 con la\npóliza BP6588363 incorporada en el Depósito de Pólizas de la Comisión para el\nMercado Financiero bajo el código POL: 320210063.\n26.252.359-4\nNombre:\nLEON AVRILL\nCompañía Aseguradora: BCI GENERALES\nFecha inicio póliza:\n19-01-2022 12:00:00\nFecha término póliza:\n19-01-2023 11:59:59\nCódigo de consulta:\n4427322990003859\nFecha de consulta:\n07-06-2022 10:29:01\n\n--- PAGE 2 ---\nMilsterin de\nSalud\nGoberno de Chi\nNombre:\nCAMPAÑA VACUNACIÓN COVID-19\nYO ME VACUNO\nLeon. Avril.\nFecha 1 vacunación:\n29.06.202\nFecha 2º vacunación:\nLugar de vacunación:\nTipo de vacuna:\nHoscal\nCANSINO\nMinisterio de\nSalud\nCAMPAÑA VACUNACIÓN COVID-19\n#YO ME VACUNO\nNombre: leon Aval\nR.U.N.:\n26. 252. 379-4\nFecha vacunación de refuerzo:\nLugar de vacunación:\nTipo de vacuna:\nLote:\n0+/12/21\nHos cal\nPRZER\n713202\nPASE DIGITAL DE VACUNACIÓN DE CHILE\nChile's Digital Vaccination Pass\nCampaña SARS-CoV-2\nApelidos/Last Name:\nAVRIL\nNombres/First and Middle Name\nLEON\nN' de Documento /Document ID:\nRUN 26.252.359-4\nFecha de Nacimiento/Date of Birth\n16/03/1983\nEsquema: CanSino\ndosis\nSOLO USO\nNACIONAL\nEsseneando este GR su verifica\net estado del Pase do Movilidad",
+  "label": "comprobantes",
+  "score": 0.2,
+  "evidence": [
+    "\\bseguro\\b",
+    "\\bseguro obligatorio\\b"
+  ],
+  "processed_at": "2025-12-24T17:45:47",
+  "classified_at": "2025-12-26T17:28:45"
+}

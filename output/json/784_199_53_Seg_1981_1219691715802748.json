@@ -1,0 +1,12 @@
+{
+  "file": "784_199_53_Seg_1981_1219691715802748.pdf",
+  "text": "SEGURO OBLIGATORIO COVID\nLa persona aquí individualizada está asegurada contra los riesgos de salud y \nfallecimiento por Covid 19, de acuerdo con lo establecido en la Ley N° 21342 con la \npóliza 71527994 incorporada en el Depósito de Pólizas de la Comisión para el \nMercado Financiero bajo el código POL: 320210063.\n  Rut:\n19.439.784-4\n  Nombre:\nANGELA ODETTE QUI                                 \n  Compañía Aseguradora:\nCHUBB SEGUROS DE VIDA CHILE S.A.   \n  Fecha inicio póliza:\n10-08-2021 00:00:00\nFecha término póliza:\n10-08-2022 00:00:00\n  Código de consulta:\n4505046990008484\nFecha de consulta:\n05-12-2022 11:10:54",
+  "label": "comprobantes",
+  "score": 0.2,
+  "evidence": [
+    "\\bseguro\\b",
+    "\\bseguro obligatorio\\b"
+  ],
+  "processed_at": "2025-12-24T18:31:49",
+  "classified_at": "2025-12-26T17:28:46"
+}
